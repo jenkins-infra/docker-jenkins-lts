@@ -1,0 +1,36 @@
+---
+name: latest-lts
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Update
+        id: update
+        uses: docker://garethjevans/jv:0.0.3
+        with:
+          entrypoint: jv
+          args: get --version-identifier latest --github-action-output
+
+      - name: Process Version
+        id: process
+        run: |
+          SUFFIX=lts-jdk11
+          FULL_VERSION=jenkins/jenkins:${{ steps.update.outputs.jenkins_version }}-${SUFFIX}
+          echo $FULL_VERSION
+          sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
+          signoff: false
+          title: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'

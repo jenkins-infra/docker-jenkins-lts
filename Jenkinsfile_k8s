@@ -1,0 +1,1 @@
+buildDockerAndPublishImage('jenkins-lts', [mainBranch: 'main'])  
