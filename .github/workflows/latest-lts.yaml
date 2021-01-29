@@ -17,7 +17,7 @@ jobs:
         uses: docker://garethjevans/jv:0.0.3
         with:
           entrypoint: jv
-          args: get --version-identifier latest --github-action-output
+          args: get --version-identifier lts --github-action-output
 
       - name: Process Version
         id: process
