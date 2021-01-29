@@ -1,0 +1,27 @@
+---
+name: update
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Update
+        uses: docker://garethjevans/uc:0.0.8
+        with:
+          entrypoint: uc
+          args: update --determine-version-from-dockerfile --display-updates -w
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: 'chore(deps): update plugins'
+          signoff: false
+          title: 'chore(deps): update plugins'
