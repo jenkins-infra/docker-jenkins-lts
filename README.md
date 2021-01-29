@@ -13,6 +13,6 @@ uc update --determine-version-from-docker-file --display-updates -w
 ```
 VERSION=$(jv get --version-identifier lts)
 SUFFIX=lts-jdk11
-FULL_VERSION=jenkins/jenkins:${{ steps.update.outputs.jenkins_version }}-${SUFFIX}
+FULL_VERSION=jenkins/jenkins:${VERSION}-${SUFFIX}
 sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
 ```
