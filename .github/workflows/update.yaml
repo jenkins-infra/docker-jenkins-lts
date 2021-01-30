@@ -25,3 +25,4 @@ jobs:
           commit-message: 'chore(deps): update plugins'
           signoff: false
           title: 'chore(deps): update plugins'
+          branch: update-plugins
