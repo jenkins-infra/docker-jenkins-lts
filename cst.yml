@@ -16,6 +16,3 @@ fileExistenceTests:
   - name: 'default plugin - configuration-as-code'
     path: '/usr/share/jenkins/ref/plugins/configuration-as-code.jpi'
     shouldExist: true
-  - name: 'tekton-client'
-    path: '/usr/share/jenkins/ref/plugins/tekton-client.jpi'
-    shouldExist: true
