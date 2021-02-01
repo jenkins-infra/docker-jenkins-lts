@@ -1,4 +1,4 @@
-ansicolor:0.7.4
+ansicolor:0.7.5
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 azure-container-agents:1.2.0
@@ -61,7 +61,7 @@ pipeline-build-step:2.13
 pipeline-github:2.7
 pipeline-graph-analysis:1.10
 pipeline-input-step:2.12
-pipeline-milestone-step:1.3.1
+pipeline-milestone-step:1.3.2
 pipeline-model-api:1.7.2
 pipeline-model-definition:1.7.2
 pipeline-model-extensions:1.7.2
@@ -78,7 +78,6 @@ script-security:1.75
 ssh-agent:1.20
 ssh-credentials:1.18.1
 support-core:2.72
-tekton-client:experimental
 timestamper:1.11.8
 token-macro:2.13
 toolenv:1.2
