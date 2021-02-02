@@ -37,6 +37,7 @@ embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.5.2
 git-client:3.6.0
+git-forensics:0.9.1
 github:1.32.0
 github-api:1.222
 github-autostatus:3.6.2
