@@ -38,10 +38,10 @@ extended-read-permission:3.2
 git:4.6.0
 git-client:3.6.0
 git-forensics:0.9.2
-github:1.33.0
+github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
-github-branch-source:2.9.5
+github-branch-source:2.9.6
 github-checks:1.0.10
 github-label-filter:1.0.0
 groovy:2.3
