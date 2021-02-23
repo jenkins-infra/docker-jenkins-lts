@@ -12,12 +12,11 @@ jobs:
       - name: Check out source code
         uses: actions/checkout@v2
 
-      - name: Update
+      - name: Jenkins LTS version
         id: update
-        uses: docker://garethjevans/jv:0.0.3
+        uses: garethjevans/jenkins-version@0.1.0
         with:
-          entrypoint: jv
-          args: get --version-identifier lts --github-action-output
+          version-identifier: lts
 
       - name: Process Version
         id: process
@@ -34,4 +33,4 @@ jobs:
           commit-message: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
           title: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
-          branch: latest-lts  
+          branch: latest-lts
