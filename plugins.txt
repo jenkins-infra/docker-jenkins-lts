@@ -50,7 +50,7 @@ javadoc:1.6
 jira:3.2
 job-dsl:1.77
 junit:1.48
-kubernetes:1.29.0
+kubernetes:1.29.1
 kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.16
 ldap:1.26
@@ -83,7 +83,7 @@ timestamper:1.11.8
 token-macro:2.13
 toolenv:1.2
 variant:1.4
-warnings-ng:8.9.1
+warnings-ng:8.9.2
 workflow-aggregator:2.6
 workflow-api:2.41
 workflow-basic-steps:2.23
