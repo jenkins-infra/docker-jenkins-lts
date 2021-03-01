@@ -37,7 +37,7 @@ embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.6.0
 git-client:3.6.0
-git-forensics:0.9.2
+git-forensics:1.0.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
@@ -83,7 +83,7 @@ timestamper:1.11.8
 token-macro:2.13
 toolenv:1.2
 variant:1.4
-warnings-ng:8.9.2
+warnings-ng:8.10.0
 workflow-aggregator:2.6
 workflow-api:2.41
 workflow-basic-steps:2.23
