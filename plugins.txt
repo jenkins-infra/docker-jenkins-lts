@@ -51,7 +51,7 @@ javadoc:1.6
 jira:3.2
 job-dsl:1.77
 junit:1.48
-kubernetes:1.29.1
+kubernetes:1.29.2
 kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.16
 ldap:1.26
