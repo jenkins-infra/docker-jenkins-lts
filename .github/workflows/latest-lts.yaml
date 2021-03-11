@@ -30,7 +30,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
+          commit-message: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
-          title: 'chore(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
+          title: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           branch: latest-lts
