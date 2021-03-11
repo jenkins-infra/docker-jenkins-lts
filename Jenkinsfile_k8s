@@ -1,6 +1,6 @@
 buildDockerAndPublishImage('jenkins-lts', [
     mainBranch: 'main',
     automaticSemanticVersioning: true,
-    gitCredentials: 'github-app-infra',
+    gitCredentials: 'github-access-token',
     metadataFromSh: 'cat Dockerfile | grep "FROM jenkins" | sed "s|FROM jenkins/jenkins:|+|" | sed "s|-lts-jdk11||"'
-])  
+])
