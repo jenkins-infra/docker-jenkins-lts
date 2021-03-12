@@ -26,6 +26,21 @@ jobs:
           echo $FULL_VERSION
           sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
 
+      - name:
+        id: diff
+        run: |
+          git diff
+
+          if [[ $(git diff --stat) != '' ]]; then
+            echo "::set-output name=changed::true"
+          else
+            echo "::set-output name=changed::false"
+          fi
+
+      - name: Update
+        if: ${{ steps.diff.outputs.changed }}
+        uses: garethjevans/uc@0.0.15
+
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v3
