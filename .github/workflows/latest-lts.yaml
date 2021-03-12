@@ -26,7 +26,7 @@ jobs:
           echo $FULL_VERSION
           sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
 
-      - name:
+      - name: Calculate Diff
         id: diff
         run: |
           git diff
@@ -38,7 +38,7 @@ jobs:
           fi
 
       - name: Update
-        if: ${{ steps.diff.outputs.changed }}
+        if: ${{ steps.diff.outputs.changed == 'true' }}
         uses: garethjevans/uc@0.0.15
 
       - name: Create Pull Request
