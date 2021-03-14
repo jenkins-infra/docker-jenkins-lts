@@ -80,7 +80,7 @@ script-security:1.76
 ssh-agent:1.21
 ssh-credentials:1.18.1
 support-core:2.72.1
-timestamper:1.11.8
+timestamper:1.12
 token-macro:2.15
 toolenv:1.2
 variant:1.4
