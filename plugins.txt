@@ -53,7 +53,7 @@ job-dsl:1.77
 junit:1.49
 kubernetes:1.29.2
 kubernetes-credentials:0.8.0
-kubernetes-credentials-provider:0.16
+kubernetes-credentials-provider:0.17
 ldap:2.4
 lockable-resources:2.10
 matrix-auth:2.6.6
@@ -73,7 +73,7 @@ pipeline-stage-tags-metadata:1.8.4
 pipeline-stage-view:2.19
 pipeline-utility-steps:2.6.1
 plain-credentials:1.7
-prometheus:2.0.8
+prometheus:2.0.9
 scm-api:2.6.4
 scm-filter-branch-pr:0.5.1
 script-security:1.76
