@@ -26,7 +26,7 @@ blueocean-rest-impl:1.24.5
 blueocean-web:1.24.5
 branch-api:2.6.3
 build-name-setter:2.1.0
-cloud-stats:0.26
+cloud-stats:0.27
 cloudbees-jenkins-advisor:3.2.4
 config-file-provider:3.7.0
 configuration-as-code:1.47
@@ -71,7 +71,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.8.4
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.6.1
+pipeline-utility-steps:2.7.0
 plain-credentials:1.7
 prometheus:2.0.9
 scm-api:2.6.4
