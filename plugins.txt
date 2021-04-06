@@ -44,7 +44,7 @@ github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
 github-branch-source:2.10.2
-github-checks:1.0.11
+github-checks:1.0.12
 github-label-filter:1.0.0
 groovy:2.3
 inline-pipeline:1.0.1
@@ -55,7 +55,7 @@ junit:1.49
 kubernetes:1.29.2
 kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.18-1
-ldap:2.4
+ldap:2.5
 lockable-resources:2.10
 matrix-auth:2.6.6
 matrix-project:1.18
