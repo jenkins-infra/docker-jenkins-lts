@@ -78,7 +78,7 @@ prometheus:2.0.9
 scm-api:2.6.4
 scm-filter-branch-pr:0.5.1
 script-security:1.76
-ssh-agent:1.22
+ssh-agent:1.21
 ssh-credentials:1.18.1
 support-core:2.72.1
 timestamper:1.12
