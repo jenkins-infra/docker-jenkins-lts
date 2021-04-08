@@ -39,7 +39,7 @@ jobs:
 
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
-        uses: garethjevans/uc@0.0.15
+        uses: garethjevans/uc@0.1.0
 
       - name: Create Pull Request
         id: cpr
