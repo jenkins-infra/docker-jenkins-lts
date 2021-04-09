@@ -1,8 +1,8 @@
 ansicolor:0.7.5
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
-azure-container-agents:1.2.2
-azure-vm-agents:1.5.3
+azure-container-agents:201.v2afdce22b4cf
+azure-vm-agents:768.vb8b0d31eef4f
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.5
 blueocean-autofavorite:1.2.4
@@ -80,7 +80,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1.76
 ssh-agent:1.21 # noupdate
 ssh-credentials:1.18.1
-support-core:2.72.1
+support-core:2.73
 timestamper:1.12
 token-macro:2.15
 toolenv:1.2
