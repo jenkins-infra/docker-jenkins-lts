@@ -74,7 +74,7 @@ pipeline-stage-tags-metadata:1.8.4
 pipeline-stage-view:2.19
 pipeline-utility-steps:2.7.1
 plain-credentials:1.7
-prometheus:2.0.9
+prometheus:2.0.10
 scm-api:2.6.4
 scm-filter-branch-pr:0.5.1
 script-security:1.76
