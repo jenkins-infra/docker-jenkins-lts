@@ -31,10 +31,10 @@ cloudbees-jenkins-advisor:3.2.4
 command-launcher:1.5
 config-file-provider:3.7.0
 configuration-as-code:1.47
-credentials:2.3.17
+credentials:2.3.18
 credentials-binding:1.24
 datadog:2.10.0
-ec2:1.56
+ec2:1.57
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.7.1
