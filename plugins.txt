@@ -29,7 +29,7 @@ build-name-setter:2.1.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.2.5
 command-launcher:1.5
-config-file-provider:3.7.1
+config-file-provider:3.7.2
 configuration-as-code:1.47
 credentials:2.3.18
 credentials-binding:1.24
@@ -52,7 +52,7 @@ javadoc:1.6
 jira:3.2.1
 job-dsl:1.77
 junit:1.49
-kubernetes:1.29.3
+kubernetes:1.29.4
 kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.18-1
 ldap:2.6
