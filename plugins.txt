@@ -1,8 +1,8 @@
 ansicolor:0.7.5
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
-azure-container-agents:201.v2afdce22b4cf
-azure-vm-agents:774.v0cee503baa25
+azure-container-agents:207.v3ad9931bf69e
+azure-vm-agents:779.v5ea1414ec40f
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.6
 blueocean-autofavorite:1.2.4
@@ -28,10 +28,10 @@ branch-api:2.6.4
 build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.0
-command-launcher:1.5
+command-launcher:1.6
 config-file-provider:3.8.0
-configuration-as-code:1.50
-credentials:2.3.18
+configuration-as-code:1.51
+credentials:2.3.19
 credentials-binding:1.24
 datadog:2.11.0
 ec2:1.58
@@ -43,7 +43,7 @@ git-forensics:1.0.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
-github-branch-source:2.10.2
+github-branch-source:2.10.4
 github-checks:1.0.12
 github-label-filter:1.0.0
 groovy:2.3
@@ -81,11 +81,11 @@ script-security:1.76
 ssh-agent:1.21 # noupdate
 ssh-credentials:1.18.1
 support-core:2.73
-timestamper:1.12
+timestamper:1.13
 token-macro:2.15
 toolenv:1.2
 variant:1.4
-warnings-ng:9.0.1
+warnings-ng:9.1.0
 workflow-aggregator:2.6
 workflow-api:2.42
 workflow-basic-steps:2.23
