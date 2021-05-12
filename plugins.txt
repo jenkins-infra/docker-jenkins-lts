@@ -49,7 +49,7 @@ github-label-filter:1.0.0
 groovy:2.3
 inline-pipeline:1.0.1
 javadoc:1.6
-jira:3.2.1
+jira:3.3
 job-dsl:1.77
 junit:1.49
 kubernetes:1.29.4
@@ -89,7 +89,7 @@ warnings-ng:9.1.0
 workflow-aggregator:2.6
 workflow-api:2.42
 workflow-basic-steps:2.23
-workflow-cps:2.90
+workflow-cps:2.91
 workflow-cps-global-lib:2.19
 workflow-durable-task-step:2.38
 workflow-job:2.40
