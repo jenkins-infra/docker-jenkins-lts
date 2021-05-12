@@ -31,7 +31,7 @@ cloudbees-jenkins-advisor:3.3.0
 command-launcher:1.6
 config-file-provider:3.8.0
 configuration-as-code:1.51
-credentials:2.3.19
+credentials:2.4.1
 credentials-binding:1.24
 datadog:2.11.0
 ec2:1.58
