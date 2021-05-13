@@ -15,7 +15,7 @@ jobs:
       - name: Update
         uses: jenkins-infra/uc@0.1.1
 
-      - uses: tibdex/github-app-token@v1
+      - uses: tibdex/github-app-token@v1.3
         id: generate-token
         with:
           app_id: ${{ secrets.JENKINS_ADMIN_APP_ID }}
