@@ -57,7 +57,7 @@ kubernetes-credentials:0.8.0
 kubernetes-credentials-provider:0.18-1
 ldap:2.6
 lockable-resources:2.10
-matrix-auth:2.6.6
+matrix-auth:2.6.7
 matrix-project:1.18
 metrics:4.0.2.7
 pipeline-build-step:2.13
@@ -89,9 +89,9 @@ warnings-ng:9.1.0
 workflow-aggregator:2.6
 workflow-api:2.42
 workflow-basic-steps:2.23
-workflow-cps:2.91
+workflow-cps:2.92
 workflow-cps-global-lib:2.19
-workflow-durable-task-step:2.38
+workflow-durable-task-step:2.39
 workflow-job:2.40
 workflow-multibranch:2.23
 workflow-scm-step:2.12
