@@ -1,4 +1,4 @@
-ansicolor:0.7.5
+ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 azure-container-agents:207.v3ad9931bf69e
