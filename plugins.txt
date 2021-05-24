@@ -2,7 +2,7 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 azure-container-agents:207.v3ad9931bf69e
-azure-vm-agents:779.v5ea1414ec40f
+azure-vm-agents:780.v50d067d02f76
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.7
 blueocean-autofavorite:1.2.4
@@ -53,7 +53,7 @@ jira:3.3
 job-dsl:1.77
 junit:1.49
 kubernetes:1.29.5
-kubernetes-credentials:0.8.0
+kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.18-1
 ldap:2.7
 lockable-resources:2.10
