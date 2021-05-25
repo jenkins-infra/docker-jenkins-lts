@@ -60,6 +60,7 @@ lockable-resources:2.10
 matrix-auth:2.6.7
 matrix-project:1.18
 metrics:4.0.2.7
+opentelemetry:0.13
 pipeline-build-step:2.13
 pipeline-github:2.7
 pipeline-graph-analysis:1.10
