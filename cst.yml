@@ -16,3 +16,6 @@ fileExistenceTests:
   - name: 'default plugin - configuration-as-code'
     path: '/usr/share/jenkins/ref/plugins/configuration-as-code.jpi'
     shouldExist: true
+  - name: 'OpenTelemetry Plugin'
+    path: '/usr/share/jenkins/ref/plugins/opentelemetry.jpi'
+    shouldExist: true
