@@ -46,7 +46,7 @@ github-autostatus:3.6.2
 github-branch-source:2.10.4
 github-checks:1.0.12
 github-label-filter:1.0.0
-groovy:2.3
+groovy:2.4
 inline-pipeline:1.0.1
 javadoc:1.6
 jira:3.3
