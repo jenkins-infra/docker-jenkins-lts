@@ -1,7 +1,7 @@
 ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
-azure-container-agents:207.v3ad9931bf69e
+azure-container-agents:208.vffdfea2d978d
 azure-vm-agents:780.v50d067d02f76
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.7
@@ -33,7 +33,7 @@ config-file-provider:3.8.0
 configuration-as-code:1.51
 credentials:2.4.1
 credentials-binding:1.24
-datadog:2.11.0
+datadog:2.12.0
 ec2:1.59
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
@@ -56,7 +56,7 @@ kubernetes:1.29.6
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.18-1
 ldap:2.7
-lockable-resources:2.10
+lockable-resources:2.11
 matrix-auth:2.6.7
 matrix-project:1.18
 metrics:4.0.2.7
