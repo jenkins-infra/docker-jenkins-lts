@@ -58,7 +58,7 @@ kubernetes-credentials-provider:0.18-1
 ldap:2.7
 lockable-resources:2.11
 matrix-auth:2.6.7
-matrix-project:1.18
+matrix-project:1.19
 metrics:4.0.2.7
 opentelemetry:0.13
 pipeline-build-step:2.13
@@ -80,7 +80,7 @@ scm-api:2.6.4
 scm-filter-branch-pr:0.5.1
 script-security:1.77
 ssh-agent:1.21 # noupdate
-ssh-credentials:1.18.1
+ssh-credentials:1.19
 support-core:2.74
 timestamper:1.13
 token-macro:2.15
