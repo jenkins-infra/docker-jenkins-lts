@@ -1,7 +1,20 @@
-buildDockerAndPublishImage('jenkins-lts', [
-    mainBranch: 'main',
-    automaticSemanticVersioning: true,
-    nextVersionCommand: 'jx-release-version -next-version=semantic:strip-prerelease',
-    gitCredentials: 'github-app-infra',
-    metadataFromSh: 'cat Dockerfile | grep "FROM jenkins" | sed "s|FROM jenkins/jenkins:|-|" | sed "s|-lts-jdk11||"'
-])
+// From https://issues.jenkins.io/browse/JENKINS-51454?focusedCommentId=389893&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-389893
+retry(3) {
+    try {
+        timeout(time: 30, unit: 'MINUTES') {
+            buildDockerAndPublishImage('jenkins-lts', [
+                mainBranch: 'main',
+                automaticSemanticVersioning: true,
+                gitCredentials: 'github-app-infra',
+                nextVersionCommand: 'jx-release-version -next-version=semantic:strip-prerelease',
+                metadataFromSh: 'cat Dockerfile | grep "FROM jenkins" | sed "s|FROM jenkins/jenkins:|-|" | sed "s|-jdk11||"'
+            ])
+        }
+    } catch(org.jenkinsci.plugins.workflow.steps.FlowInterruptedException ex){
+        def causes = ex.causes
+        if(causes.find { ! (it instanceof org.jenkinsci.plugins.workflow.steps.TimeoutStepExecution$ExceededTimeout) }) {
+            throw ex
+        }
+    throw new RuntimeException(ex)
+    }
+}
