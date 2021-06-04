@@ -34,7 +34,7 @@ configuration-as-code:1.51
 credentials:2.5
 credentials-binding:1.25
 datadog:2.12.0
-ec2:1.60
+ec2:1.60.1
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.7.2
