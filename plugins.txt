@@ -2,7 +2,7 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 azure-container-agents:208.vffdfea2d978d
-azure-vm-agents:780.v50d067d02f76
+azure-vm-agents:781.v5877a4d99d28
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.7
 blueocean-autofavorite:1.2.4
@@ -43,7 +43,7 @@ git-forensics:1.0.0
 github:1.33.1
 github-api:1.222
 github-autostatus:3.6.2
-github-branch-source:2.10.4
+github-branch-source:2.11.1
 github-checks:1.0.12
 github-label-filter:1.0.0
 groovy:2.4
@@ -66,12 +66,12 @@ pipeline-github:2.7
 pipeline-graph-analysis:1.11
 pipeline-input-step:2.12
 pipeline-milestone-step:1.3.2
-pipeline-model-api:1.8.4
-pipeline-model-definition:1.8.4
-pipeline-model-extensions:1.8.4
+pipeline-model-api:1.8.5
+pipeline-model-definition:1.8.5
+pipeline-model-extensions:1.8.5
 pipeline-rest-api:2.19
 pipeline-stage-step:2.5
-pipeline-stage-tags-metadata:1.8.4
+pipeline-stage-tags-metadata:1.8.5
 pipeline-stage-view:2.19
 pipeline-utility-steps:2.8.0
 plain-credentials:1.7
