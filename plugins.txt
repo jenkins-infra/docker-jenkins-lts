@@ -34,7 +34,7 @@ configuration-as-code:1.51
 credentials:2.5
 credentials-binding:1.25
 datadog:2.13.0
-ec2:1.61
+ec2:1.62
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.7.2
@@ -60,7 +60,7 @@ lockable-resources:2.11
 matrix-auth:2.6.7
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:0.14
+opentelemetry:0.15
 pipeline-build-step:2.13
 pipeline-github:2.7
 pipeline-graph-analysis:1.11
@@ -91,10 +91,10 @@ workflow-aggregator:2.6
 workflow-api:2.45
 workflow-basic-steps:2.23
 workflow-cps:2.92
-workflow-cps-global-lib:2.19
+workflow-cps-global-lib:2.20
 workflow-durable-task-step:2.39
 workflow-job:2.41
-workflow-multibranch:2.24
+workflow-multibranch:2.26
 workflow-scm-step:2.13
 workflow-step-api:2.23
 workflow-support:3.8
