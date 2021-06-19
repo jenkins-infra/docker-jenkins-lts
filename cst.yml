@@ -16,6 +16,15 @@ fileExistenceTests:
   - name: 'default plugin - configuration-as-code'
     path: '/usr/share/jenkins/ref/plugins/configuration-as-code.jpi'
     shouldExist: true
+  - name: 'EC2 Agents'
+    path: '/usr/share/jenkins/ref/plugins/ec2.jpi'
+    shouldExist: true
+  - name: 'Azure VM Agents'
+    path: '/usr/share/jenkins/ref/plugins/azure-vm-agents.jpi'
+    shouldExist: true
+  - name: 'Azure Container Agents'
+    path: '/usr/share/jenkins/ref/plugins/azure-container-agents.jpi'
+    shouldExist: true
   - name: 'OpenTelemetry Plugin'
     path: '/usr/share/jenkins/ref/plugins/opentelemetry.jpi'
     shouldExist: true
