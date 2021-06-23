@@ -85,12 +85,12 @@ timestamper:1.13
 token-macro:2.15
 toolenv:1.2
 variant:1.4
-warnings-ng:9.2.0
+warnings-ng:9.2.1
 workflow-aggregator:2.6
 workflow-api:2.45
 workflow-basic-steps:2.23
 workflow-cps:2.92
-workflow-cps-global-lib:2.20
+workflow-cps-global-lib:2.21
 workflow-durable-task-step:2.39
 workflow-job:2.41
 workflow-multibranch:2.26
