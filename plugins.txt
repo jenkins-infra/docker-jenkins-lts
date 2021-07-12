@@ -29,7 +29,7 @@ build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.1
 command-launcher:1.6
-config-file-provider:3.8.0
+config-file-provider:3.8.1
 configuration-as-code:1.51
 credentials:2.5
 credentials-binding:1.26
@@ -59,7 +59,7 @@ lockable-resources:2.11
 matrix-auth:2.6.7
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:0.15
+opentelemetry:0.16
 pipeline-build-step:2.13
 pipeline-github:2.7
 pipeline-graph-analysis:1.11
