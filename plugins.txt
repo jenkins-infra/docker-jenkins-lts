@@ -24,7 +24,7 @@ blueocean-pipeline-scm-api:1.24.7
 blueocean-rest:1.24.7
 blueocean-rest-impl:1.24.7
 blueocean-web:1.24.7
-branch-api:2.6.4
+branch-api:2.6.5
 build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.1
