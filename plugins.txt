@@ -43,7 +43,7 @@ git-forensics:1.1.0
 github:1.33.1
 github-autostatus:3.6.2
 github-branch-source:2.11.1
-github-checks:1.0.12
+github-checks:1.0.13
 github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
@@ -59,8 +59,8 @@ lockable-resources:2.11
 matrix-auth:2.6.7
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:0.16
-pipeline-build-step:2.13
+opentelemetry:0.17
+pipeline-build-step:2.14
 pipeline-github:2.7
 pipeline-graph-analysis:1.11
 pipeline-input-step:2.12
@@ -85,11 +85,11 @@ timestamper:1.13
 token-macro:2.15
 toolenv:1.2
 variant:1.4
-warnings-ng:9.3.0
+warnings-ng:9.4.0
 workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.23
-workflow-cps:2.92
+workflow-cps:2.93
 workflow-cps-global-lib:2.21
 workflow-durable-task-step:2.39
 workflow-job:2.41
