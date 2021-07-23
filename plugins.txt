@@ -42,7 +42,7 @@ git-client:3.8.0
 git-forensics:1.1.0
 github:1.33.1
 github-autostatus:3.6.2
-github-branch-source:2.11.1
+github-branch-source:2.11.2
 github-checks:1.0.13
 github-label-filter:1.0.0
 groovy:2.4
