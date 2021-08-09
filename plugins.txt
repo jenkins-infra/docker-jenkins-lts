@@ -33,7 +33,7 @@ config-file-provider:3.8.1
 configuration-as-code:1.51
 credentials:2.5
 credentials-binding:1.27
-datadog:3.1.0
+datadog:3.1.1
 ec2:1.63
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
@@ -85,7 +85,7 @@ timestamper:1.13
 token-macro:266.v44a80cf277fd
 toolenv:1.2
 variant:1.4
-warnings-ng:9.4.0
+warnings-ng:9.5.0
 workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.23
