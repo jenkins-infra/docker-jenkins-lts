@@ -30,7 +30,7 @@ cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.1
 command-launcher:1.6
 config-file-provider:3.8.1
-configuration-as-code:1.51
+configuration-as-code:1.52
 credentials:2.5
 credentials-binding:1.27
 datadog:3.1.1
