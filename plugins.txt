@@ -59,7 +59,7 @@ lockable-resources:2.11
 matrix-auth:2.6.8
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:0.18
+opentelemetry:0.19
 pipeline-build-step:2.15
 pipeline-github:2.7
 pipeline-graph-analysis:1.11
@@ -72,7 +72,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.9.1
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.8.0
+pipeline-utility-steps:2.9.0
 plain-credentials:1.7
 prometheus:2.0.10
 scm-api:2.6.5
