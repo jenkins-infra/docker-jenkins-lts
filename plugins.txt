@@ -72,7 +72,7 @@ pipeline-rest-api:2.19
 pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.9.1
 pipeline-stage-view:2.19
-pipeline-utility-steps:2.9.0
+pipeline-utility-steps:2.10.0
 plain-credentials:1.7
 prometheus:2.0.10
 scm-api:2.6.5
