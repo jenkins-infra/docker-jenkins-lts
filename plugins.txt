@@ -31,7 +31,7 @@ cloudbees-jenkins-advisor:3.3.1
 command-launcher:1.6
 config-file-provider:3.8.1
 configuration-as-code:1.52
-credentials:2.5
+credentials:2.6.1
 credentials-binding:1.27
 datadog:3.1.2
 ec2:1.63
@@ -50,7 +50,7 @@ inline-pipeline:1.0.1
 javadoc:1.6
 jira:3.5
 job-dsl:1.77
-junit:1.52
+junit:1.53
 kubernetes:1.30.1
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
