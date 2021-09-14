@@ -2,7 +2,7 @@ ansicolor:1.0.0
 antisamy-markup-formatter:2.1
 authentication-tokens:1.4
 azure-container-agents:210.v8071dd1c9f3f
-azure-vm-agents:783.v58077630847d
+azure-vm-agents:789.va0c40e4d0070
 basic-branch-build-strategies:1.3.2
 blueocean:1.24.8
 blueocean-autofavorite:1.2.4
@@ -27,10 +27,10 @@ blueocean-web:1.24.8
 branch-api:2.6.5
 build-name-setter:2.2.0
 cloud-stats:0.27
-cloudbees-jenkins-advisor:3.3.1
+cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.8.1
-configuration-as-code:1.52
+configuration-as-code:1.53
 credentials:2.6.1
 credentials-binding:1.27
 datadog:3.1.2
@@ -48,7 +48,7 @@ github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
 javadoc:1.6
-jira:3.5
+jira:3.6
 job-dsl:1.77
 junit:1.53
 kubernetes:1.30.1
@@ -59,9 +59,9 @@ lockable-resources:2.11
 matrix-auth:2.6.8
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:0.19
+opentelemetry:0.20
 pipeline-build-step:2.15
-pipeline-github:2.7
+pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:1.11
 pipeline-input-step:2.12
 pipeline-milestone-step:1.3.2
@@ -89,7 +89,7 @@ warnings-ng:9.5.0
 workflow-aggregator:2.6
 workflow-api:2.46
 workflow-basic-steps:2.24
-workflow-cps:2.93
+workflow-cps:2.94
 workflow-cps-global-lib:2.21
 workflow-durable-task-step:2.39
 workflow-job:2.41
