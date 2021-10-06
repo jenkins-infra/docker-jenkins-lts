@@ -37,7 +37,7 @@ datadog:3.2.0
 ec2:1.65
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
-git:4.8.2
+git:4.8.3
 git-client:3.10.0
 git-forensics:1.2.1
 github:1.34.1
