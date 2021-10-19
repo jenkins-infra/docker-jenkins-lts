@@ -51,11 +51,11 @@ javadoc:1.6
 jira:3.6
 job-dsl:1.77
 junit:1.53
-kubernetes:1.30.4
+kubernetes:1.30.5
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
-lockable-resources:2.11
+lockable-resources:2.12
 matrix-auth:2.6.8
 matrix-project:1.19
 metrics:4.0.2.8
