@@ -33,7 +33,7 @@ config-file-provider:3.8.1
 configuration-as-code:1.54
 credentials:2.6.1
 credentials-binding:1.27
-datadog:3.2.0
+datadog:3.3.0
 ec2:1.66
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
