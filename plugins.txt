@@ -89,8 +89,8 @@ warnings-ng:9.6.0
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
-workflow-cps:2.94
-workflow-cps-global-lib:2.21
+workflow-cps:2633.v6baeedc13805
+workflow-cps-global-lib:545.v7b28cce323cf
 workflow-durable-task-step:2.40
 workflow-job:2.42
 workflow-multibranch:2.26
