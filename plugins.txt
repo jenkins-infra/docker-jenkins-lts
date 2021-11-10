@@ -1,4 +1,4 @@
-ansicolor:1.0.0
+ansicolor:1.0.1
 antisamy-markup-formatter:2.4
 authentication-tokens:1.4
 azure-container-agents:210.v8071dd1c9f3f
@@ -51,7 +51,7 @@ javadoc:1.6
 jira:3.6
 job-dsl:1.78.1
 junit:1.53
-kubernetes:1.30.6
+kubernetes:1.30.7
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
@@ -85,7 +85,7 @@ timestamper:1.13
 token-macro:267.vcdaea6462991
 toolenv:1.2
 variant:1.4
-warnings-ng:9.6.0
+warnings-ng:9.7.0
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
