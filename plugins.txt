@@ -51,7 +51,7 @@ javadoc:1.6
 jira:3.6
 job-dsl:1.78.1
 junit:1.53
-kubernetes:1.30.7
+kubernetes:1.30.8
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
@@ -80,7 +80,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1.78
 ssh-agent:1.21 # noupdate
 ssh-credentials:1.19
-support-core:2.77
+support-core:2.78
 timestamper:1.13
 token-macro:267.vcdaea6462991
 toolenv:1.2
@@ -90,7 +90,7 @@ workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
 workflow-cps:2633.v6baeedc13805
-workflow-cps-global-lib:545.v7b28cce323cf
+workflow-cps-global-lib:548.v9085a486966a
 workflow-durable-task-step:2.40
 workflow-job:2.42
 workflow-multibranch:2.26
