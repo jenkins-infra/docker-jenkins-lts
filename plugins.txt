@@ -1,5 +1,5 @@
 ansicolor:1.0.1
-antisamy-markup-formatter:2.4
+antisamy-markup-formatter:2.5
 authentication-tokens:1.4
 azure-container-agents:210.v8071dd1c9f3f
 azure-vm-agents:799.va4c741108611
@@ -81,7 +81,7 @@ script-security:1.78
 ssh-agent:1.21 # noupdate
 ssh-credentials:1.19
 support-core:2.78
-timestamper:1.13
+timestamper:1.14
 token-macro:267.vcdaea6462991
 toolenv:1.2
 variant:1.4
