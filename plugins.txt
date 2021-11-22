@@ -29,7 +29,7 @@ build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
-config-file-provider:3.8.1
+config-file-provider:3.8.2
 configuration-as-code:1.54
 credentials:2.6.1
 credentials-binding:1.27
