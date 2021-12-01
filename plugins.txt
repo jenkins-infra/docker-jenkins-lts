@@ -31,7 +31,7 @@ cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.8.2
 configuration-as-code:1.54
-credentials:2.6.1
+credentials:2.6.2
 credentials-binding:1.27
 datadog:3.3.0
 ec2:1.66
@@ -85,7 +85,7 @@ timestamper:1.15
 token-macro:267.vcdaea6462991
 toolenv:1.2
 variant:1.4
-warnings-ng:9.8.0
+warnings-ng:9.9.0
 workflow-aggregator:2.6
 workflow-api:2.47
 workflow-basic-steps:2.24
