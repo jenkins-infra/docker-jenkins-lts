@@ -1,5 +1,5 @@
 ansicolor:1.0.1
-antisamy-markup-formatter:2.5
+antisamy-markup-formatter:2.6
 authentication-tokens:1.4
 azure-container-agents:215.v9ca34d6f145b
 azure-vm-agents:799.va4c741108611
@@ -69,7 +69,7 @@ pipeline-model-api:1.9.3
 pipeline-model-definition:1.9.3
 pipeline-model-extensions:1.9.3
 pipeline-rest-api:2.20
-pipeline-stage-step:2.5
+pipeline-stage-step:291.vf0a8a7aeeb50
 pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.20
 pipeline-utility-steps:2.11.0
