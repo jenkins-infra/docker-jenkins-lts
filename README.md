@@ -6,7 +6,7 @@ a docker image containing the latest jenkins lts release and plugins
 ## Updating Plugins
 
 ```
-uc update --determine-version-from-docker-file --display-updates -w
+uc update --determine-version-from-dockerfile --display-updates -w
 ```
 
 ## Update Jenkins Version
