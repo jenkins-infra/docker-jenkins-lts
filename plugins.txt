@@ -33,6 +33,7 @@ config-file-provider:3.8.2
 configuration-as-code:1.55
 credentials:2.6.2
 credentials-binding:1.27
+dark-theme:155.v497c78bbdbb3
 datadog:3.4.0
 ec2:1.66
 embeddable-build-status:2.0.3
