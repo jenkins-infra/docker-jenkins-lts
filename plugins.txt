@@ -31,10 +31,10 @@ cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.8.2
 configuration-as-code:1.55
-credentials:1055.v1346ba467ba1
+credentials:1061.vb_1fceb_58fa_18
 credentials-binding:1.27
 dark-theme:155.v497c78bbdbb3
-datadog:3.4.0
+datadog:3.4.1
 ec2:1.66
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
@@ -60,7 +60,7 @@ lockable-resources:2.13
 matrix-auth:3.0
 matrix-project:1.19
 metrics:4.0.2.8
-opentelemetry:1.1.0
+opentelemetry:1.2.0-rc2
 pipeline-build-step:2.15
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:188.v3a01e7973f2c
@@ -94,7 +94,7 @@ workflow-cps:2648.va9433432b33c
 workflow-cps-global-lib:552.vd9cc05b8a2e1
 workflow-durable-task-step:1112.vda00e6febcc1
 workflow-job:1145.v7f2433caa07f
-workflow-multibranch:696.v52535c46f4c9
+workflow-multibranch:704.v8f039a_e2e8cf
 workflow-scm-step:2.13
-workflow-step-api:615.vb09dac339255
+workflow-step-api:622.vb_8e7c15b_c95a_
 workflow-support:804.vba10a18a1476
