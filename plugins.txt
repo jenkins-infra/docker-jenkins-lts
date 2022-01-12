@@ -1,5 +1,5 @@
 ansicolor:1.0.1
-antisamy-markup-formatter:2.6
+antisamy-markup-formatter:2.7
 authentication-tokens:1.4
 azure-container-agents:219.vc24a7acc8873
 azure-vm-agents:799.va4c741108611
@@ -30,9 +30,9 @@ cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.8.2
-configuration-as-code:1.55
+configuration-as-code:1.55.1
 credentials:1074.v60e6c29b_b_44b_
-credentials-binding:1.27
+credentials-binding:1.27.1
 dark-theme:155.v497c78bbdbb3
 datadog:3.4.1
 ec2:1.66
@@ -52,14 +52,14 @@ javadoc:1.6
 jira:3.6
 job-dsl:1.78.3
 junit:1.53
-kubernetes:1.31.2
+kubernetes:1.31.3
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
 lockable-resources:2.13
 matrix-auth:3.0
-matrix-project:1.19
-metrics:4.0.2.8
+matrix-project:1.20
+metrics:4.0.2.8.1
 opentelemetry:1.2.0
 pipeline-build-step:2.15
 pipeline-github:2.8-138.d766e30bb08b
@@ -86,7 +86,7 @@ timestamper:1.16
 token-macro:267.vcdaea6462991
 toolenv:1.2
 variant:1.4
-warnings-ng:9.10.2
+warnings-ng:9.10.3
 workflow-aggregator:2.6
 workflow-api:1108.v57edf648f5d4
 workflow-basic-steps:2.24
@@ -97,4 +97,4 @@ workflow-job:1145.v7f2433caa07f
 workflow-multibranch:706.vd43c65dec013
 workflow-scm-step:2.13
 workflow-step-api:622.vb_8e7c15b_c95a_
-workflow-support:804.vba10a18a1476
+workflow-support:813.vb_d7c3d2984a_0
