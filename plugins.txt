@@ -1,7 +1,7 @@
 ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 authentication-tokens:1.4
-azure-container-agents:219.vc24a7acc8873
+azure-container-agents:220.v02fd99997b1a
 azure-vm-agents:799.va4c741108611
 basic-branch-build-strategies:1.3.2
 blueocean:1.25.2
