@@ -57,7 +57,7 @@ kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
 lockable-resources:2.13
-matrix-auth:3.0
+matrix-auth:3.0.1
 matrix-project:1.20
 metrics:4.0.2.8.1
 opentelemetry:1.2.1
@@ -74,7 +74,7 @@ pipeline-stage-step:291.vf0a8a7aeeb50
 pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.20
 pipeline-utility-steps:2.12.0
-plain-credentials:1.7
+plain-credentials:1.8
 prometheus:2.0.10
 scm-api:595.vd5a_df5eb_0e39
 scm-filter-branch-pr:0.5.1
