@@ -30,7 +30,7 @@ cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.8.2
-configuration-as-code:1.55.1
+configuration-as-code:1346.ve8cfa_3473c94
 credentials:1074.v60e6c29b_b_44b_
 credentials-binding:1.27.1
 dark-theme:155.v497c78bbdbb3
