@@ -2,7 +2,7 @@ ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 authentication-tokens:1.4
 azure-container-agents:222.va22f04771da0
-azure-vm-agents:799.va4c741108611
+azure-vm-agents:805.v424cc2981d7a
 basic-branch-build-strategies:1.3.2
 blueocean:1.25.2
 blueocean-autofavorite:1.2.4
@@ -29,7 +29,7 @@ build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
-config-file-provider:3.8.2
+config-file-provider:3.9.0
 configuration-as-code:1346.ve8cfa_3473c94
 credentials:1074.v60e6c29b_b_44b_
 credentials-binding:1.27.1
@@ -56,7 +56,7 @@ kubernetes:1.31.3
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.7
-lockable-resources:2.13
+lockable-resources:2.14
 matrix-auth:3.0.1
 matrix-project:1.20
 metrics:4.0.2.8.1
@@ -83,7 +83,7 @@ ssh-agent:1.24.1
 ssh-credentials:1.19
 support-core:2.79
 timestamper:1.17
-token-macro:267.vcdaea6462991
+token-macro:270.v8c2ce50dc4fc
 toolenv:1.2
 variant:1.4
 warnings-ng:9.11.0
