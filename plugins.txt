@@ -48,7 +48,7 @@ github-checks:1.0.16
 github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
-javadoc:1.6
+javadoc:217.v905b_86277a_2a_
 jira:3.6
 job-dsl:1.78.3
 junit:1.54
