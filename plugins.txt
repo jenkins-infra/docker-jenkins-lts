@@ -5,7 +5,7 @@ azure-container-agents:222.va22f04771da0
 azure-vm-agents:805.v424cc2981d7a
 basic-branch-build-strategies:1.3.2
 blueocean:1.25.2
-blueocean-autofavorite:1.2.4
+blueocean-autofavorite:1.2.5
 blueocean-commons:1.25.2
 blueocean-config:1.25.2
 blueocean-core-js:1.25.2
@@ -65,7 +65,7 @@ pipeline-build-step:2.15
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:188.v3a01e7973f2c
 pipeline-input-step:446.vf27b_0b_83500e
-pipeline-milestone-step:1.3.2
+pipeline-milestone-step:100.v60a_03cd446e1
 pipeline-model-api:1.9.3
 pipeline-model-definition:1.9.3
 pipeline-model-extensions:1.9.3
