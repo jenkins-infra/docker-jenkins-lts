@@ -1,7 +1,7 @@
 # docker-jenkins-lts
 
 
-a docker image containing the latest jenkins lts release and plugins
+a docker image containing the latest jenkins lts release and plugins, published here: https://hub.docker.com/r/jenkinsciinfra/jenkins-lts
 
 ## Updating Plugins
 
