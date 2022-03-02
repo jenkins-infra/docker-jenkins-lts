@@ -3,11 +3,9 @@ retry(3) {
     try {
         timeout(time: 30, unit: 'MINUTES') {
             buildDockerAndPublishImage('jenkins-lts', [
-                mainBranch: 'main',
                 automaticSemanticVersioning: true,
                 gitCredentials: 'github-app-infra',
-                nextVersionCommand: 'jx-release-version -next-version=semantic:strip-prerelease',
-                metadataFromSh: 'cat Dockerfile | grep "FROM jenkins" | sed "s|FROM jenkins/jenkins:|-|" | sed "s|-jdk11||"'
+                nextVersionCommand: 'echo "$(jx-release-version -next-version=semantic:strip-prerelease)-$(grep "FROM jenkins" Dockerfile | cut -d: -f2 | cut -d- -f1)"',
             ])
         }
     } catch(org.jenkinsci.plugins.workflow.steps.FlowInterruptedException ex){
