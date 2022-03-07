@@ -41,7 +41,7 @@ extended-read-permission:3.2
 git:4.10.3
 git-client:3.11.0
 git-forensics:1.4.0
-github:1.34.2
+github:1.34.3
 github-autostatus:3.6.2
 github-branch-source:2.11.4
 github-checks:1.0.18
@@ -60,7 +60,7 @@ lockable-resources:2.14
 matrix-auth:3.1
 matrix-project:1.20
 metrics:4.1.6.1
-opentelemetry:2.0.1
+opentelemetry:2.1.0-rc3
 pipeline-build-step:2.16
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:188.v3a01e7973f2c
@@ -75,7 +75,7 @@ pipeline-stage-tags-metadata:1.9.3
 pipeline-stage-view:2.23
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
-prometheus:2.0.10
+prometheus:2.0.11
 scm-api:595.vd5a_df5eb_0e39
 scm-filter-branch-pr:0.5.1
 script-security:1138.v8e727069a_025
