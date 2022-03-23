@@ -2,7 +2,7 @@ ansicolor:1.0.1
 antisamy-markup-formatter:2.7
 authentication-tokens:1.4
 azure-container-agents:234.v495633ea_6725
-azure-vm-agents:808.v9d1999587120
+azure-vm-agents:810.v0a97a847315a
 basic-branch-build-strategies:1.3.2
 blueocean:1.25.3
 blueocean-autofavorite:1.2.5
@@ -60,7 +60,7 @@ lockable-resources:2.14
 matrix-auth:3.1
 matrix-project:758.v7a_ea_491852f3
 metrics:4.1.6.1
-opentelemetry:2.3.0-rc1
+opentelemetry:2.3.0
 pipeline-build-step:2.16
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:188.v3a01e7973f2c
