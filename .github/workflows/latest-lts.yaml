@@ -50,7 +50,7 @@ jobs:
 
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v3.14.0
+        uses: peter-evans/create-pull-request@v4
         with:
           commit-message: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
