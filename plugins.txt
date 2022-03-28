@@ -34,7 +34,7 @@ configuration-as-code:1414.v878271fc496f
 credentials:1087.v16065d268466
 credentials-binding:1.27.1
 dark-theme:156.v6cf16af6f9ef
-datadog:3.5.0
+datadog:3.5.1
 ec2:1.68
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
