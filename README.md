@@ -1,13 +1,14 @@
 # docker-jenkins-lts
 
-
-a docker image containing the latest jenkins lts release and plugins, published here: https://hub.docker.com/r/jenkinsciinfra/jenkins-lts
+a docker image containing the latest jenkins lts release and plugins used by the Jenkins infrastructure, published here: https://hub.docker.com/r/jenkinsciinfra/jenkins-lts
 
 ## Updating Plugins
 
 ```
-uc update --determine-version-from-dockerfile --display-updates -w
+bash ./bin/update-plugins.sh
 ```
+
+This script uses the [Jenkins Plugin Manager Tool command line](https://github.com/jenkinsci/plugin-installation-manager-tool) under the hood to update the plugins.
 
 ## Update Jenkins Version
 
