@@ -1,5 +1,5 @@
 ---
-name: update
+name: Update plugins
 
 on:
   schedule:
@@ -12,9 +12,14 @@ jobs:
     steps:
       - name: Check out source code
         uses: actions/checkout@v3
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: 11
 
-      - name: Update
-        uses: jenkins-infra/uc@0.1.4
+      - run: ./bin/update-plugins.sh
+        name: Update plugins
 
       - uses: tibdex/github-app-token@v1.5
         id: generate-token
@@ -29,5 +34,7 @@ jobs:
           commit-message: 'chore(deps): update plugins'
           signoff: false
           title: 'chore(deps): update plugins'
+          author: jenkins-infrastructure-admin <83065101+jenkins-infrastructure-admin[bot]@users.noreply.github.com>
+          committer: jenkins-infrastructure-admin <83065101+jenkins-infrastructure-admin[bot]@users.noreply.github.com>
           branch: update-plugins
           token: ${{ steps.generate-token.outputs.token }}
