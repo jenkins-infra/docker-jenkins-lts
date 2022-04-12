@@ -31,7 +31,7 @@ cloudbees-jenkins-advisor:3.3.2
 command-launcher:1.6
 config-file-provider:3.9.0
 configuration-as-code:1414.v878271fc496f
-credentials:1087.v16065d268466
+credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:1.27.1
 dark-theme:156.v6cf16af6f9ef
 datadog:3.5.1
@@ -49,7 +49,7 @@ github-label-filter:1.0.0
 groovy:2.4
 inline-pipeline:1.0.1
 javadoc:217.v905b_86277a_2a_
-jira:3.7
+jira:3.7.1
 job-dsl:1.78.3
 junit:1.58
 kubernetes:3580.v78271e5631dc
@@ -61,10 +61,10 @@ matrix-auth:3.1
 matrix-project:758.v7a_ea_491852f3
 metrics:4.1.6.1
 opentelemetry:2.3.0
-pipeline-build-step:2.16
+pipeline-build-step:2.17
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:188.v3a01e7973f2c
-pipeline-input-step:446.vf27b_0b_83500e
+pipeline-input-step:447.v95e5a_6e3502a_
 pipeline-milestone-step:100.v60a_03cd446e1
 pipeline-model-api:2.2075.vce74e77b_ce40
 pipeline-model-definition:2.2075.vce74e77b_ce40
@@ -91,7 +91,7 @@ workflow-aggregator:2.7
 workflow-api:1143.v2d42f1e9dea_5
 workflow-basic-steps:941.vdfe1b_a_132c64
 workflow-cps:2686.v7c37e0578401
-workflow-cps-global-lib:564.ve62a_4eb_b_e039
+workflow-cps-global-lib:566.vd0a_a_3334a_555
 workflow-durable-task-step:1128.v8c259d125340
 workflow-job:1174.vdcb_d054cf74a_
 workflow-multibranch:711.vdfef37cda_816
