@@ -18,7 +18,7 @@ jobs:
           distribution: 'temurin'
           java-version: 11
 
-      - run: ./bin/update-plugins-docker.sh
+      - run: ./bin/update-plugins.sh
         name: Update plugins
 
       - uses: tibdex/github-app-token@v1.5
