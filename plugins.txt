@@ -76,7 +76,7 @@ pipeline-stage-view:2.23
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
 prometheus:2.0.11
-scm-api:595.vd5a_df5eb_0e39
+scm-api:602.v6a_81757a_31d2
 scm-filter-branch-pr:0.5.1
 script-security:1145.vb_cf6cf6ed960
 ssh-agent:1.24.1
@@ -86,7 +86,7 @@ timestamper:1.17
 token-macro:285.vff7645a_56ff0
 toolenv:1.2
 variant:1.4
-warnings-ng:9.11.1
+warnings-ng:9.12.0
 workflow-aggregator:2.7
 workflow-api:1143.v2d42f1e9dea_5
 workflow-basic-steps:941.vdfe1b_a_132c64
