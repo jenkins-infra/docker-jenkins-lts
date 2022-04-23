@@ -34,7 +34,7 @@ configuration-as-code:1429.v09b_044a_c93de
 credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:156.v6cf16af6f9ef
-datadog:3.5.1
+datadog:3.5.2
 ec2:1.68
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
@@ -55,13 +55,13 @@ junit:1.60
 kubernetes:3580.v78271e5631dc
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
-ldap:2.8
+ldap:2.9
 lockable-resources:2.14
 matrix-auth:3.1.1
 matrix-project:758.v7a_ea_491852f3
 metrics:4.1.6.2
 opentelemetry:2.3.0
-pipeline-build-step:2.17
+pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
 pipeline-input-step:448.v37cea_9a_10a_70
@@ -78,7 +78,7 @@ plain-credentials:1.8
 prometheus:2.0.11
 scm-api:602.v6a_81757a_31d2
 scm-filter-branch-pr:0.5.1
-script-security:1146.vdf547f19a_473
+script-security:1158.v7c1b_73a_69a_08
 ssh-agent:1.24.1
 ssh-credentials:1.19
 support-core:1158.v9189f64fec8c
@@ -93,8 +93,8 @@ workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2687.v3f09155513c1
 workflow-cps-global-lib:570.v21311f4951f8
 workflow-durable-task-step:1130.v8fd69d0b_8857
-workflow-job:1174.vdcb_d054cf74a_
+workflow-job:1180.v04c4e75dce43
 workflow-multibranch:712.vc169a_1387405
-workflow-scm-step:2.13
+workflow-scm-step:399.v9b_8f4da_65061
 workflow-step-api:625.vd896b_f445a_f8
 workflow-support:819.v37d707a_71d9b_
