@@ -24,7 +24,7 @@ blueocean-pipeline-scm-api:1.25.3
 blueocean-rest:1.25.3
 blueocean-rest-impl:1.25.3
 blueocean-web:1.25.3
-branch-api:2.1045.v4ec3ed07b_e4f
+branch-api:2.1046.v0ca_37783ecc5
 build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
@@ -38,7 +38,7 @@ datadog:3.5.2
 ec2:1.68
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
-git:4.11.0
+git:4.11.1
 git-client:3.11.0
 git-forensics:1.7.0
 github:1.34.3
@@ -69,10 +69,10 @@ pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2077.vc78ec45162f1
 pipeline-model-definition:2.2077.vc78ec45162f1
 pipeline-model-extensions:2.2077.vc78ec45162f1
-pipeline-rest-api:2.23
+pipeline-rest-api:2.24
 pipeline-stage-step:293.v200037eefcd5
 pipeline-stage-tags-metadata:2.2077.vc78ec45162f1
-pipeline-stage-view:2.23
+pipeline-stage-view:2.24
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
 prometheus:2.0.11
@@ -81,7 +81,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1158.v7c1b_73a_69a_08
 ssh-agent:1.24.1
 ssh-credentials:1.19
-support-core:1158.v9189f64fec8c
+support-core:1162.vb_b_e5198c6b_22
 timestamper:1.17
 token-macro:293.v283932a_0a_b_49
 toolenv:1.2
