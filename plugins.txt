@@ -34,7 +34,7 @@ configuration-as-code:1429.v09b_044a_c93de
 credentials:1087.1089.v2f1b_9a_b_040e4
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:156.v6cf16af6f9ef
-datadog:3.5.2
+datadog:4.0.0
 ec2:1.68
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
@@ -60,7 +60,7 @@ lockable-resources:2.14
 matrix-auth:3.1.1
 matrix-project:758.v7a_ea_491852f3
 metrics:4.1.6.2
-opentelemetry:2.3.0
+opentelemetry:2.4.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
