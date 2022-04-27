@@ -76,7 +76,7 @@ pipeline-stage-view:2.24
 pipeline-utility-steps:2.12.0
 plain-credentials:1.8
 prometheus:2.0.11
-scm-api:602.v6a_81757a_31d2
+scm-api:608.vfa_f971c5a_a_e9
 scm-filter-branch-pr:0.5.1
 script-security:1158.v7c1b_73a_69a_08
 ssh-agent:1.24.1
@@ -90,7 +90,7 @@ warnings-ng:9.12.0
 workflow-aggregator:2.7
 workflow-api:1144.v61c3180fa_03f
 workflow-basic-steps:948.v2c72a_091b_b_68
-workflow-cps:2688.v39a_b_e5c49a_65
+workflow-cps:2689.v434009a_31b_f1
 workflow-cps-global-lib:570.v21311f4951f8
 workflow-durable-task-step:1130.v8fd69d0b_8857
 workflow-job:1180.v04c4e75dce43
