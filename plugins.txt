@@ -58,9 +58,9 @@ kubernetes-credentials-provider:0.20
 ldap:2.9
 lockable-resources:2.14
 matrix-auth:3.1.1
-matrix-project:758.v7a_ea_491852f3
+matrix-project:771.v574584b_39e60
 metrics:4.1.6.2
-opentelemetry:2.4.0
+opentelemetry:2.5.1
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
