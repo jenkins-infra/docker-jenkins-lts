@@ -28,7 +28,7 @@ branch-api:2.1046.v0ca_37783ecc5
 build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
-command-launcher:1.6
+command-launcher:81.v9c2cb_cb_db_392
 config-file-provider:3.9.0
 configuration-as-code:1429.v09b_044a_c93de
 credentials:1087.1089.v2f1b_9a_b_040e4
@@ -73,7 +73,7 @@ pipeline-rest-api:2.24
 pipeline-stage-step:293.v200037eefcd5
 pipeline-stage-tags-metadata:2.2077.vc78ec45162f1
 pipeline-stage-view:2.24
-pipeline-utility-steps:2.12.0
+pipeline-utility-steps:2.12.1
 plain-credentials:1.8
 prometheus:2.0.11
 scm-api:608.vfa_f971c5a_a_e9
