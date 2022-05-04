@@ -43,7 +43,7 @@ git-client:3.11.0
 git-forensics:1.7.0
 github:1.34.3
 github-autostatus:3.6.2
-github-branch-source:1598.v91207e9f9b_4a_
+github-branch-source:1599.v9fb_798a_a_7c4f
 github-checks:1.0.18
 github-label-filter:1.0.0
 groovy:2.4
