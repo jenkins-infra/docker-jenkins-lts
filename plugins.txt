@@ -40,7 +40,7 @@ embeddable-build-status:2.0.3
 extended-read-permission:3.2
 git:4.11.1
 git-client:3.11.0
-git-forensics:1.7.0
+git-forensics:1.8.0
 github:1.34.3
 github-autostatus:3.6.2
 github-branch-source:1602.vfe89fe441b_36
@@ -91,10 +91,10 @@ workflow-aggregator:2.7
 workflow-api:1144.v61c3180fa_03f
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2689.v434009a_31b_f1
-workflow-cps-global-lib:570.v21311f4951f8
+workflow-cps-global-lib:575.v24fa_0a_b_f7383
 workflow-durable-task-step:1130.v8fd69d0b_8857
 workflow-job:1180.v04c4e75dce43
 workflow-multibranch:712.vc169a_1387405
-workflow-scm-step:399.v9b_8f4da_65061
+workflow-scm-step:400.v6b_89a_1317c9a_
 workflow-step-api:625.vd896b_f445a_f8
 workflow-support:819.v37d707a_71d9b_
