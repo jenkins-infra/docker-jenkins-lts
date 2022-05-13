@@ -60,7 +60,7 @@ lockable-resources:2.15
 matrix-auth:3.1.2
 matrix-project:771.v574584b_39e60
 metrics:4.1.6.2
-opentelemetry:2.6.0-rc1
+opentelemetry:2.6.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
@@ -91,7 +91,7 @@ workflow-aggregator:2.7
 workflow-api:1153.vb_912c0e47fb_a_
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2689.v434009a_31b_f1
-workflow-cps-global-lib:575.v24fa_0a_b_f7383
+workflow-cps-global-lib:581.ve633085a_8a_87
 workflow-durable-task-step:1139.v252a_e12e8463
 workflow-job:1180.v04c4e75dce43
 workflow-multibranch:712.vc169a_1387405
