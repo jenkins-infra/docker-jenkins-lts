@@ -38,7 +38,7 @@ datadog:4.0.0
 ec2:1.68
 embeddable-build-status:2.0.3
 extended-read-permission:3.2
-git:4.11.2
+git:4.11.3
 git-client:3.11.0
 git-forensics:1.8.0
 github:1.34.3
@@ -81,7 +81,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1172.v35f6a_0b_8207e
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:277.v95c2fec1c047
-support-core:1172.va_1fcf85806d0
+support-core:1174.vc46f6b_04d894
 timestamper:1.17
 token-macro:293.v283932a_0a_b_49
 toolenv:1.2
