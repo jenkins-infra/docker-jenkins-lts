@@ -12,10 +12,10 @@ PM_CLI_DOWNLOAD_URL=$(curl -s 'https://api.github.com/repos/jenkinsci/plugin-ins
 
 TMP_DIR=$(mktemp -d)
 
-wget "${PM_CLI_DOWNLOAD_URL}" -O "${TMP_DIR}/jenkins-plugin-manager.jar"
+wget --no-verbose "${PM_CLI_DOWNLOAD_URL}" -O "${TMP_DIR}/jenkins-plugin-manager.jar"
 
 CURRENT_JENKINS_VERSION=$(head -n 1 ../Dockerfile | cut -d ':' -f 2 | cut -d '-' -f 1)
-wget "https://get.jenkins.io/war-stable/${CURRENT_JENKINS_VERSION}/jenkins.war" -O "${TMP_DIR}/jenkins.war"
+wget --no-verbose "https://get.jenkins.io/war-stable/${CURRENT_JENKINS_VERSION}/jenkins.war" -O "${TMP_DIR}/jenkins.war"
 
 cd ../ || exit 1
 
