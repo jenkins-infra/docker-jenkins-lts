@@ -52,7 +52,7 @@ javadoc:217.v905b_86277a_2a_
 jira:3.7.1
 job-dsl:1.79
 junit:1119.va_a_5e9068da_d7
-kubernetes:3622.va_9dc5592b_10c
+kubernetes:3636.v84b_a_1dea_6240
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.20
 ldap:2.10
