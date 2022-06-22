@@ -31,9 +31,9 @@ cloudbees-jenkins-advisor:3.3.2
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.10.0
 configuration-as-code:1429.v09b_044a_c93de
-credentials:1087.1089.v2f1b_9a_b_040e4
+credentials:1129.vef26f5df883c
 credentials-binding:523.vd859a_4b_122e6
-dark-theme:156.v6cf16af6f9ef
+dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
 ec2:1.68
 embeddable-build-status:2.0.4
