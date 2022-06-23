@@ -36,7 +36,6 @@ credentials-binding:523.vd859a_4b_122e6
 dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
 ec2:1.68
-embeddable-build-status:2.0.4
 extended-read-permission:3.2
 git:4.11.3
 git-client:3.11.0
