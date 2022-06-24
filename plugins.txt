@@ -63,6 +63,7 @@ opentelemetry:2.8.0-rc1
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
+pipeline-groovy-lib:593.va_a_fc25d520e9
 pipeline-input-step:449.v77f0e8b_845c4
 pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2097.v33db_b_de764b_e
@@ -90,7 +91,6 @@ workflow-aggregator:581.v0c46fa_697ffd
 workflow-api:1164.v760c223ddb_32
 workflow-basic-steps:948.v2c72a_091b_b_68
 workflow-cps:2725.v7b_c717eb_12ce
-workflow-cps-global-lib:588.v576c103a_ff86
 workflow-durable-task-step:1146.v1a_d2e603f929
 workflow-job:1186.v8def1a_5f3944
 workflow-multibranch:716.vc692a_e52371b_
