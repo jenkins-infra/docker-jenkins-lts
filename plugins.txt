@@ -46,14 +46,14 @@ github-branch-source:1656.v77eddb_b_e95df
 github-checks:1.0.18
 github-label-filter:1.0.0
 groovy:442.v817e6d937d6c
-inline-pipeline:1.0.1
+inline-pipeline:1.0.2
 javadoc:217.v905b_86277a_2a_
 jira:3.7.1
 job-dsl:1.80
 junit:1119.1121.vc43d0fc45561
 kubernetes:3663.v1c1e0ec5b_650
 kubernetes-credentials:0.9.0
-kubernetes-credentials-provider:0.21
+kubernetes-credentials-provider:0.22
 ldap:2.10
 lockable-resources:2.15
 matrix-auth:3.1.5
@@ -92,7 +92,7 @@ workflow-api:1188.v0016b_4f29881
 workflow-basic-steps:969.vc4ec3e4854b_f
 workflow-cps:2746.v0da_83a_332669
 workflow-durable-task-step:1174.v73a_9a_17edce0
-workflow-job:1206.vc48d96b_930b_2
+workflow-job:1207.ve6191ff089f8
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
 workflow-step-api:625.vd896b_f445a_f8
