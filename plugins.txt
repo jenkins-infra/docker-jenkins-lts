@@ -30,7 +30,7 @@ cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.2
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.10.0
-configuration-as-code:1466.v2d4119502006
+configuration-as-code:1511.vb_f985b_894e40
 credentials:1139.veb_9579fca_33b_
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:185.v276b_5a_8966a_e
@@ -51,7 +51,7 @@ javadoc:217.v905b_86277a_2a_
 jira:3.7.1
 job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
-kubernetes:3663.v1c1e0ec5b_650
+kubernetes:3670.v6ca_059233222
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.22
 ldap:2.10
