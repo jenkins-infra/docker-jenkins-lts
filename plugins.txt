@@ -37,10 +37,10 @@ dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
 ec2:1.68
 extended-read-permission:3.2
-git:4.11.3
-git-client:3.11.0
+git:4.11.4
+git-client:3.11.1
 git-forensics:1.9.0
-github:1.34.4
+github:1.34.5
 github-autostatus:3.6.2
 github-branch-source:1677.v731f745ea_0cf
 github-checks:1.0.18
@@ -54,7 +54,7 @@ junit:1119.1121.vc43d0fc45561
 kubernetes:3670.v6ca_059233222
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:0.22
-ldap:2.10
+ldap:2.11
 lockable-resources:2.16
 matrix-auth:3.1.5
 matrix-project:772.v494f19991984
