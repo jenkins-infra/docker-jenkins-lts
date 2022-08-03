@@ -38,7 +38,7 @@ datadog:4.0.0
 ec2:1.68
 extended-read-permission:3.2
 git:4.11.4
-git-client:3.11.1
+git-client:3.11.2
 git-forensics:1.9.0
 github:1.34.5
 github-autostatus:3.6.2
@@ -53,7 +53,7 @@ job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
 kubernetes:3670.v6ca_059233222
 kubernetes-credentials:0.9.0
-kubernetes-credentials-provider:0.22
+kubernetes-credentials-provider:1.196.va_55f5e31e3c2
 ldap:2.11
 lockable-resources:2.16
 matrix-auth:3.1.5
@@ -63,7 +63,7 @@ opentelemetry:2.9.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-groovy-lib:598.vcd66b_a_336510
+pipeline-groovy-lib:612.v84da_9c54906d
 pipeline-input-step:449.v77f0e8b_845c4
 pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2114.v2654ca_721309
@@ -74,9 +74,9 @@ pipeline-stage-step:293.v200037eefcd5
 pipeline-stage-tags-metadata:2.2114.v2654ca_721309
 pipeline-stage-view:2.24
 pipeline-utility-steps:2.13.0
-plain-credentials:1.8
+plain-credentials:139.ved2b_9cf7587b
 prometheus:2.0.11
-scm-api:616.ve67136f6c77d
+scm-api:620.v0a_5b_1f8054c0
 scm-filter-branch-pr:0.5.1
 script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
@@ -86,14 +86,14 @@ timestamper:1.18
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
 variant:59.vf075fe829ccb
-warnings-ng:9.14.0
+warnings-ng:9.15.0
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1188.v0016b_4f29881
-workflow-basic-steps:980.v82219a_ed188e
+workflow-basic-steps:986.v6b_9c830a_6b_37
 workflow-cps:2759.v87459c4eea_ca_
 workflow-durable-task-step:1199.v02b_9244f8064
 workflow-job:1207.ve6191ff089f8
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
 workflow-step-api:639.v6eca_cd8c04a_a_
-workflow-support:833.va_1c71061486b_
+workflow-support:838.va_3a_087b_4055b
