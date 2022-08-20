@@ -54,12 +54,12 @@ junit:1119.1121.vc43d0fc45561
 kubernetes:3697.v771155683e38
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.196.va_55f5e31e3c2
-ldap:2.11
+ldap:2.12
 lockable-resources:2.16
 matrix-auth:3.1.5
 matrix-project:772.v494f19991984
 metrics:4.2.10-389.v93143621b_050
-opentelemetry:2.9.0
+opentelemetry:2.9.1
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
@@ -81,7 +81,7 @@ scm-filter-branch-pr:0.5.1
 script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:295.vced876c18eb_4
-support-core:1204.v7ee88742a_53f
+support-core:1206.v14049fa_b_d860
 timestamper:1.18
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
