@@ -37,12 +37,12 @@ dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
 ec2:1.68
 extended-read-permission:3.2
-git:4.11.4
+git:4.11.5
 git-client:3.11.2
 git-forensics:1.9.0
 github:1.34.5
 github-autostatus:3.6.2
-github-branch-source:1677.v731f745ea_0cf
+github-branch-source:1687.v7618247e672d
 github-checks:1.0.18
 github-label-filter:1.0.0
 groovy:442.v817e6d937d6c
