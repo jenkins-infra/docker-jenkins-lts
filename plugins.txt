@@ -48,7 +48,7 @@ github-label-filter:1.0.0
 groovy:442.v817e6d937d6c
 inline-pipeline:1.0.2
 javadoc:226.v71211feb_e7e9
-jira:3.7.1
+jira:3.8
 job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
 kubernetes:3697.v771155683e38
