@@ -35,7 +35,7 @@ credentials:1139.veb_9579fca_33b_
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
-ec2:1.68
+ec2:2.0.0
 extended-read-permission:3.2
 git:4.11.5
 git-client:3.11.2
@@ -59,7 +59,7 @@ lockable-resources:2.16
 matrix-auth:3.1.5
 matrix-project:772.v494f19991984
 metrics:4.2.10-389.v93143621b_050
-opentelemetry:2.9.1
+opentelemetry:2.9.2
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
@@ -86,7 +86,7 @@ timestamper:1.18
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
 variant:59.vf075fe829ccb
-warnings-ng:9.18.0
+warnings-ng:9.19.1
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1192.v2d0deb_19d212
 workflow-basic-steps:991.v43d80fea_ff66
