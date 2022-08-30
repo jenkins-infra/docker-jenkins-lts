@@ -31,11 +31,11 @@ cloudbees-jenkins-advisor:3.3.3
 command-launcher:84.v4a_97f2027398
 config-file-provider:3.11.1
 configuration-as-code:1512.vb_79d418d5fc8
-credentials:1139.veb_9579fca_33b_
+credentials:1143.vb_e8b_b_ceee347
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:185.v276b_5a_8966a_e
 datadog:4.0.0
-ec2:2.0.0
+ec2:2.0.1
 extended-read-permission:3.2
 git:4.11.5
 git-client:3.11.2
@@ -51,7 +51,7 @@ javadoc:226.v71211feb_e7e9
 jira:3.8
 job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
-kubernetes:3697.v771155683e38
+kubernetes:3704.va_08f0206b_95e
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.196.va_55f5e31e3c2
 ldap:2.12
@@ -89,7 +89,7 @@ variant:59.vf075fe829ccb
 warnings-ng:9.19.1
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1192.v2d0deb_19d212
-workflow-basic-steps:991.v43d80fea_ff66
+workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:2759.v87459c4eea_ca_
 workflow-durable-task-step:1199.v02b_9244f8064
 workflow-job:1207.ve6191ff089f8
