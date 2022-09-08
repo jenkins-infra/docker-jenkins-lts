@@ -82,7 +82,7 @@ script-security:1175.v4b_d517d6db_f0
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
 support-core:1206.v14049fa_b_d860
-timestamper:1.19
+timestamper:1.20
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
 variant:59.vf075fe829ccb
