@@ -86,7 +86,7 @@ timestamper:1.20
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
 variant:59.vf075fe829ccb
-warnings-ng:9.19.1
+warnings-ng:9.19.2
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1192.v2d0deb_19d212
 workflow-basic-steps:994.vd57e3ca_46d24
