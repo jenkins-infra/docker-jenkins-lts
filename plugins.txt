@@ -28,7 +28,7 @@ branch-api:2.1046.v0ca_37783ecc5
 build-name-setter:2.2.0
 cloud-stats:0.27
 cloudbees-jenkins-advisor:3.3.3
-command-launcher:84.v4a_97f2027398
+command-launcher:90.v669d7ccb_7c31
 config-file-provider:3.11.1
 configuration-as-code:1512.vb_79d418d5fc8
 credentials:1143.vb_e8b_b_ceee347
@@ -37,8 +37,8 @@ dark-theme:245.vb_a_2b_b_010ea_96
 datadog:5.0.0
 ec2:2.0.2
 extended-read-permission:3.2
-git:4.11.5
-git-client:3.11.2
+git:4.12.1
+git-client:3.12.0
 git-forensics:1.9.0
 github:1.35.0
 github-autostatus:3.6.2
@@ -51,7 +51,7 @@ javadoc:226.v71211feb_e7e9
 jira:3.8
 job-dsl:1.81
 junit:1119.1121.vc43d0fc45561
-kubernetes:3704.va_08f0206b_95e
+kubernetes:3706.vdfb_d599579f3
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.196.va_55f5e31e3c2
 ldap:2.12
@@ -78,7 +78,7 @@ plain-credentials:139.ved2b_9cf7587b
 prometheus:2.0.11
 scm-api:621.vda_a_b_055e58f7
 scm-filter-branch-pr:0.5.1
-script-security:1175.v4b_d517d6db_f0
+script-security:1183.v774b_0b_0a_a_451
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
 support-core:1206.v14049fa_b_d860
