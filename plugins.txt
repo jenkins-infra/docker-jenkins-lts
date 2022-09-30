@@ -39,7 +39,7 @@ ec2:2.0.2
 extended-read-permission:3.2
 git:4.12.1
 git-client:3.12.1
-git-forensics:1.10.0
+git-forensics:1.11.0
 github:1.35.0
 github-autostatus:3.6.2
 github-branch-source:1695.v88de84e9f6b_9
@@ -51,7 +51,7 @@ javadoc:226.v71211feb_e7e9
 jira:3.8
 job-dsl:1.81
 junit:1143.v8d9a_e3355270
-kubernetes:3706.vdfb_d599579f3
+kubernetes:3718.ve44878b_12184
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.199.v4a_1d1f5d074f
 ldap:2.12
