@@ -44,7 +44,7 @@ cloudbees-bitbucket-branch-source:791.vb_eea_a_476405b
 cloudbees-folder:6.758.vfd75d09eea_a_1
 cloudbees-jenkins-advisor:3.3.3
 cobertura:1.17
-code-coverage-api:3.1.0
+code-coverage-api:3.2.0
 command-launcher:90.v669d7ccb_7c31
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.9-19.v8df45c678366
@@ -60,7 +60,7 @@ display-url-api:2.3.6
 docker-commons:1.21
 durable-task:500.v8927d9fd99d8
 ec2:2.0.2
-echarts-api:5.3.3-1
+echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
 font-awesome-api:6.2.0-3
@@ -98,7 +98,7 @@ jnr-posix-api:3.1.15-2
 job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1144.v909f4d9978e8
+junit:1150.v5c2848328b_60
 kubernetes:3718.ve44878b_12184
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
