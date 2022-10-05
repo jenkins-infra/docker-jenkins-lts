@@ -54,8 +54,8 @@ copyartifact:1.47
 credentials:1189.vf61b_a_5e2f62e
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:245.vb_a_2b_b_010ea_96
-datadog:5.0.0
 data-tables-api:1.12.1-4
+datadog:5.0.0
 display-url-api:2.3.6
 docker-commons:1.21
 durable-task:500.v8927d9fd99d8
@@ -99,7 +99,7 @@ job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1150.v5c2848328b_60
-kubernetes:3718.ve44878b_12184
+kubernetes:3724.v0920c1e0ec69
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.199.v4a_1d1f5d074f
