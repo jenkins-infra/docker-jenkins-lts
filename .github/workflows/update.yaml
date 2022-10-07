@@ -38,3 +38,4 @@ jobs:
           committer: jenkins-infrastructure-admin <83065101+jenkins-infrastructure-admin[bot]@users.noreply.github.com>
           branch: update-plugins
           token: ${{ steps.generate-token.outputs.token }}
+          labels: dependencies
