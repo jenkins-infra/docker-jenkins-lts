@@ -59,7 +59,7 @@ datadog:5.0.0
 display-url-api:2.3.6
 docker-commons:1.21
 durable-task:501.ve5d4fc08b0be
-ec2:2.0.2
+ec2:2.0.3
 echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
