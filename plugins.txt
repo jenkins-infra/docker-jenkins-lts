@@ -81,7 +81,7 @@ htmlpublisher:1.31
 inline-pipeline:1.0.2
 instance-identity:116.vf8f487400980
 ionicons-api:28.va_f3a_84439e5f
-jackson2-api:2.13.3-285.vc03c0256d517
+jackson2-api:2.13.4-293.vee957901b_6fb
 jacoco:3.3.2
 jakarta-activation-api:2.0.1-2
 jakarta-mail-api:2.0.1-2
@@ -125,10 +125,10 @@ pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2114.v2654ca_721309
 pipeline-model-definition:2.2114.v2654ca_721309
 pipeline-model-extensions:2.2114.v2654ca_721309
-pipeline-rest-api:2.25
+pipeline-rest-api:2.26
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2114.v2654ca_721309
-pipeline-stage-view:2.25
+pipeline-stage-view:2.26
 pipeline-utility-steps:2.13.0
 plain-credentials:139.ved2b_9cf7587b
 plugin-util-api:2.18.0
@@ -155,7 +155,7 @@ variant:59.vf075fe829ccb
 warnings-ng:9.20.1
 windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
-workflow-api:1192.v2d0deb_19d212
+workflow-api:1198.v4596ea_5329b_6
 workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:2802.v5ea_628154b_c2
 workflow-durable-task-step:1199.v02b_9244f8064
