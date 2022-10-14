@@ -98,7 +98,7 @@ jnr-posix-api:3.1.15-2
 job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1150.v5c2848328b_60
+junit:1153.v1c24f1a_d2553
 kubernetes:3724.v0920c1e0ec69
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
