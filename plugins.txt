@@ -49,7 +49,7 @@ command-launcher:90.v669d7ccb_7c31
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-27.vb_fa_3896786a_7
 config-file-provider:3.11.1
-configuration-as-code:1512.vb_79d418d5fc8
+configuration-as-code:1559.v38a_b_2e3b_6b_b_7
 copyartifact:1.47
 credentials:1189.vf61b_a_5e2f62e
 credentials-binding:523.vd859a_4b_122e6
@@ -80,7 +80,7 @@ handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.31
 inline-pipeline:1.0.2
 instance-identity:116.vf8f487400980
-ionicons-api:28.va_f3a_84439e5f
+ionicons-api:31.v4757b_6987003
 jackson2-api:2.13.4-293.vee957901b_6fb
 jacoco:3.3.2
 jakarta-activation-api:2.0.1-2
