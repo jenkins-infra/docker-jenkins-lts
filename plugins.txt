@@ -102,7 +102,7 @@ junit:1153.v1c24f1a_d2553
 kubernetes:3724.v0920c1e0ec69
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
-kubernetes-credentials-provider:1.199.v4a_1d1f5d074f
+kubernetes-credentials-provider:1.201.v11b_14c7a_0772
 ldap:2.12
 lockable-resources:2.18
 mailer:438.v02c7f0a_12fa_4
@@ -118,7 +118,7 @@ opentelemetry:2.9.2
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-graph-view:112.ve8c3fc15e33b
+pipeline-graph-view:115.vccc17fffb_4b_8
 pipeline-groovy-lib:612.v84da_9c54906d
 pipeline-input-step:451.vf1a_a_4f405289
 pipeline-milestone-step:101.vd572fef9d926
