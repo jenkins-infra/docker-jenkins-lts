@@ -7,7 +7,7 @@ authentication-tokens:1.4
 aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.287-357.vf82d85a_6eefd
 aws-java-sdk-minimal:1.12.287-357.vf82d85a_6eefd
-azure-container-agents:241.va_780fa_dc374a_
+azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:242.vb_f9c4fa_6b_2b_6
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
@@ -118,7 +118,7 @@ opentelemetry:2.9.2
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-graph-view:137.v1dc41d9c9758
+pipeline-graph-view:141.v05c71b_1c9b_e3
 pipeline-groovy-lib:613.v9c41a_160233f
 pipeline-input-step:456.vd8a_957db_5b_e9
 pipeline-milestone-step:101.vd572fef9d926
@@ -139,7 +139,7 @@ pubsub-light:1.17
 scm-api:621.vda_a_b_055e58f7
 scm-filter-branch-pr:0.5.1
 script-security:1189.vb_a_b_7c8fd5fde
-snakeyaml-api:1.32-86.ve3f030a_75631
+snakeyaml-api:1.33-90.v80dcb_3814d35
 sse-gateway:1.26
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
@@ -147,7 +147,7 @@ sshd:3.249.v2dc2ea_416e33
 structs:324.va_f5d6774f3a_d
 support-core:1206.v14049fa_b_d860
 theme-manager:1.5
-timestamper:1.20
+timestamper:1.21
 token-macro:308.v4f2b_ed62b_b_16
 toolenv:1.2
 trilead-api:2.72.v2a_3236754f73
