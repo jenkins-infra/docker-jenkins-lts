@@ -1,5 +1,5 @@
 ace-editor:1.1
-analysis-model-api:10.19.0
+analysis-model-api:10.20.0
 ansicolor:1.0.2
 antisamy-markup-formatter:155.v795fb_8702324
 apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
@@ -98,7 +98,7 @@ jnr-posix-api:3.1.15-2
 job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1156.vcf492e95a_a_b_0
+junit:1159.v0b_396e1e07dd
 kubernetes:3734.v562b_b_a_627ea_c
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
@@ -114,11 +114,11 @@ mina-sshd-api-core:2.9.1-44.v476733c11f82
 momentjs:1.1.1
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.9.3-108.v0feda04578cf
-opentelemetry:2.9.2
+opentelemetry:2.10.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
-pipeline-graph-view:141.v05c71b_1c9b_e3
+pipeline-graph-view:143.v33ca_60725f13
 pipeline-groovy-lib:613.v9c41a_160233f
 pipeline-input-step:456.vd8a_957db_5b_e9
 pipeline-milestone-step:101.vd572fef9d926
