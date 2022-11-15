@@ -59,7 +59,7 @@ datadog:5.0.0
 display-url-api:2.3.6
 docker-commons:1.21
 durable-task:501.ve5d4fc08b0be
-ec2:2.0.3
+ec2:2.0.4
 echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
@@ -98,7 +98,7 @@ jnr-posix-api:3.1.15-2
 job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1159.v0b_396e1e07dd
+junit:1160.vf1f01a_a_ea_b_7f
 kubernetes:3734.v562b_b_a_627ea_c
 kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
@@ -129,7 +129,7 @@ pipeline-rest-api:2.27
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.27
-pipeline-utility-steps:2.13.1
+pipeline-utility-steps:2.13.2
 plain-credentials:139.ved2b_9cf7587b
 plugin-util-api:2.18.0
 popper2-api:2.11.6-2
@@ -138,14 +138,14 @@ prometheus:2.0.11
 pubsub-light:1.17
 scm-api:621.vda_a_b_055e58f7
 scm-filter-branch-pr:0.5.1
-script-security:1189.vb_a_b_7c8fd5fde
+script-security:1190.v65867a_a_47126
 snakeyaml-api:1.33-90.v80dcb_3814d35
 sse-gateway:1.26
 ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
 sshd:3.249.v2dc2ea_416e33
 structs:324.va_f5d6774f3a_d
-support-core:1206.v14049fa_b_d860
+support-core:1229.v84a_e1b_3a_1d32
 theme-manager:1.5
 timestamper:1.21
 token-macro:308.v4f2b_ed62b_b_16
