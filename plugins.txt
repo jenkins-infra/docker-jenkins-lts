@@ -44,7 +44,7 @@ cloudbees-bitbucket-branch-source:791.vb_eea_a_476405b
 cloudbees-folder:6.758.vfd75d09eea_a_1
 cloudbees-jenkins-advisor:326.v1821e6a_85e3f
 cobertura:1.17
-code-coverage-api:3.2.0
+code-coverage-api:3.3.0
 command-launcher:90.v669d7ccb_7c31
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-27.vb_fa_3896786a_7
@@ -148,7 +148,7 @@ structs:324.va_f5d6774f3a_d
 support-core:1229.v84a_e1b_3a_1d32
 theme-manager:1.5
 timestamper:1.21
-token-macro:308.v4f2b_ed62b_b_16
+token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 trilead-api:2.72.v2a_3236754f73
 variant:59.vf075fe829ccb
