@@ -63,9 +63,9 @@ ec2:2.0.4
 echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
-font-awesome-api:6.2.0-3
+font-awesome-api:6.2.1-1
 forensics-api:1.16.0
-git:4.13.0
+git:4.14.0
 git-client:3.13.0
 git-forensics:1.11.0
 github:1.36.0
