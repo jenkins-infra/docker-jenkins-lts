@@ -58,7 +58,7 @@ data-tables-api:1.12.1-4
 datadog:5.0.0
 display-url-api:2.3.6
 docker-commons:1.21
-durable-task:501.ve5d4fc08b0be
+durable-task:503.v57154d18d478
 ec2:2.0.4
 echarts-api:5.4.0-1
 extended-read-permission:3.2
@@ -81,7 +81,7 @@ htmlpublisher:1.31
 inline-pipeline:1.0.2
 instance-identity:116.vf8f487400980
 ionicons-api:31.v4757b_6987003
-jackson2-api:2.13.4.20221013-295.v8e29ea_354141
+jackson2-api:2.14.1-313.v504cdd45c18b
 jacoco:3.3.2
 jakarta-activation-api:2.0.1-2
 jakarta-mail-api:2.0.1-2
