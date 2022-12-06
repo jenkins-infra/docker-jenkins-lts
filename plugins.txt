@@ -65,7 +65,7 @@ extended-read-permission:3.2
 favorite:2.4.1
 font-awesome-api:6.2.1-1
 forensics-api:1.16.0
-git:4.14.1
+git:4.14.2
 git-client:3.13.1
 git-forensics:1.11.0
 github:1.36.0
@@ -157,7 +157,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1200.v8005c684b_a_c6
 workflow-basic-steps:994.vd57e3ca_46d24
-workflow-cps:3536.vb_8a_6628079d5
+workflow-cps:3565.v4b_d9b_8c29a_b_3
 workflow-durable-task-step:1217.v38306d8fa_b_5c
 workflow-job:1254.v3f64639b_11dd
 workflow-multibranch:716.vc692a_e52371b_
