@@ -152,7 +152,7 @@ token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
-warnings-ng:9.20.1
+warnings-ng:9.21.0
 windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1200.v8005c684b_a_c6
