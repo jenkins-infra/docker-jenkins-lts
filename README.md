@@ -1,6 +1,6 @@
 # docker-jenkins-lts
 
-[![](https://img.shields.io/docker/pulls/jenkinsciinfra/ldap?label=jenkinsciinfra%2Fjenkins-lts&logo=docker&logoColor=white)](https://hub.docker.com/r/jenkinsciinfra/jenkins-lts)
+[![](https://img.shields.io/docker/pulls/jenkinsciinfra/ldap?label=jenkinsciinfra%2Fjenkins-lts&logo=docker&logoColor=white)](https://hub.docker.com/r/jenkinsciinfra/jenkins-lts/tags)
 
 A docker image containing the latest jenkins lts release and plugins used by the Jenkins infrastructure.
 
