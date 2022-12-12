@@ -56,7 +56,7 @@ credentials-binding:523.vd859a_4b_122e6
 dark-theme:262.v0202a_4c8fb_6a
 data-tables-api:1.12.1-4
 datadog:5.0.0
-display-url-api:2.3.6
+display-url-api:2.3.7
 docker-commons:1.21
 durable-task:503.v57154d18d478
 ec2:2.0.4
@@ -65,7 +65,7 @@ extended-read-permission:3.2
 favorite:2.4.1
 font-awesome-api:6.2.1-1
 forensics-api:1.16.0
-git:4.14.2
+git:4.14.3
 git-client:3.13.1
 git-forensics:1.11.0
 github:1.36.0
