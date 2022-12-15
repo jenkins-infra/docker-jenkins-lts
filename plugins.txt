@@ -55,7 +55,7 @@ credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:262.v0202a_4c8fb_6a
 data-tables-api:1.12.1-4
-datadog:5.0.0
+datadog:5.2.0
 display-url-api:2.3.7
 docker-commons:1.21
 durable-task:503.v57154d18d478
@@ -64,7 +64,7 @@ echarts-api:5.4.0-1
 extended-read-permission:3.2
 favorite:2.4.1
 font-awesome-api:6.2.1-1
-forensics-api:1.16.0
+forensics-api:1.17.0
 git:4.14.3
 git-client:3.13.1
 git-forensics:1.11.0
@@ -136,7 +136,7 @@ popper2-api:2.11.6-2
 prism-api:1.29.0-2
 prometheus:2.0.11
 pubsub-light:1.17
-scm-api:621.vda_a_b_055e58f7
+scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
 script-security:1228.vd93135a_2fb_25
 snakeyaml-api:1.33-90.v80dcb_3814d35
@@ -157,7 +157,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1200.v8005c684b_a_c6
 workflow-basic-steps:994.vd57e3ca_46d24
-workflow-cps:3581.v2b_e4c99c76ed
+workflow-cps:3583.v4f58de0d78d5
 workflow-durable-task-step:1217.v38306d8fa_b_5c
 workflow-job:1254.v3f64639b_11dd
 workflow-multibranch:716.vc692a_e52371b_
