@@ -104,7 +104,7 @@ kubernetes-client-api:5.12.2-193.v26a_6078f65a_9
 kubernetes-credentials:0.9.0
 kubernetes-credentials-provider:1.206.v7ce2cf7b_0c8b
 ldap:2.12
-lockable-resources:1069.v726298f53f8c
+lockable-resources:1102.vde5663d777cf
 mailer:438.v02c7f0a_12fa_4
 matrix-auth:3.1.6
 matrix-project:785.v06b_7f47b_c631
