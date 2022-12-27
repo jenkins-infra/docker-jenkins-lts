@@ -91,7 +91,7 @@ javax-mail-api:1.6.2-8
 jaxb:2.3.7-1
 jdk-tool:63.v62d2fd4b_4793
 jenkins-design-language:1.26.0
-jersey2-api:2.37-1
+jersey2-api:2.38-1
 jira:3.8
 jjwt-api:0.11.5-77.v646c772fddb_0
 jnr-posix-api:3.1.16-1
@@ -119,7 +119,7 @@ pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:195.v5812d95a_a_2f9
 pipeline-graph-view:144.vf3924feb_7e35
-pipeline-groovy-lib:621.vb_44ce045b_582
+pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2118.v31fd5b_9944b_5
@@ -145,7 +145,7 @@ ssh-agent:295.v9ca_a_1c7cc3a_a_
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
-support-core:1229.v84a_e1b_3a_1d32
+support-core:1237.vdd0b_ed646870
 theme-manager:1.6
 timestamper:1.21
 token-macro:321.vd7cc1f2a_52c8
