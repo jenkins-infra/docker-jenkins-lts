@@ -1,5 +1,5 @@
 ace-editor:1.1
-analysis-model-api:10.21.0
+analysis-model-api:10.22.0
 ansicolor:1.0.2
 antisamy-markup-formatter:155.v795fb_8702324
 apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
@@ -34,8 +34,8 @@ blueocean-rest:1.27.0
 blueocean-rest-impl:1.27.0
 blueocean-web:1.27.0
 bootstrap5-api:5.2.1-3
-bouncycastle-api:2.26
-branch-api:2.1051.v9985666b_f6cc
+bouncycastle-api:2.27
+branch-api:2.1071.v1a_188a_562481
 build-name-setter:2.2.0
 caffeine-api:2.9.3-65.v6a_47d0f4d1fe
 checks-api:1.8.1
@@ -125,11 +125,11 @@ pipeline-milestone-step:101.vd572fef9d926
 pipeline-model-api:2.2118.v31fd5b_9944b_5
 pipeline-model-definition:2.2118.v31fd5b_9944b_5
 pipeline-model-extensions:2.2118.v31fd5b_9944b_5
-pipeline-rest-api:2.28
+pipeline-rest-api:2.29
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
-pipeline-stage-view:2.28
-pipeline-utility-steps:2.14.0
+pipeline-stage-view:2.29
+pipeline-utility-steps:2.15.0
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:2.20.0
 popper2-api:2.11.6-2
@@ -158,7 +158,7 @@ workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1200.v8005c684b_a_c6
 workflow-basic-steps:994.vd57e3ca_46d24
 workflow-cps:3601.v9b_36a_d99e1cc
-workflow-durable-task-step:1217.v38306d8fa_b_5c
+workflow-durable-task-step:1223.v7f1a_98a_8863e
 workflow-job:1254.v3f64639b_11dd
 workflow-multibranch:716.vc692a_e52371b_
 workflow-scm-step:400.v6b_89a_1317c9a_
