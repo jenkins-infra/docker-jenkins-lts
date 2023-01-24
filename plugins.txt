@@ -50,7 +50,7 @@ commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-27.vb_fa_3896786a_7
 config-file-provider:3.11.1
 configuration-as-code:1569.vb_72405b_80249
-copyartifact:1.48
+copyartifact:681.va_a_298c7f9c01
 credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:262.v0202a_4c8fb_6a
@@ -125,10 +125,10 @@ pipeline-milestone-step:111.v449306f708b_7
 pipeline-model-api:2.2118.v31fd5b_9944b_5
 pipeline-model-definition:2.2118.v31fd5b_9944b_5
 pipeline-model-extensions:2.2118.v31fd5b_9944b_5
-pipeline-rest-api:2.29
+pipeline-rest-api:2.30
 pipeline-stage-step:296.v5f6908f017a_5
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
-pipeline-stage-view:2.29
+pipeline-stage-view:2.30
 pipeline-utility-steps:2.15.0
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:2.20.0
