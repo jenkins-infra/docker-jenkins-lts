@@ -58,7 +58,7 @@ data-tables-api:1.12.1-4
 datadog:5.2.0
 display-url-api:2.3.7
 docker-commons:1.21
-durable-task:503.v57154d18d478
+durable-task:504.vb10d1ae5ba2f
 ec2:2.0.5
 echarts-api:5.4.0-1
 extended-read-permission:3.2
@@ -102,7 +102,7 @@ junit:1166.va_436e268e972
 kubernetes:3834.vdc85747145e6
 kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
 kubernetes-credentials:0.10.0
-kubernetes-credentials-provider:1.208.v128ee9800c04
+kubernetes-credentials-provider:1.209.v862c6e5fb_1ef
 ldap:659.v8ca_b_a_fe79fa_d
 lockable-resources:1113.vf66761f17f1e
 mailer:438.v02c7f0a_12fa_4
@@ -126,7 +126,7 @@ pipeline-model-api:2.2118.v31fd5b_9944b_5
 pipeline-model-definition:2.2118.v31fd5b_9944b_5
 pipeline-model-extensions:2.2118.v31fd5b_9944b_5
 pipeline-rest-api:2.30
-pipeline-stage-step:296.v5f6908f017a_5
+pipeline-stage-step:305.ve96d0205c1c6
 pipeline-stage-tags-metadata:2.2118.v31fd5b_9944b_5
 pipeline-stage-view:2.30
 pipeline-utility-steps:2.15.0
@@ -138,7 +138,7 @@ prometheus:2.1.1
 pubsub-light:1.17
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
-script-security:1228.vd93135a_2fb_25
+script-security:1229.v4880b_b_e905a_6
 snakeyaml-api:1.33-90.v80dcb_3814d35
 sse-gateway:1.26
 ssh-agent:295.v9ca_a_1c7cc3a_a_
@@ -152,7 +152,7 @@ token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
-warnings-ng:9.22.0
+warnings-ng:9.23.0
 windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
