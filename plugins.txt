@@ -1,5 +1,5 @@
 ace-editor:1.1
-analysis-model-api:10.23.0
+analysis-model-api:10.23.1
 ansicolor:1.0.2
 antisamy-markup-formatter:155.v795fb_8702324
 apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
@@ -53,7 +53,7 @@ configuration-as-code:1569.vb_72405b_80249
 copyartifact:686.v6fd37018d7c2
 credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
-dark-theme:262.v0202a_4c8fb_6a
+dark-theme:297.vb_169690e0348
 data-tables-api:1.12.1-4
 datadog:5.2.0
 display-url-api:2.3.7
@@ -91,7 +91,7 @@ jaxb:2.3.7-1
 jdk-tool:63.v62d2fd4b_4793
 jenkins-design-language:1.27.1
 jersey2-api:2.38-1
-jira:3.8
+jira:3.9
 jjwt-api:0.11.5-77.v646c772fddb_0
 jnr-posix-api:3.1.16-1
 job-dsl:1.81
@@ -150,7 +150,7 @@ token-macro:321.vd7cc1f2a_52c8
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
-warnings-ng:9.23.0
+warnings-ng:9.23.1
 windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
