@@ -7,7 +7,7 @@ aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.397-362.v050e9394cf8e
 aws-java-sdk-minimal:1.12.397-362.v050e9394cf8e
 azure-container-agents:253.vd2f5cd5c5040
-azure-credentials:242.vb_f9c4fa_6b_2b_6
+azure-credentials:252.vd40e833b_3206
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:71.vc1421f89888e
@@ -52,7 +52,7 @@ configuration-as-code:1569.vb_72405b_80249
 copyartifact:686.v6fd37018d7c2
 credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
-dark-theme:297.vb_169690e0348
+dark-theme:302.vf069cb_e01486
 data-tables-api:1.12.1-4
 datadog:5.2.0
 display-url-api:2.3.7
@@ -102,7 +102,7 @@ kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.209.v862c6e5fb_1ef
 ldap:659.v8ca_b_a_fe79fa_d
-lockable-resources:1122.v14c3d52cb_1b_1
+lockable-resources:1123.v4002ee23c671
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.6
 matrix-project:785.v06b_7f47b_c631
