@@ -7,7 +7,7 @@ aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.397-362.v050e9394cf8e
 aws-java-sdk-minimal:1.12.397-362.v050e9394cf8e
 azure-container-agents:253.vd2f5cd5c5040
-azure-credentials:252.vd40e833b_3206
+azure-credentials:253.v887e0f9e898b
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:71.vc1421f89888e
@@ -111,7 +111,7 @@ mina-sshd-api-common:2.9.2-50.va_0e1f42659a_a
 mina-sshd-api-core:2.9.2-50.va_0e1f42659a_a
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.9.3-108.v0feda04578cf
-opentelemetry:2.10.1
+opentelemetry:2.11.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:202.va_d268e64deb_3
@@ -154,7 +154,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:994.vd57e3ca_46d24
-workflow-cps:3611.v201b_d9f9eb_f7
+workflow-cps:3616.vb_2e7168f4b_0c
 workflow-durable-task-step:1223.v7f1a_98a_8863e
 workflow-job:1268.v6eb_e2ee1a_85a
 workflow-multibranch:716.vc692a_e52371b_
