@@ -110,7 +110,7 @@ metrics:4.2.13-420.vea_2f17932dd6
 mina-sshd-api-common:2.9.2-50.va_0e1f42659a_a
 mina-sshd-api-core:2.9.2-50.va_0e1f42659a_a
 node-iterator-api:49.v58a_8b_35f8363
-okhttp-api:4.9.3-108.v0feda04578cf
+okhttp-api:4.10.0-117.vf786fdfa_22c0
 opentelemetry:2.11.0
 pipeline-build-step:2.18
 pipeline-github:2.8-138.d766e30bb08b
