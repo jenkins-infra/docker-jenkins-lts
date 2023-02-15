@@ -4,10 +4,10 @@ antisamy-markup-formatter:155.v795fb_8702324
 apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
 authentication-tokens:1.4
 aws-credentials:191.vcb_f183ce58b_9
-aws-java-sdk-ec2:1.12.397-362.v050e9394cf8e
-aws-java-sdk-minimal:1.12.397-362.v050e9394cf8e
+aws-java-sdk-ec2:1.12.406-370.v8f993c987059
+aws-java-sdk-minimal:1.12.406-370.v8f993c987059
 azure-container-agents:253.vd2f5cd5c5040
-azure-credentials:253.v887e0f9e898b
+azure-credentials:254.v64da_8176c83a
 azure-sdk:118.v43f74dd9ca_dc
 azure-vm-agents:822.v3a18fc3d2de1
 basic-branch-build-strategies:71.vc1421f89888e
@@ -54,7 +54,7 @@ credentials:1214.v1de940103927
 credentials-binding:523.vd859a_4b_122e6
 dark-theme:302.vf069cb_e01486
 data-tables-api:1.12.1-4
-datadog:5.2.0
+datadog:5.3.0
 display-url-api:2.3.7
 docker-commons:1.21
 durable-task:504.vb10d1ae5ba2f
@@ -96,7 +96,7 @@ jnr-posix-api:3.1.16-1
 job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1166.va_436e268e972
+junit:1177.v90374a_ef4d09
 kubernetes:3852.v41ea_166a_ed1b_
 kubernetes-client-api:6.3.1-206.v76d3b_6b_14db_b
 kubernetes-credentials:0.10.0
@@ -112,7 +112,7 @@ mina-sshd-api-core:2.9.2-50.va_0e1f42659a_a
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.10.0-117.vf786fdfa_22c0
 opentelemetry:2.11.0
-pipeline-build-step:2.18
+pipeline-build-step:2.18.1
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:144.vf3924feb_7e35
