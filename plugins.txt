@@ -67,7 +67,7 @@ forensics-api:1.17.0
 git:5.0.0
 git-client:4.1.0
 git-forensics:1.11.0
-github:1.36.1
+github:1.37.0
 github-api:1.303-400.v35c2d8258028
 github-autostatus:3.6.2
 github-branch-source:1701.v00cc8184df93
@@ -115,7 +115,7 @@ opentelemetry:2.11.0
 pipeline-build-step:2.18.1
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:152.v7052a_dd3913e
+pipeline-graph-view:154.v52138b_cb_557e
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
