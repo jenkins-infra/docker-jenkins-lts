@@ -115,7 +115,7 @@ opentelemetry:2.11.0
 pipeline-build-step:2.18.1
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:154.v52138b_cb_557e
+pipeline-graph-view:156.v61fcf9a_7fb_e7
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
