@@ -1,24 +1,19 @@
----
 name: latest-lts
-
 on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
-
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
       - name: Check out source code
         uses: actions/checkout@v3
-
       - name: Jenkins LTS version
         id: update
-        uses: jenkins-infra/jenkins-version@0.3.1
+        uses: jenkins-infra/jenkins-version@f7169071ddca27403a722c13815f6c6c593da62a # 0.3.1
         with:
           version-identifier: lts
-
       - name: Process Version
         id: process
         run: |
@@ -26,7 +21,6 @@ jobs:
           FULL_VERSION=jenkins/jenkins:${{ steps.update.outputs.jenkins_version }}-${SUFFIX}
           echo $FULL_VERSION
           sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
-
       - name: Calculate Diff
         id: diff
         run: |
@@ -37,20 +31,17 @@ jobs:
           else
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
-
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
-        uses: jenkins-infra/uc@0.1.4
-
-      - uses: tibdex/github-app-token@v1.8
+        uses: jenkins-infra/uc@b93acb50d659a87ba7a77e0c4f0bf76842a4332d # 0.1.4
+      - uses: tibdex/github-app-token@b62528385c34dbc9f38e5f4225ac829252d1ea92 # v1.8
         id: generate-token
         with:
           app_id: ${{ secrets.JENKINS_ADMIN_APP_ID }}
           private_key: ${{ secrets.JENKINS_ADMIN_APP_PRIVKEY }}
-
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@2b011faafdcbc9ceb11414d64d0573f37c774b04 # v4
         with:
           commit-message: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
