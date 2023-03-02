@@ -40,7 +40,7 @@ caffeine-api:2.9.3-65.v6a_47d0f4d1fe
 checks-api:1.8.1
 cloud-stats:267.v577e3742c282
 cloudbees-bitbucket-branch-source:796.v6cb_1559e1673
-cloudbees-folder:6.800.v71307ca_b_986b
+cloudbees-folder:6.815.v0dd5a_cb_40e0e
 cloudbees-jenkins-advisor:336.v4d00382fe22c
 cobertura:1.17
 code-coverage-api:3.5.0
@@ -97,8 +97,8 @@ job-dsl:1.81
 jquery3-api:3.6.1-2
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1177.v90374a_ef4d09
-kubernetes:3883.v4d70a_a_a_df034
-kubernetes-client-api:6.4.1-208.vfe09a_9362c2c
+kubernetes:3893.v73d36f3b_9103
+kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.209.v862c6e5fb_1ef
 ldap:659.v8ca_b_a_fe79fa_d
@@ -154,9 +154,9 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:590.v6a_d052e5a_a_b_5
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
-workflow-cps:3618.v13db_a_21f0fcf
+workflow-cps:3624.v43b_a_38b_62b_b_7
 workflow-durable-task-step:1234.v019404b_3832a
-workflow-job:1268.v6eb_e2ee1a_85a
+workflow-job:1282.ve6d865025906
 workflow-multibranch:733.v109046189126
 workflow-scm-step:400.v6b_89a_1317c9a_
 workflow-step-api:639.v6eca_cd8c04a_a_
