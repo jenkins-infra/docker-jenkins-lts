@@ -1,7 +1,7 @@
 analysis-model-api:10.23.1
 ansicolor:1.0.2
 antisamy-markup-formatter:155.v795fb_8702324
-apache-httpcomponents-client-4-api:4.5.13-138.v4e7d9a_7b_a_e61
+apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.4
 aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.406-370.v8f993c987059
@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.406-370.v8f993c987059
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:254.v64da_8176c83a
 azure-sdk:118.v43f74dd9ca_dc
-azure-vm-agents:822.v3a18fc3d2de1
+azure-vm-agents:825.v470cb_9e7361a_
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean:1.27.2
 blueocean-autofavorite:1.2.5
@@ -112,7 +112,7 @@ mina-sshd-api-core:2.9.2-50.va_0e1f42659a_a
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.10.0-125.v3593b_a_f8c97b_
 opentelemetry:2.11.0
-pipeline-build-step:2.18.1
+pipeline-build-step:486.vd08f550cceee
 pipeline-github:2.8-138.d766e30bb08b
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:163.v84cf2343b_266
