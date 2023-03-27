@@ -131,7 +131,6 @@ plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.2.0
 popper2-api:2.11.6-2
 prism-api:1.29.0-4
-prometheus:2.1.2
 pubsub-light:1.17
 scm-api:631.v9143df5b_e4a_a
 scm-filter-branch-pr:0.5.1
