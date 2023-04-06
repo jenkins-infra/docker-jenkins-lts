@@ -97,7 +97,7 @@ job-dsl:1.83
 jquery3-api:3.6.4-1
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
-kubernetes:3900.va_dce992317b_4
+kubernetes:3909.v1f2c633e8590
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
@@ -115,7 +115,7 @@ opentelemetry:2.12.0
 pipeline-build-step:488.v8993df156e8d
 pipeline-github:2.8-147.3206e8179b1c
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:175.vb_1a_b_b_cd0fb_86
+pipeline-graph-view:183.v9e27732d970f
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
