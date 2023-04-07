@@ -4,8 +4,8 @@ antisamy-markup-formatter:159.v25b_c67cd35fb_
 apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.53.v1c90fd9191a_b_
 aws-credentials:191.vcb_f183ce58b_9
-aws-java-sdk-ec2:1.12.406-374.v4cdf53953691
-aws-java-sdk-minimal:1.12.406-374.v4cdf53953691
+aws-java-sdk-ec2:1.12.406-378.v938a_d577f750
+aws-java-sdk-minimal:1.12.406-378.v938a_d577f750
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:254.v64da_8176c83a
 azure-sdk:118.v43f74dd9ca_dc
@@ -48,7 +48,7 @@ command-launcher:90.v669d7ccb_7c31
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-36.vc008c8fcda_7b_
 config-file-provider:3.11.1
-configuration-as-code:1616.v11393eccf675
+configuration-as-code:1625.v27444588cc3d
 copyartifact:686.v6fd37018d7c2
 credentials:1224.vc23ca_a_9a_2cb_0
 credentials-binding:523.vd859a_4b_122e6
@@ -58,7 +58,7 @@ datadog:5.4.0
 display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
 durable-task:504.vb10d1ae5ba2f
-ec2:2.0.6
+ec2:2.0.7
 echarts-api:5.4.0-3
 extended-read-permission:3.2
 favorite:2.4.1
@@ -97,7 +97,7 @@ job-dsl:1.83
 jquery3-api:3.6.4-1
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
-kubernetes:3900.va_dce992317b_4
+kubernetes:3909.v1f2c633e8590
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
@@ -112,10 +112,10 @@ mina-sshd-api-core:2.9.2-62.v199162f0a_2f8
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.10.0-132.v7a_7b_91cef39c
 opentelemetry:2.12.0
-pipeline-build-step:487.va_823138eee8b_
-pipeline-github:2.8-141.7e985db66f30
+pipeline-build-step:488.v8993df156e8d
+pipeline-github:2.8-147.3206e8179b1c
 pipeline-graph-analysis:202.va_d268e64deb_3
-pipeline-graph-view:175.vb_1a_b_b_cd0fb_86
+pipeline-graph-view:183.v9e27732d970f
 pipeline-groovy-lib:629.vb_5627b_ee2104
 pipeline-input-step:466.v6d0a_5df34f81
 pipeline-milestone-step:111.v449306f708b_7
