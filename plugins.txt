@@ -83,7 +83,7 @@ jackson2-api:2.14.2-319.v37853346a_229
 jacoco:3.3.3
 jakarta-activation-api:2.0.1-3
 jakarta-mail-api:2.0.1-3
-javadoc:226.v71211feb_e7e9
+javadoc:233.vdc1a_ec702cff
 javax-activation-api:1.2.0-6
 javax-mail-api:1.6.2-9
 jaxb:2.3.8-1
@@ -97,7 +97,7 @@ job-dsl:1.83
 jquery3-api:3.6.4-1
 jsch:0.1.55.61.va_e9ee26616e7
 junit:1189.v1b_e593637fa_e
-kubernetes:3910.ve59cec5e33ea_
+kubernetes:3923.v294a_d4250b_91
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
