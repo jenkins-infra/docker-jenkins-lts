@@ -71,7 +71,7 @@ github:1.37.0
 github-api:1.303-417.ve35d9dd78549
 github-autostatus:3.6.2
 github-branch-source:1703.vd5a_2b_29c6cdc
-github-checks:1.0.19
+github-checks:536.v2e4ea_8fa_e423
 github-label-filter:1.0.0
 groovy:453.vcdb_a_c5c99890
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
@@ -87,7 +87,7 @@ javadoc:233.vdc1a_ec702cff
 javax-activation-api:1.2.0-6
 javax-mail-api:1.6.2-9
 jaxb:2.3.8-1
-jdk-tool:63.v62d2fd4b_4793
+jdk-tool:66.vd8fa_64ee91b_d
 jenkins-design-language:1.27.3
 jersey2-api:2.39.1-1
 jira:3.9
@@ -105,7 +105,7 @@ ldap:671.v2a_9192a_7419d
 lockable-resources:1141.v7c5f8f31d2ee
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.7
-matrix-project:785.v06b_7f47b_c631
+matrix-project:789.v57a_725b_63c79
 metrics:4.2.13-420.vea_2f17932dd6
 mina-sshd-api-common:2.9.2-62.v199162f0a_2f8
 mina-sshd-api-core:2.9.2-62.v199162f0a_2f8
