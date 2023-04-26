@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.447-382.vda_68e2007233
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:254.v64da_8176c83a
 azure-sdk:132.v62b_48eb_6f32f
-azure-vm-agents:825.v470cb_9e7361a_
+azure-vm-agents:845.v35ee7c5570db_
 basic-branch-build-strategies:71.vc1421f89888e
 blueocean:1.27.3
 blueocean-autofavorite:1.2.5
@@ -18,7 +18,7 @@ blueocean-commons:1.27.3
 blueocean-config:1.27.3
 blueocean-core-js:1.27.3
 blueocean-dashboard:1.27.3
-blueocean-display-url:2.4.1
+blueocean-display-url:2.4.2
 blueocean-events:1.27.3
 blueocean-git-pipeline:1.27.3
 blueocean-github-pipeline:1.27.3
@@ -49,7 +49,7 @@ commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-36.vc008c8fcda_7b_
 config-file-provider:3.11.1
 configuration-as-code:1625.v27444588cc3d
-copyartifact:697.v12c6e8c8fb_34
+copyartifact:698.v393f578eb_ddc
 credentials:1224.vc23ca_a_9a_2cb_0
 credentials-binding:604.vb_64480b_c56ca_
 dark-theme:315.va_22e7d692ea_a
@@ -96,12 +96,12 @@ jnr-posix-api:3.1.16-2
 job-dsl:1.83
 jquery3-api:3.6.4-1
 jsch:0.1.55.61.va_e9ee26616e7
-junit:1196.vb_4cf28b_c7724
+junit:1198.ve38db_d1b_c975
 kubernetes:3923.v294a_d4250b_91
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
-ldap:671.v2a_9192a_7419d
+ldap:673.v034ec70ec2b_b_
 lockable-resources:1141.v7c5f8f31d2ee
 mailer:448.v5b_97805e3767
 matrix-auth:3.1.7
@@ -141,10 +141,10 @@ ssh-agent:327.v230ecd01f86f
 ssh-credentials:305.v8f4381501156
 sshd:3.275.v9e17c10f2571
 structs:324.va_f5d6774f3a_d
-support-core:1266.v6d096c154c90
+support-core:1274.v097a_073e7733
 theme-manager:1.6
 timestamper:1.24
-token-macro:321.vd7cc1f2a_52c8
+token-macro:359.vb_cde11682e0c
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
@@ -153,7 +153,7 @@ windows-azure-storage:380.va3a027b784f4
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1208.v0cc7c6e0da_9e
 workflow-basic-steps:1010.vf7a_b_98e847c1
-workflow-cps:3653.v07ea_433c90b_4
+workflow-cps:3659.v582dc37621d8
 workflow-durable-task-step:1244.vee71f675dee6
 workflow-job:1289.vd1c337fd5354
 workflow-multibranch:733.v109046189126
