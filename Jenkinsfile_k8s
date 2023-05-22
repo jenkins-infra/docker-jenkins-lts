@@ -1,3 +1,5 @@
+properties([buildDiscarder(logRotator(daysToKeepStr: '15'))])
+
 // From https://issues.jenkins.io/browse/JENKINS-51454?focusedCommentId=389893&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-389893
 retry(3) {
     try {
