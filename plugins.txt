@@ -32,8 +32,8 @@ blueocean-pipeline-scm-api:1.27.4
 blueocean-rest:1.27.4
 blueocean-rest-impl:1.27.4
 blueocean-web:1.27.4
-bootstrap5-api:5.2.2-4
-bouncycastle-api:2.27
+bootstrap5-api:5.2.2-5
+bouncycastle-api:2.28
 branch-api:2.1092.vda_3c2a_a_f0c11
 build-name-setter:2.2.0
 caffeine-api:3.1.6-115.vb_8b_b_328e59d8
@@ -60,7 +60,7 @@ docker-commons:419.v8e3cd84ef49c
 durable-task:507.v050055d0cb_dd
 ec2:2.0.7
 echarts-api:5.4.0-4
-extended-read-permission:3.2
+extended-read-permission:53.v6499940139e5
 favorite:2.4.2
 font-awesome-api:6.3.0-2
 forensics-api:2.2.0
@@ -78,7 +78,7 @@ handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.31
 inline-pipeline:1.0.2
 instance-identity:142.v04572ca_5b_265
-ionicons-api:55.vdc6562f64de3
+ionicons-api:56.v1b_1c8c49374e
 jackson2-api:2.15.1-344.v6eb_55303dc3e
 jacoco:3.3.3
 jakarta-activation-api:2.0.1-3
@@ -152,7 +152,7 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1213.v646def1087f9
 workflow-basic-steps:1017.vb_45b_302f0cea_
-workflow-cps:3659.v582dc37621d8
+workflow-cps:3668.v1763b_b_6ccffd
 workflow-durable-task-step:1246.v5524618ea_097
 workflow-job:1295.v395eb_7400005
 workflow-multibranch:746.v05814d19c001
