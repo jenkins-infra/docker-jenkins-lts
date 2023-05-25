@@ -128,7 +128,6 @@ pipeline-stage-tags-metadata:2.2131.vb_9788088fdb_5
 pipeline-stage-view:2.32
 plain-credentials:143.v1b_df8b_d3b_e48
 plugin-util-api:3.2.1
-popper2-api:2.11.6-2
 prism-api:1.29.0-6
 pubsub-light:1.17
 scm-api:672.v64378a_b_20c60
