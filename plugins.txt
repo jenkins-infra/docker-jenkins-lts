@@ -39,7 +39,7 @@ build-name-setter:2.2.0
 caffeine-api:3.1.6-115.vb_8b_b_328e59d8
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
-cloudbees-bitbucket-branch-source:800.va_b_b_9a_a_5035c1
+cloudbees-bitbucket-branch-source:804.v8b_0642650b_d2
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 cloudbees-jenkins-advisor:336.v4d00382fe22c
 cobertura:1.17
@@ -65,7 +65,7 @@ favorite:2.4.2
 font-awesome-api:6.3.0-2
 forensics-api:2.2.0
 git:5.0.2
-git-client:4.2.0
+git-client:4.3.0
 git-forensics:2.0.0
 github:1.37.1
 github-api:1.314-431.v78d72a_3fe4c3
@@ -96,7 +96,7 @@ jnr-posix-api:3.1.16-2
 job-dsl:1.83
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
-junit:1202.v79a_986785076
+junit:1207.va_09d5100410f
 kubernetes:3937.vd7b_82db_e347b_
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
@@ -104,9 +104,9 @@ kubernetes-credentials-provider:1.211.vc236a_f5a_2f3c
 ldap:682.v7b_544c9d1512
 lockable-resources:1156.v5e9f897ece02
 mailer:457.v3f72cb_e015e5
-matrix-auth:3.1.7
+matrix-auth:3.1.8
 matrix-project:789.v57a_725b_63c79
-metrics:4.2.13-420.vea_2f17932dd6
+metrics:4.2.18-438.v0ede325a_4c68
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
 mina-sshd-api-core:2.10.0-69.v28e3e36d18eb_
 node-iterator-api:49.v58a_8b_35f8363
