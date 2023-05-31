@@ -151,8 +151,8 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1213.v646def1087f9
 workflow-basic-steps:1017.vb_45b_302f0cea_
-workflow-cps:3668.v1763b_b_6ccffd
-workflow-durable-task-step:1246.v5524618ea_097
+workflow-cps:3673.v5b_dd74276262
+workflow-durable-task-step:1247.v7f9dfea_b_4fd0
 workflow-job:1301.v054d9cea_9593
 workflow-multibranch:746.v05814d19c001
 workflow-scm-step:408.v7d5b_135a_b_d49
