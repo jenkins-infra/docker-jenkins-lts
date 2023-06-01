@@ -32,7 +32,7 @@ blueocean-pipeline-scm-api:1.27.4
 blueocean-rest:1.27.4
 blueocean-rest-impl:1.27.4
 blueocean-web:1.27.4
-bootstrap5-api:5.2.2-6
+bootstrap5-api:5.2.3-1
 bouncycastle-api:2.28
 branch-api:2.1105.v472604208c55
 build-name-setter:2.2.0
@@ -48,7 +48,7 @@ command-launcher:100.v2f6722292ee8
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-36.vc008c8fcda_7b_
 config-file-provider:938.ve2b_8a_591c596
-configuration-as-code:1625.v27444588cc3d
+configuration-as-code:1646.v98b_72d209775
 copyartifact:705.v5295cffec284
 credentials:1254.vb_96f366e7b_a_d
 credentials-binding:604.vb_64480b_c56ca_
@@ -90,7 +90,7 @@ jaxb:2.3.8-1
 jdk-tool:66.vd8fa_64ee91b_d
 jenkins-design-language:1.27.4
 jersey2-api:2.39.1-1
-jira:3.9
+jira:3.10
 jjwt-api:0.11.5-77.v646c772fddb_0
 jnr-posix-api:3.1.16-2
 job-dsl:1.83
@@ -132,7 +132,7 @@ prism-api:1.29.0-6
 pubsub-light:1.17
 scm-api:672.v64378a_b_20c60
 scm-filter-branch-pr:61.v45f2e5f81fde
-script-security:1244.ve463715a_f89c
+script-security:1251.vfe552ed55f8d
 snakeyaml-api:1.33-95.va_b_a_e3e47b_fa_4
 sse-gateway:1.26
 ssh-agent:333.v878b_53c89511
