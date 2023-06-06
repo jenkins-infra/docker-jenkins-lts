@@ -4,8 +4,8 @@ antisamy-markup-formatter:159.v25b_c67cd35fb_
 apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
 authentication-tokens:1.53.v1c90fd9191a_b_
 aws-credentials:191.vcb_f183ce58b_9
-aws-java-sdk-ec2:1.12.447-382.vda_68e2007233
-aws-java-sdk-minimal:1.12.447-382.vda_68e2007233
+aws-java-sdk-ec2:1.12.481-392.v8b_291cfcda_09
+aws-java-sdk-minimal:1.12.481-392.v8b_291cfcda_09
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:254.v64da_8176c83a
 azure-sdk:132.v62b_48eb_6f32f
@@ -70,7 +70,7 @@ git-forensics:2.0.0
 github:1.37.1
 github-api:1.314-431.v78d72a_3fe4c3
 github-autostatus:3.6.2
-github-branch-source:1703.vd5a_2b_29c6cdc
+github-branch-source:1725.vd391eef681a_e
 github-checks:545.v79a_a_68b_ca_682
 github-label-filter:1.0.0
 groovy:453.vcdb_a_c5c99890
@@ -79,7 +79,7 @@ htmlpublisher:1.31
 inline-pipeline:1.0.2
 instance-identity:142.v04572ca_5b_265
 ionicons-api:56.v1b_1c8c49374e
-jackson2-api:2.15.1-344.v6eb_55303dc3e
+jackson2-api:2.15.2-350.v0c2f3f8fc595
 jacoco:3.3.3
 jakarta-activation-api:2.0.1-3
 jakarta-mail-api:2.0.1-3
@@ -89,7 +89,7 @@ javax-mail-api:1.6.2-9
 jaxb:2.3.8-1
 jdk-tool:66.vd8fa_64ee91b_d
 jenkins-design-language:1.27.4
-jersey2-api:2.39.1-1
+jersey2-api:2.39.1-2
 jira:3.10
 jjwt-api:0.11.5-77.v646c772fddb_0
 jnr-posix-api:3.1.16-2
@@ -110,7 +110,7 @@ metrics:4.2.18-438.v0ede325a_4c68
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
 mina-sshd-api-core:2.10.0-69.v28e3e36d18eb_
 node-iterator-api:49.v58a_8b_35f8363
-okhttp-api:4.10.0-132.v7a_7b_91cef39c
+okhttp-api:4.11.0-145.vcb_8de402ef81
 opentelemetry:2.13.0
 pipeline-build-step:491.v1fec530da_858
 pipeline-github:2.8-147.3206e8179b1c
