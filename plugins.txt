@@ -97,12 +97,12 @@ job-dsl:1.84
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
 junit:1207.va_09d5100410f
-kubernetes:3937.vd7b_82db_e347b_
+kubernetes:3950.v581298fa_e4e7
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:682.v7b_544c9d1512
-lockable-resources:1166.v7ef984f72fe2
+lockable-resources:1167.v04861534072b_
 mailer:457.v3f72cb_e015e5
 matrix-auth:3.1.8
 matrix-project:789.v57a_725b_63c79
