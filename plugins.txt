@@ -35,7 +35,7 @@ blueocean-web:1.27.4
 bootstrap5-api:5.3.0-1
 bouncycastle-api:2.28
 branch-api:2.1109.vdf225489a_16d
-build-name-setter:2.2.0
+build-name-setter:2.2.1
 caffeine-api:3.1.6-115.vb_8b_b_328e59d8
 checks-api:2.0.0
 cloud-stats:267.v577e3742c282
@@ -53,7 +53,7 @@ copyartifact:705.v5295cffec284
 credentials:1254.vb_96f366e7b_a_d
 credentials-binding:604.vb_64480b_c56ca_
 dark-theme:336.v02165cd8c2ee
-data-tables-api:1.13.4-2
+data-tables-api:1.13.4-3
 datadog:5.4.1
 display-url-api:2.3.7
 docker-commons:419.v8e3cd84ef49c
@@ -96,13 +96,13 @@ jnr-posix-api:3.1.17-1
 job-dsl:1.84
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
-junit:1207.va_09d5100410f
-kubernetes:3950.v581298fa_e4e7
+junit:1214.va_2f9db_3e6de0
+kubernetes:3952.v88e3b_0cf300b_
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:682.v7b_544c9d1512
-lockable-resources:1167.v04861534072b_
+lockable-resources:1172.v4b_8fc8eed570
 mailer:457.v3f72cb_e015e5
 matrix-auth:3.1.8
 matrix-project:789.v57a_725b_63c79
@@ -139,7 +139,7 @@ ssh-agent:333.v878b_53c89511
 ssh-credentials:305.v8f4381501156
 sshd:3.303.vefc7119b_ec23
 structs:324.va_f5d6774f3a_d
-support-core:1315.v0f514a_a_7e133
+support-core:1328.vb_4e66d4d525c
 theme-manager:193.vcef22f6c5f2b_
 timestamper:1.25
 token-macro:359.vb_cde11682e0c
