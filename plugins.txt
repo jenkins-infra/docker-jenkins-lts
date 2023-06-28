@@ -34,7 +34,7 @@ blueocean-rest-impl:1.27.4
 blueocean-web:1.27.4
 bootstrap5-api:5.3.0-1
 bouncycastle-api:2.28
-branch-api:2.1109.vdf225489a_16d
+branch-api:2.1122.v09cb_8ea_8a_724
 build-name-setter:2.2.1
 caffeine-api:3.1.6-115.vb_8b_b_328e59d8
 checks-api:2.0.0
@@ -56,7 +56,7 @@ dark-theme:336.v02165cd8c2ee
 data-tables-api:1.13.4-3
 datadog:5.4.1
 display-url-api:2.3.7
-docker-commons:419.v8e3cd84ef49c
+docker-commons:422.v9d1a_89cede51
 durable-task:507.v050055d0cb_dd
 ec2:2.0.7
 echarts-api:5.4.0-5
@@ -89,7 +89,7 @@ javax-mail-api:1.6.2-9
 jaxb:2.3.8-1
 jdk-tool:66.vd8fa_64ee91b_d
 jenkins-design-language:1.27.4
-jersey2-api:2.39.1-2
+jersey2-api:2.40-1
 jira:3.10
 jjwt-api:0.11.5-77.v646c772fddb_0
 jnr-posix-api:3.1.17-1
@@ -149,11 +149,11 @@ variant:59.vf075fe829ccb
 warnings-ng:10.2.0
 windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1215.v2b_ee3e1b_dd39
+workflow-api:1219.v05cd837ea_249
 workflow-basic-steps:1017.vb_45b_302f0cea_
-workflow-cps:3691.v28b_14c465a_b_b_
+workflow-cps:3697.vb_470e454c232
 workflow-durable-task-step:1247.v7f9dfea_b_4fd0
-workflow-job:1308.v58d48a_763b_31
+workflow-job:1316.vd2290d3341a_f
 workflow-multibranch:756.v891d88f2cd46
 workflow-scm-step:415.v434365564324
 workflow-step-api:639.v6eca_cd8c04a_a_
