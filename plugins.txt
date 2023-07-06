@@ -96,7 +96,7 @@ jnr-posix-api:3.1.17-1
 job-dsl:1.84
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
-junit:1214.va_2f9db_3e6de0
+junit:1217.v4297208a_a_b_ce
 kubernetes:3966.v10fb_81791896
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
@@ -104,7 +104,7 @@ kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:682.v7b_544c9d1512
 lockable-resources:1172.v4b_8fc8eed570
 mailer:457.v3f72cb_e015e5
-matrix-auth:3.1.8
+matrix-auth:3.1.9
 matrix-project:789.v57a_725b_63c79
 metrics:4.2.18-439.v86a_20b_a_8318b_
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
@@ -149,7 +149,7 @@ variant:59.vf075fe829ccb
 warnings-ng:10.2.0
 windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1219.v05cd837ea_249
+workflow-api:1223.v41b_0279c361a
 workflow-basic-steps:1017.vb_45b_302f0cea_
 workflow-cps:3697.vb_470e454c232
 workflow-durable-task-step:1247.v7f9dfea_b_4fd0
