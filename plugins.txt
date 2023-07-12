@@ -39,7 +39,7 @@ build-name-setter:2.2.1
 caffeine-api:3.1.6-115.vb_8b_b_328e59d8
 checks-api:2.0.0
 cloud-stats:302.v45b_647b_90608
-cloudbees-bitbucket-branch-source:809.vc1d904b_30426
+cloudbees-bitbucket-branch-source:820.v30b_e8c1e36f3
 cloudbees-folder:6.815.v0dd5a_cb_40e0e
 cloudbees-jenkins-advisor:336.v4d00382fe22c
 cobertura:1.17
@@ -47,7 +47,7 @@ code-coverage-api:4.7.0
 command-launcher:100.v2f6722292ee8
 commons-lang3-api:3.12.0-36.vd97de6465d5b_
 commons-text-api:1.10.0-36.vc008c8fcda_7b_
-config-file-provider:938.ve2b_8a_591c596
+config-file-provider:951.v0461b_87b_721b_
 configuration-as-code:1647.ve39ca_b_829b_42
 copyartifact:705.v5295cffec284
 credentials:1254.vb_96f366e7b_a_d
@@ -56,15 +56,15 @@ dark-theme:336.v02165cd8c2ee
 data-tables-api:1.13.4-3
 datadog:5.4.1
 display-url-api:2.3.7
-docker-commons:422.v9d1a_89cede51
-durable-task:507.v050055d0cb_dd
+docker-commons:439.va_3cb_0a_6a_fb_29
+durable-task:510.v324450f8dca_4
 ec2:2.0.7
 echarts-api:5.4.0-5
 extended-read-permission:53.v6499940139e5
 favorite:2.4.2
 font-awesome-api:6.4.0-1
 forensics-api:2.3.0
-git:5.1.0
+git:5.2.0
 git-client:4.4.0
 git-forensics:2.0.0
 github:1.37.1
@@ -111,7 +111,7 @@ mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
 mina-sshd-api-core:2.10.0-69.v28e3e36d18eb_
 node-iterator-api:49.v58a_8b_35f8363
 okhttp-api:4.11.0-145.vcb_8de402ef81
-opentelemetry:2.13.0
+opentelemetry:2.14.0
 pipeline-build-step:496.v2449a_9a_221f2
 pipeline-github:2.8-147.3206e8179b1c
 pipeline-graph-analysis:202.va_d268e64deb_3
@@ -151,7 +151,7 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1223.v41b_0279c361a
 workflow-basic-steps:1017.vb_45b_302f0cea_
-workflow-cps:3697.vb_470e454c232
+workflow-cps:3705.va_6a_c2775a_c17
 workflow-durable-task-step:1247.v7f9dfea_b_4fd0
 workflow-job:1316.vd2290d3341a_f
 workflow-multibranch:756.v891d88f2cd46
