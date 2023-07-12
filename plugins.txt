@@ -54,7 +54,7 @@ credentials:1254.vb_96f366e7b_a_d
 credentials-binding:604.vb_64480b_c56ca_
 dark-theme:336.v02165cd8c2ee
 data-tables-api:1.13.4-3
-datadog:5.4.1
+datadog:5.4.2
 display-url-api:2.3.7
 docker-commons:439.va_3cb_0a_6a_fb_29
 durable-task:510.v324450f8dca_4
