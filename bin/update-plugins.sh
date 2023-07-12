@@ -8,7 +8,7 @@ echo "Updating plugins"
 
 # Fetches the latest plugin manager version via API, the asset has a version number in it unfortunately
 # So we can't just use the API to get the latest version without some parsing
-PM_CLI_DOWNLOAD_URL=$(curl -s 'https://api.github.com/repos/jenkinsci/plugin-installation-manager-tool/releases/latest' | jq -r '.assets[] | select(.content_type=="application/java-archive").browser_download_url')
+PM_CLI_DOWNLOAD_URL=$(curl -s 'https://api.github.com/repos/jenkinsci/plugin-installation-manager-tool/releases/latest' | jq -r '.assets[] | select(.content_type=="application/x-java-archive").browser_download_url')
 
 TMP_DIR=$(mktemp -d)
 
