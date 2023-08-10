@@ -40,7 +40,7 @@ caffeine-api:3.1.6-115.vb_8b_b_328e59d8
 checks-api:2.0.0
 cloud-stats:302.v45b_647b_90608
 cloudbees-bitbucket-branch-source:825.va_6a_dc46a_f97d
-cloudbees-folder:6.815.v0dd5a_cb_40e0e
+cloudbees-folder:6.846.v23698686f0f6
 cloudbees-jenkins-advisor:340.v336f61c216f6
 cobertura:1.17
 code-coverage-api:4.7.0
@@ -142,7 +142,7 @@ structs:324.va_f5d6774f3a_d
 support-core:1354.v0d622276ca_de
 theme-manager:193.vcef22f6c5f2b_
 timestamper:1.26
-token-macro:359.vb_cde11682e0c
+token-macro:383.v36161104b_002
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:59.vf075fe829ccb
