@@ -36,7 +36,7 @@ bootstrap5-api:5.3.0-1
 bouncycastle-api:2.29
 branch-api:2.1122.v09cb_8ea_8a_724
 build-name-setter:2.3.0
-caffeine-api:3.1.6-115.vb_8b_b_328e59d8
+caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.0
 cloud-stats:316.vd6d6b_292238d
 cloudbees-bitbucket-branch-source:825.va_6a_dc46a_f97d
