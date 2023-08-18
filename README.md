@@ -16,7 +16,7 @@ This script uses the [Jenkins Plugin Manager Tool command line](https://github.c
 
 ```
 VERSION=$(jv get --version-identifier lts)
-SUFFIX=lts-jdk11
+SUFFIX=lts-jdk17
 FULL_VERSION=jenkins/jenkins:${VERSION}-${SUFFIX}
 sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
 ```
