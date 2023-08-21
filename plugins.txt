@@ -7,7 +7,7 @@ aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.529-406.vdeff15e5817d
 aws-java-sdk-minimal:1.12.529-406.vdeff15e5817d
 azure-container-agents:253.vd2f5cd5c5040
-azure-credentials:292.v99b_c3eb_4fb_64
+azure-credentials:293.vb_d506148f506
 azure-sdk:132.v62b_48eb_6f32f
 azure-vm-agents:859.v7213476e4fea_
 basic-branch-build-strategies:81.v05e333931c7d
