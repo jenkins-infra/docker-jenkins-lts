@@ -104,7 +104,7 @@ kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:694.vc02a_69c9787f
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
-matrix-auth:3.2
+matrix-auth:3.1.10
 matrix-project:808.v5a_b_5f56d6966
 metrics:4.2.18-442.v02e107157925
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
