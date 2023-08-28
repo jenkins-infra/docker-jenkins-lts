@@ -1,7 +1,7 @@
 analysis-model-api:11.6.0
 ansicolor:1.0.3
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
-apache-httpcomponents-client-4-api:4.5.14-150.v7a_b_9d17134a_5
+apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
 aws-credentials:191.vcb_f183ce58b_9
 aws-java-sdk-ec2:1.12.529-406.vdeff15e5817d
@@ -39,7 +39,7 @@ build-name-setter:2.3.0
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.0
 cloud-stats:316.vd6d6b_292238d
-cloudbees-bitbucket-branch-source:825.va_6a_dc46a_f97d
+cloudbees-bitbucket-branch-source:832.v43175a_425ea_6
 cloudbees-folder:6.848.ve3b_fd7839a_81
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 cobertura:1.17
@@ -49,12 +49,12 @@ commons-lang3-api:3.13.0-62.v7d18e55f51e2
 commons-text-api:1.10.0-68.v0d0b_c439292b_
 config-file-provider:953.v0432a_802e4d2
 configuration-as-code:1670.v564dc8b_982d0
-copyartifact:714.v28a_34f8c563f
+copyartifact:722.v0662a_9b_e22a_c
 credentials:1271.v54b_1c2c6388a_
 credentials-binding:631.v861c06d062b_4
 dark-theme:336.v02165cd8c2ee
 data-tables-api:1.13.5-1
-datadog:5.4.2
+datadog:5.5.0
 display-url-api:2.3.9
 docker-commons:439.va_3cb_0a_6a_fb_29
 durable-task:523.va_a_22cf15d5e0
@@ -97,7 +97,7 @@ job-dsl:1.84
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
 junit:1217.v4297208a_a_b_ce
-kubernetes:3995.v227c16b_675ee
+kubernetes:4007.v633279962016
 kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
 kubernetes-credentials:0.10.0
 kubernetes-credentials-provider:1.225.v14f9e6b_28f53
@@ -132,7 +132,7 @@ prism-api:1.29.0-7
 pubsub-light:1.17
 scm-api:676.v886669a_199a_a_
 scm-filter-branch-pr:77.vf2b_85e1970d5
-script-security:1271.vdede89739a_81
+script-security:1273.v66c1964f0dfd
 snakeyaml-api:1.33-95.va_b_a_e3e47b_fa_4
 sse-gateway:1.26
 ssh-agent:333.v878b_53c89511
@@ -149,10 +149,10 @@ variant:59.vf075fe829ccb
 warnings-ng:10.4.0
 windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1259.vb_47f14fffc8a_
+workflow-api:1261.va_2ff5204f17e
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3769.v8b_e595e4d40d
-workflow-durable-task-step:1284.v4fcd365b_75b_e
+workflow-cps:3773.v505e0052522c
+workflow-durable-task-step:1289.v4d3e7b_01546b_
 workflow-job:1341.vd9fa_65f771dd
 workflow-multibranch:756.v891d88f2cd46
 workflow-scm-step:415.v434365564324
