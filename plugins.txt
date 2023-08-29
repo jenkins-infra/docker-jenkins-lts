@@ -3,7 +3,7 @@ ansicolor:1.0.3
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
-aws-credentials:191.vcb_f183ce58b_9
+aws-credentials:218.v1b_e9466ec5da_
 aws-java-sdk-ec2:1.12.529-406.vdeff15e5817d
 aws-java-sdk-minimal:1.12.529-406.vdeff15e5817d
 azure-container-agents:253.vd2f5cd5c5040
@@ -76,7 +76,7 @@ github-label-filter:1.0.0
 groovy:453.vcdb_a_c5c99890
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
-inline-pipeline:1.0.2
+inline-pipeline:1.0.3
 instance-identity:173.va_37c494ec4e5
 ionicons-api:56.v1b_1c8c49374e
 jackson2-api:2.15.2-350.v0c2f3f8fc595
@@ -97,14 +97,14 @@ job-dsl:1.84
 jquery3-api:3.7.0-1
 jsch:0.2.8-65.v052c39de79b_2
 junit:1217.v4297208a_a_b_ce
-kubernetes:4007.v633279962016
-kubernetes-client-api:6.4.1-215.v2ed17097a_8e9
-kubernetes-credentials:0.10.0
+kubernetes:4029.v5712230ccb_f8
+kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
+kubernetes-credentials:0.11
 kubernetes-credentials-provider:1.225.v14f9e6b_28f53
 ldap:694.vc02a_69c9787f
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
-matrix-auth:3.1.10
+matrix-auth:3.2
 matrix-project:808.v5a_b_5f56d6966
 metrics:4.2.18-442.v02e107157925
 mina-sshd-api-common:2.10.0-69.v28e3e36d18eb_
@@ -149,7 +149,7 @@ variant:59.vf075fe829ccb
 warnings-ng:10.4.0
 windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
-workflow-api:1261.va_2ff5204f17e
+workflow-api:1267.vd9b_a_ddd9eb_47
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3773.v505e0052522c
 workflow-durable-task-step:1289.v4d3e7b_01546b_
