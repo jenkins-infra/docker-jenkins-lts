@@ -34,7 +34,7 @@ jobs:
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
         uses: jenkins-infra/uc@0.1.4
-      - uses: tibdex/github-app-token@0914d50df753bbc42180d982a6550f195390069f # v1.8
+      - uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v1.8
         id: generate-token
         with:
           app_id: ${{ secrets.JENKINS_ADMIN_APP_ID }}
