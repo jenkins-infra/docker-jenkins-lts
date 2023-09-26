@@ -39,7 +39,7 @@ build-name-setter:2.3.0
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.2
 cloud-stats:320.v96b_65297a_4b_b_
-cloudbees-bitbucket-branch-source:832.v43175a_425ea_6
+cloudbees-bitbucket-branch-source:845.v27a_d5823911b_
 cloudbees-folder:6.848.ve3b_fd7839a_81
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 cobertura:1.17
@@ -48,7 +48,7 @@ command-launcher:107.v773860566e2e
 commons-lang3-api:3.13.0-62.v7d18e55f51e2
 commons-text-api:1.10.0-78.v3e7b_ea_d5a_fe1
 config-file-provider:959.vcff671a_4518b_
-configuration-as-code:1700.v6f448841296e
+configuration-as-code:1714.v09593e830cfa
 copyartifact:722.v0662a_9b_e22a_c
 credentials:1271.v54b_1c2c6388a_
 credentials-binding:636.v55f1275c7b_27
@@ -74,7 +74,7 @@ github-autostatus:3.6.2
 github-branch-source:1741.va_3028eb_9fd21
 github-checks:554.vb_ee03a_000f65
 github-label-filter:1.0.0
-groovy:453.vcdb_a_c5c99890
+groovy:457.v99900cb_85593
 handy-uri-templates-2-api:2.1.8-22.v77d5b_75e6953
 htmlpublisher:1.32
 inline-pipeline:1.0.3
@@ -93,7 +93,7 @@ jenkins-design-language:1.27.7
 jersey2-api:2.40-1
 jira:3.11
 jjwt-api:0.11.5-77.v646c772fddb_0
-jnr-posix-api:3.1.17-1
+jnr-posix-api:3.1.18-1
 job-dsl:1.85
 jquery3-api:3.7.1-1
 jsch:0.2.8-65.v052c39de79b_2
@@ -102,7 +102,7 @@ kubernetes:4029.v5712230ccb_f8
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
 kubernetes-credentials-provider:1.234.vf3013b_35f5b_a
-ldap:694.vc02a_69c9787f
+ldap:701.vf8619de9160a_
 lockable-resources:1185.v0c528656ce04
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
@@ -152,7 +152,7 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1281.vca_5fddb_3fceb_
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3791.va_c0338ea_b_59c
+workflow-cps:3793.v65dec41c3a_c3
 workflow-durable-task-step:1289.v4d3e7b_01546b_
 workflow-job:1346.v180a_63f40267
 workflow-multibranch:756.v891d88f2cd46
