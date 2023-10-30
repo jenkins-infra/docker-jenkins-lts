@@ -112,7 +112,6 @@ mina-sshd-api-common:2.11.0-86.v836f585d47fa_
 mina-sshd-api-core:2.11.0-86.v836f585d47fa_
 node-iterator-api:55.v3b_77d4032326
 okhttp-api:4.11.0-157.v6852a_a_fa_ec11
-opentelemetry:2.18.0
 pipeline-build-step:516.v8ee60a_81c5b_9
 pipeline-github:2.8-155.8eab375ac9f8
 pipeline-graph-analysis:202.va_d268e64deb_3
