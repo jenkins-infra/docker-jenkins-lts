@@ -25,6 +25,3 @@ fileExistenceTests:
   - name: 'Azure Container Agents'
     path: '/usr/share/jenkins/ref/plugins/azure-container-agents.jpi'
     shouldExist: true
-  - name: 'OpenTelemetry Plugin'
-    path: '/usr/share/jenkins/ref/plugins/opentelemetry.jpi'
-    shouldExist: true
