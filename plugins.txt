@@ -4,8 +4,8 @@ antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
 aws-credentials:218.v1b_e9466ec5da_
-aws-java-sdk-ec2:1.12.586-413.v6a_6c3a_420126
-aws-java-sdk-minimal:1.12.586-413.v6a_6c3a_420126
+aws-java-sdk-ec2:1.12.606-418.vce5b_4cd017c6
+aws-java-sdk-minimal:1.12.606-418.vce5b_4cd017c6
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:293.vb_d506148f506
 azure-sdk:157.v855da_0b_eb_dc2
@@ -33,7 +33,7 @@ blueocean-rest:1.27.9
 blueocean-rest-impl:1.27.9
 blueocean-web:1.27.9
 bootstrap5-api:5.3.2-3
-bouncycastle-api:2.29
+bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
 branch-api:2.1135.v8de8e7899051
 build-name-setter:2.4.0
 caffeine-api:3.1.8-133.v17b_1ff2e0599
@@ -48,12 +48,12 @@ command-launcher:107.v773860566e2e
 commons-lang3-api:3.13.0-62.v7d18e55f51e2
 commons-text-api:1.11.0-95.v22a_d30ee5d36
 config-file-provider:959.vcff671a_4518b_
-configuration-as-code:1752.v0ccc3b_6064b_0
+configuration-as-code:1756.v2b_7eea_874392
 copyartifact:722.v0662a_9b_e22a_c
-credentials:1309.v8835d63eb_d8a_
+credentials:1311.vcf0a_900b_37c2
 credentials-binding:642.v737c34dea_6c2
 customizable-header:61.v9c97c69b_7ee3
-dark-theme:398.vb_e1e7f1f8a_a_6
+dark-theme:404.v3a_7fdced40f9
 data-tables-api:1.13.8-2
 datadog:5.6.1
 display-url-api:2.200.vb_9327d658781
@@ -62,7 +62,7 @@ durable-task:523.va_a_22cf15d5e0
 ec2:1648.vf3d852e00486
 echarts-api:5.4.3-2
 extended-read-permission:53.v6499940139e5
-favorite:2.4.3
+favorite:2.208.v91d65b_7792a_c
 font-awesome-api:6.5.1-1
 forensics-api:2.3.0
 git:5.2.1
@@ -71,7 +71,7 @@ git-forensics:2.0.0
 github:1.37.3.1
 github-api:1.318-461.v7a_c09c9fa_d63
 github-autostatus:3.6.2
-github-branch-source:1752.vc201a_0235d80
+github-branch-source:1755.vcdb_d136f3b_25
 github-checks:554.vb_ee03a_000f65
 github-label-filter:1.0.0
 groovy:457.v99900cb_85593
@@ -98,12 +98,12 @@ job-dsl:1.87
 jquery3-api:3.7.1-1
 jsch:0.2.8-65.v052c39de79b_2
 junit:1240.vf9529b_881428
-kubernetes:4147.va_d406fb_66172
+kubernetes:4151.v6fa_f0fb_0b_4c9
 kubernetes-client-api:6.8.1-224.vd388fca_4db_3b_
 kubernetes-credentials:0.11
 kubernetes-credentials-provider:1.258.v95949f923a_a_e
 ldap:711.vb_d1a_491714dc
-lockable-resources:1215.v895f61d7f794
+lockable-resources:1218.va_3dd45e2b_fa_7
 mailer:463.vedf8358e006b_
 matrix-auth:3.2.1
 matrix-project:818.v7eb_e657db_924
@@ -112,7 +112,7 @@ mina-sshd-api-common:2.11.0-86.v836f585d47fa_
 mina-sshd-api-core:2.11.0-86.v836f585d47fa_
 node-iterator-api:55.v3b_77d4032326
 okhttp-api:4.11.0-157.v6852a_a_fa_ec11
-pipeline-build-step:516.v8ee60a_81c5b_9
+pipeline-build-step:539.v8c889169451f
 pipeline-github:2.8-155.8eab375ac9f8
 pipeline-graph-analysis:202.va_d268e64deb_3
 pipeline-graph-view:205.vb_8e3a_b_51f12e
@@ -142,7 +142,7 @@ structs:325.vcb_307d2a_2782
 support-core:1366.v9d076592655d
 theme-manager:215.vc1ff18d67920
 timestamper:1.26
-token-macro:384.vf35b_f26814ec
+token-macro:400.v35420b_922dcb_
 toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:60.v7290fc0eb_b_cd
@@ -151,7 +151,7 @@ windows-azure-storage:386.v673495b0a5de
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1283.v99c10937efcb_
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3817.vd20b_7e2b_692b_
+workflow-cps:3826.v3b_5707fe44da_
 workflow-durable-task-step:1289.v4d3e7b_01546b_
 workflow-job:1385.vb_58b_86ea_fff1
 workflow-multibranch:756.v891d88f2cd46
