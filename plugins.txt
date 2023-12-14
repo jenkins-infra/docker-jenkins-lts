@@ -4,8 +4,8 @@ antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
 aws-credentials:218.v1b_e9466ec5da_
-aws-java-sdk-ec2:1.12.606-418.vce5b_4cd017c6
-aws-java-sdk-minimal:1.12.606-418.vce5b_4cd017c6
+aws-java-sdk-ec2:1.12.610-428.v849169a_01b_a_5
+aws-java-sdk-minimal:1.12.610-428.v849169a_01b_a_5
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:293.vb_d506148f506
 azure-sdk:157.v855da_0b_eb_dc2
@@ -71,7 +71,7 @@ git-forensics:2.0.0
 github:1.37.3.1
 github-api:1.318-461.v7a_c09c9fa_d63
 github-autostatus:3.6.2
-github-branch-source:1755.vcdb_d136f3b_25
+github-branch-source:1758.v048414714f5d
 github-checks:554.vb_ee03a_000f65
 github-label-filter:1.0.0
 groovy:457.v99900cb_85593
@@ -147,7 +147,7 @@ toolenv:1.2
 trilead-api:2.84.v72119de229b_7
 variant:60.v7290fc0eb_b_cd
 warnings-ng:10.5.2
-windows-azure-storage:386.v673495b0a5de
+windows-azure-storage:414.v87922b9c52e2
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1283.v99c10937efcb_
 workflow-basic-steps:1042.ve7b_140c4a_e0c
