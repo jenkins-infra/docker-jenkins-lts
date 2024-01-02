@@ -51,7 +51,7 @@ configuration-as-code:1763.vb_fe9c1b_83f7b
 copyartifact:722.v0662a_9b_e22a_c
 credentials:1311.vcf0a_900b_37c2
 credentials-binding:642.v737c34dea_6c2
-customizable-header:61.v9c97c69b_7ee3
+customizable-header:69.v36de0f11b_d00
 dark-theme:410.v3095e2c26b_17
 data-tables-api:1.13.8-2
 datadog:5.6.1
@@ -79,7 +79,7 @@ htmlpublisher:1.32
 inline-pipeline:1.0.3
 instance-identity:185.v303dc7c645f9
 ionicons-api:56.v1b_1c8c49374e
-jackson2-api:2.15.3-372.v309620682326
+jackson2-api:2.16.1-373.ve709c6871598
 jacoco:3.3.5
 jakarta-activation-api:2.0.1-3
 jakarta-mail-api:2.0.1-3
