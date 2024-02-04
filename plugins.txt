@@ -31,7 +31,7 @@ credentials-binding:657.v2b_19db_7d6e6d
 customizable-header:69.v36de0f11b_d00
 dark-theme:416.v535839b_c4e88
 data-tables-api:1.13.8-2
-datadog:5.6.2
+datadog:6.0.0
 display-url-api:2.200.vb_9327d658781
 docker-commons:439.va_3cb_0a_6a_fb_29
 durable-task:547.vd1ea_007d100c
@@ -43,7 +43,7 @@ forensics-api:2.3.0
 git:5.2.1
 git-client:4.6.0
 git-forensics:2.0.0
-github:1.37.3.1
+github:1.38.0
 github-api:1.318-461.v7a_c09c9fa_d63
 github-branch-source:1772.va_69eda_d018d4
 github-checks:554.vb_ee03a_000f65
@@ -67,7 +67,7 @@ jnr-posix-api:3.1.18-1
 job-dsl:1.87
 jquery3-api:3.7.1-1
 jsch:0.2.16-86.v42e010d9484b_
-junit:1256.v002534a_5f33e
+junit:1259.v65ffcef24a_88
 kubernetes:4186.v1d804571d5d4
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:0.11
@@ -100,7 +100,7 @@ prism-api:1.29.0-10
 pubsub-light:1.18
 scm-api:683.vb_16722fb_b_80b_
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
-script-security:1313.v7a_6067dc7087
+script-security:1321.va_73c0795b_923
 snakeyaml-api:2.2-111.vc6598e30cc65
 sse-gateway:1.26
 ssh-agent:346.vda_a_c4f2c8e50
@@ -120,7 +120,7 @@ workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3853.vb_a_490d892963
-workflow-durable-task-step:1322.v63864b_7a_e384
+workflow-durable-task-step:1327.ve57634fb_09ce
 workflow-job:1385.vb_58b_86ea_fff1
 workflow-multibranch:773.vc4fe1378f1d5
 workflow-scm-step:415.v434365564324
