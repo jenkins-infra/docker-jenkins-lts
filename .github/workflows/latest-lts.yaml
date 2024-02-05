@@ -34,14 +34,14 @@ jobs:
       - name: Update
         if: ${{ steps.diff.outputs.changed == 'true' }}
         uses: jenkins-infra/uc@0.1.4
-      - uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v1.8
+      - uses: tibdex/github-app-token@3beb63f4bd073e61482598c45c71c1019b59b73a # v2.1.0
         id: generate-token
         with:
           app_id: ${{ secrets.JENKINS_ADMIN_APP_ID }}
           private_key: ${{ secrets.JENKINS_ADMIN_APP_PRIVKEY }}
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@b1ddad2c994a25fbc81a28b3ec0e368bb2021c50 # v5
+        uses: peter-evans/create-pull-request@b1ddad2c994a25fbc81a28b3ec0e368bb2021c50 # v6.0.0
         with:
           commit-message: 'feat(deps): bump jenkins lts to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
