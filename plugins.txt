@@ -31,10 +31,10 @@ credentials-binding:657.v2b_19db_7d6e6d
 customizable-header:69.v36de0f11b_d00
 dark-theme:416.v535839b_c4e88
 data-tables-api:1.13.8-2
-datadog:6.0.0
+datadog:6.0.1
 display-url-api:2.200.vb_9327d658781
 docker-commons:439.va_3cb_0a_6a_fb_29
-durable-task:547.vd1ea_007d100c
+durable-task:550.v0930093c4b_a_6
 ec2:1648.vf3d852e00486
 echarts-api:5.4.3-2
 extended-read-permission:53.v6499940139e5
