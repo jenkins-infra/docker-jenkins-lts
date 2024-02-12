@@ -13,11 +13,11 @@ azure-vm-agents:901.ved986df424b_3
 basic-branch-build-strategies:81.v05e333931c7d
 bootstrap5-api:5.3.2-3
 bouncycastle-api:2.30.1.77-225.v26ea_c9455fd9
-branch-api:2.1144.v1425d1c3d5a_7
+branch-api:2.1148.vce12cfcdf090
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:866.vdea_7dcd3008e
+cloudbees-bitbucket-branch-source:871.v28d74e8b_4226
 cloudbees-folder:6.858.v898218f3609d
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:107.v773860566e2e
@@ -28,10 +28,10 @@ copyartifact:722.v0662a_9b_e22a_c
 coverage:1.10.0
 credentials:1319.v7eb_51b_3a_c97b_
 credentials-binding:657.v2b_19db_7d6e6d
-customizable-header:69.v36de0f11b_d00
+customizable-header:77.vd0563518960b_
 dark-theme:416.v535839b_c4e88
 data-tables-api:1.13.8-2
-datadog:6.0.1
+datadog:6.0.2
 display-url-api:2.200.vb_9327d658781
 docker-commons:439.va_3cb_0a_6a_fb_29
 durable-task:550.v0930093c4b_a_6
@@ -120,7 +120,7 @@ workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1042.ve7b_140c4a_e0c
 workflow-cps:3853.vb_a_490d892963
-workflow-durable-task-step:1327.ve57634fb_09ce
+workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1385.vb_58b_86ea_fff1
 workflow-multibranch:773.vc4fe1378f1d5
 workflow-scm-step:415.v434365564324
