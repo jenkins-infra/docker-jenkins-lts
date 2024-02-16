@@ -17,7 +17,7 @@ branch-api:2.1148.vce12cfcdf090
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:873.v0ed259216f8d
+cloudbees-bitbucket-branch-source:874.v659a_b_70f5e69
 cloudbees-folder:6.858.v898218f3609d
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:107.v773860566e2e
@@ -100,7 +100,7 @@ prism-api:1.29.0-10
 pubsub-light:1.18
 scm-api:683.vb_16722fb_b_80b_
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
-script-security:1321.va_73c0795b_923
+script-security:1326.vdb_c154de8669
 snakeyaml-api:2.2-111.vc6598e30cc65
 sse-gateway:1.26
 ssh-agent:346.vda_a_c4f2c8e50
@@ -119,7 +119,7 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1042.ve7b_140c4a_e0c
-workflow-cps:3853.vb_a_490d892963
+workflow-cps:3867.v535458ce43fd
 workflow-durable-task-step:1331.vc8c2fed35334
 workflow-job:1385.vb_58b_86ea_fff1
 workflow-multibranch:773.vc4fe1378f1d5
