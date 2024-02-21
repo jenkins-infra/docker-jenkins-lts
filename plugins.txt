@@ -63,7 +63,7 @@ jaxb:2.3.9-1
 jdk-tool:73.vddf737284550
 jersey2-api:2.41-133.va_03323b_a_1396
 jjwt-api:0.11.5-77.v646c772fddb_0
-jnr-posix-api:3.1.18-1
+jnr-posix-api:3.1.19-1
 job-dsl:1.87
 jquery3-api:3.7.1-1
 jsch:0.2.16-86.v42e010d9484b_
