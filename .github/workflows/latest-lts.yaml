@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Jenkins LTS version
         id: update
-        uses: jenkins-infra/jenkins-version@0.5.2
+        uses: jenkins-infra/jenkins-version@0.5.3
         with:
           version-identifier: lts
       - name: Process Version
