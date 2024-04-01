@@ -17,7 +17,7 @@ branch-api:2.1152.v6f101e97dd77
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.0.2
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:880.vcf4056c5a_71f
+cloudbees-bitbucket-branch-source:883.v041fa_695e9c2
 cloudbees-folder:6.901.vb_4c7a_da_75da_3
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:107.v773860566e2e
@@ -53,7 +53,7 @@ handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
 htmlpublisher:1.33
 inline-pipeline:1.0.3
 instance-identity:185.v303dc7c645f9
-ionicons-api:56.v1b_1c8c49374e
+ionicons-api:70.v2959a_b_74e3cf
 jackson2-api:2.17.0-379.v02de8ec9f64c
 jakarta-activation-api:2.1.3-1
 jakarta-mail-api:2.1.3-1
@@ -62,7 +62,7 @@ javax-mail-api:1.6.2-9
 jaxb:2.3.9-1
 jdk-tool:73.vddf737284550
 jersey2-api:2.42-147.va_28a_44603b_d5
-jjwt-api:0.11.5-77.v646c772fddb_0
+jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 jnr-posix-api:3.1.19-2
 job-dsl:1.87
 jquery3-api:3.7.1-2
@@ -77,8 +77,8 @@ mailer:472.vf7c289a_4b_420
 matrix-auth:3.2.2
 matrix-project:822.824.v14451b_c0fd42
 metrics:4.2.21-449.v6960d7c54c69
-mina-sshd-api-common:2.12.0-99.vdb_f07841c2db_
-mina-sshd-api-core:2.12.0-99.vdb_f07841c2db_
+mina-sshd-api-common:2.12.1-101.v85b_e08b_780dd
+mina-sshd-api-core:2.12.1-101.v85b_e08b_780dd
 node-iterator-api:55.v3b_77d4032326
 okhttp-api:4.11.0-172.vda_da_1feeb_c6e
 pipeline-build-step:540.vb_e8849e1a_b_d8
@@ -87,12 +87,12 @@ pipeline-graph-analysis:216.vfd8b_ece330ca_
 pipeline-graph-view:234.v984087d1eb_25
 pipeline-groovy-lib:704.vc58b_8890a_384
 pipeline-input-step:491.vb_07d21da_1a_fb_
-pipeline-milestone-step:111.v449306f708b_7
+pipeline-milestone-step:119.vdfdc43fc3b_9a_
 pipeline-model-api:2.2184.v0b_358b_953e69
 pipeline-model-definition:2.2184.v0b_358b_953e69
 pipeline-model-extensions:2.2184.v0b_358b_953e69
 pipeline-rest-api:2.34
-pipeline-stage-step:305.ve96d0205c1c6
+pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-view:2.34
 plain-credentials:179.vc5cb_98f6db_38
 plugin-util-api:4.1.0
@@ -120,9 +120,9 @@ workflow-aggregator:596.v8c21c963d92d
 workflow-api:1291.v51fd2a_625da_7
 workflow-basic-steps:1049.v257a_e6b_30fb_d
 workflow-cps:3889.v937e0b_3412d3
-workflow-durable-task-step:1331.vc8c2fed35334
+workflow-durable-task-step:1336.v768003e07199
 workflow-job:1400.v7fd111b_ec82f
 workflow-multibranch:773.vc4fe1378f1d5
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:657.v03b_e8115821b_
-workflow-support:881.v7663695646cf
+workflow-support:896.v175a_a_9c5b_78f
