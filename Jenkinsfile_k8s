@@ -5,6 +5,7 @@ retry(3) {
     try {
         timeout(time: 30, unit: 'MINUTES') {
             buildDockerAndPublishImage('jenkins-lts', [
+                targetplatforms: 'linux/amd64,linux/arm64',
                 automaticSemanticVersioning: true,
                 gitCredentials: 'github-app-infra',
                 nextVersionCommand: 'echo "$(jx-release-version -next-version=semantic:strip-prerelease)-$(grep "FROM jenkins" Dockerfile | cut -d: -f2 | cut -d- -f1)"',
