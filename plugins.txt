@@ -17,7 +17,7 @@ branch-api:2.1169.va_f810c56e895
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.2.0
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:883.v041fa_695e9c2
+cloudbees-bitbucket-branch-source:886.v44cf5e4ecec5
 cloudbees-folder:6.901.vb_4c7a_da_75da_3
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:107.v773860566e2e
@@ -31,7 +31,7 @@ credentials-binding:677.vdc9d38cb_254d
 customizable-header:96.v295683015391
 dark-theme:439.vdef09f81f85e
 data-tables-api:2.0.5-1
-datadog:7.0.0
+datadog:7.0.1
 display-url-api:2.204.vf6fddd8a_8b_e9
 docker-commons:439.va_3cb_0a_6a_fb_29
 durable-task:555.v6802fe0f0b_82
@@ -40,12 +40,12 @@ echarts-api:5.5.0-1
 extended-read-permission:53.v6499940139e5
 font-awesome-api:6.5.2-1
 forensics-api:2.4.0
-git:5.2.1
+git:5.2.2
 git-client:4.7.0
 git-forensics:2.1.0
 github:1.38.0
 github-api:1.318-461.v7a_c09c9fa_d63
-github-branch-source:1787.v8b_8cd49a_f8f1
+github-branch-source:1789.v5b_0c0cea_18c3
 github-checks:554.vb_ee03a_000f65
 github-label-filter:1.0.0
 groovy:457.v99900cb_85593
@@ -68,7 +68,7 @@ job-dsl:1.87
 jquery3-api:3.7.1-2
 jsch:0.2.16-86.v42e010d9484b_
 junit:1265.v65b_14fa_f12f0
-kubernetes:4209.vc646b_71e5269
+kubernetes:4214.vf10083a_42e70
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:0.11
 kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
@@ -96,7 +96,7 @@ pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-view:2.34
 plain-credentials:179.vc5cb_98f6db_38
 plugin-util-api:4.1.0
-prism-api:1.29.0-13
+prism-api:1.29.0-14
 pubsub-light:1.18
 scm-api:690.vfc8b_54395023
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
