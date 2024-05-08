@@ -30,7 +30,7 @@ credentials:1337.v60b_d7b_c7b_c9f
 credentials-binding:677.vdc9d38cb_254d
 customizable-header:96.v295683015391
 dark-theme:439.vdef09f81f85e
-data-tables-api:2.0.5-1
+data-tables-api:2.0.6-1
 datadog:7.0.1
 display-url-api:2.204.vf6fddd8a_8b_e9
 docker-commons:439.va_3cb_0a_6a_fb_29
