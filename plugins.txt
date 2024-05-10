@@ -28,7 +28,7 @@ copyartifact:722.v0662a_9b_e22a_c
 coverage:1.14.0
 credentials:1337.v60b_d7b_c7b_c9f
 credentials-binding:677.vdc9d38cb_254d
-customizable-header:96.v295683015391
+customizable-header:106.v6ca_cde2e05ca_
 dark-theme:439.vdef09f81f85e
 data-tables-api:2.0.6-1
 datadog:7.0.1
@@ -96,7 +96,7 @@ pipeline-stage-step:312.v8cd10304c27a_
 pipeline-stage-view:2.34
 plain-credentials:179.vc5cb_98f6db_38
 plugin-util-api:4.1.0
-prism-api:1.29.0-14
+prism-api:1.29.0-15
 pubsub-light:1.18
 scm-api:690.vfc8b_54395023
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
