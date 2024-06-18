@@ -24,11 +24,11 @@ command-launcher:107.v773860566e2e
 commons-lang3-api:3.14.0-76.vda_5591261cfe
 commons-text-api:1.12.0-119.v73ef73f2345d
 configuration-as-code:1810.v9b_c30a_249a_4c
-copyartifact:722.v0662a_9b_e22a_c
+copyartifact:746.vd2a_674fb_4f6f
 coverage:1.15.0
 credentials:1337.v60b_d7b_c7b_c9f
 credentials-binding:677.vdc9d38cb_254d
-customizable-header:115.v91250ee04a_2f
+customizable-header:124.vff1b_7602cc5a_
 dark-theme:439.vdef09f81f85e
 data-tables-api:2.0.8-1
 display-url-api:2.204.vf6fddd8a_8b_e9
@@ -40,7 +40,7 @@ extended-read-permission:53.v6499940139e5
 font-awesome-api:6.5.2-1
 forensics-api:2.4.0
 git:5.2.2
-git-client:4.7.0
+git-client:5.0.0
 git-forensics:2.1.0
 github:1.39.0
 github-api:1.318-461.v7a_c09c9fa_d63
@@ -84,7 +84,7 @@ pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github:2.8-159.09e4403bc62f
 pipeline-graph-analysis:216.vfd8b_ece330ca_
 pipeline-graph-view:287.v3ef017b_780d5
-pipeline-groovy-lib:710.v4b_94b_077a_808
+pipeline-groovy-lib:727.ve832a_9244dfa_
 pipeline-input-step:495.ve9c153f6067b_
 pipeline-milestone-step:119.vdfdc43fc3b_9a_
 pipeline-model-api:2.2198.v41dd8ef6dd56
@@ -118,10 +118,10 @@ windows-azure-storage:419.v4046cd70d2e3
 workflow-aggregator:596.v8c21c963d92d
 workflow-api:1316.v33eb_726c50b_a_
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
-workflow-cps:3894.3896.vca_2c931e7935
+workflow-cps:3903.v48a_8836749e9
 workflow-durable-task-step:1353.v1891a_b_01da_18
 workflow-job:1400.v7fd111b_ec82f
-workflow-multibranch:783.va_6eb_ef636fb_d
+workflow-multibranch:783.787.v50539468395f
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:657.v03b_e8115821b_
 workflow-support:907.v6713a_ed8a_573
