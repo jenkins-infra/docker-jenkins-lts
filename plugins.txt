@@ -43,7 +43,7 @@ git:5.2.2
 git-client:5.0.0
 git-forensics:2.1.0
 github:1.39.0
-github-api:1.318-461.v7a_c09c9fa_d63
+github-api:1.321-468.v6a_9f5f2d5a_7e
 github-branch-source:1790.v5a_7859812c8d
 github-checks:581.va_9669c91d6cb_
 github-label-filter:1.0.0
@@ -66,7 +66,7 @@ jnr-posix-api:3.1.19-2
 job-dsl:1.87
 jquery3-api:3.7.1-2
 jsch:0.2.16-86.v42e010d9484b_
-junit:1279.v72cf99b_25c43
+junit:1280.v310a_78b_9a_1e0
 kubernetes:4253.v7700d91739e5
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:174.va_36e093562d9
@@ -97,13 +97,13 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:4.1.0
 prism-api:1.29.0-15
 pubsub-light:1.18
-scm-api:690.vfc8b_54395023
+scm-api:696.v778d637b_a_762
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
 script-security:1341.va_2819b_414686
 snakeyaml-api:2.2-111.vc6598e30cc65
 sse-gateway:1.27
 ssh-agent:367.vf9076cd4ee21
-ssh-credentials:342.ve5a_f1db_5a_132
+ssh-credentials:343.v884f71d78167
 sshd:3.330.vc866a_8389b_58
 structs:338.v848422169819
 support-core:1461.v3ed77a_a_8e1c4
