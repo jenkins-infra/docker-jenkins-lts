@@ -2,4 +2,8 @@ FROM jenkins/jenkins:2.462.1-jdk17
 
 COPY logos /usr/share/jenkins/ref/userContent/logos
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
-RUN jenkins-plugin-cli -f /usr/share/jenkins/ref/plugins.txt --verbose
+RUN jenkins-plugin-cli \
+  --jenkins-update-center='https://azure.updates.jenkins.io/update-center.json' \
+  --jenkins-plugin-info='https://azure.updates.jenkins.io/update-center.json' \
+  --plugin-file /usr/share/jenkins/ref/plugins.txt \
+  --verbose
