@@ -2,6 +2,11 @@
 
 set -ex
 
+list="plugins-*.txt"
+if [[ "$#" -eq 1 ]]; then
+    list=$1
+fi
+
 cd "$(dirname "$0")" || exit 1
 
 echo "Updating plugins"
@@ -19,12 +24,24 @@ wget --no-verbose "https://get.jenkins.io/war-stable/${CURRENT_JENKINS_VERSION}/
 
 cd ../ || exit 1
 
-java -jar "${TMP_DIR}/jenkins-plugin-manager.jar" -f plugins.txt --available-updates --output txt --war "${TMP_DIR}/jenkins.war"  > plugins2.txt
+# Iterate through each txt file starting with "plugins-", or the file specified as input
+for pluginfile in ${list}; do
+    if [ -e "${pluginfile}" ]; then
+        echo "Updating plugins file: ${pluginfile}"
 
-mv plugins2.txt plugins.txt
+        java -jar "${TMP_DIR}/jenkins-plugin-manager.jar" \
+            --plugin-file "${pluginfile}" \
+            --jenkins-update-center='https://azure.updates.jenkins.io/update-center.json' \
+            --jenkins-plugin-info='https://azure.updates.jenkins.io/plugin-versions.json' \
+            --available-updates \
+            --output txt \
+            --war "${TMP_DIR}/jenkins.war" \
+        > plugins2.txt
 
-git diff plugins.txt
-
-echo "Updating plugins complete"
+        mv plugins2.txt "${pluginfile}"
+    fi
+done
 
 rm -rf "${TMP_DIR}"
+
+echo "Updating plugins complete"
