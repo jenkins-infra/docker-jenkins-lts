@@ -32,7 +32,7 @@ for pluginfile in ${list}; do
         java -jar "${TMP_DIR}/jenkins-plugin-manager.jar" \
             --plugin-file "${pluginfile}" \
             --jenkins-update-center='https://azure.updates.jenkins.io/update-center.json' \
-            --jenkins-plugin-info='https://azure.updates.jenkins.io/update-center.json' \
+            --jenkins-plugin-info='https://azure.updates.jenkins.io/plugin-versions.json' \
             --available-updates \
             --output txt \
             --war "${TMP_DIR}/jenkins.war" \
