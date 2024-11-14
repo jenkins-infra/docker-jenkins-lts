@@ -49,7 +49,7 @@ github-checks:589.v845136f916cd
 github-label-filter:1.0.0
 groovy:457.v99900cb_85593
 handy-uri-templates-2-api:2.1.8-30.v7e777411b_148
-htmlpublisher:1.36
+htmlpublisher:1.37
 inline-pipeline:1.0.3
 instance-identity:201.vd2a_b_5a_468a_a_6
 ionicons-api:74.v93d5eb_813d5f
@@ -99,7 +99,7 @@ prism-api:1.29.0-18
 pubsub-light:1.18
 scm-api:698.v8e3b_c788f0a_6
 scm-filter-branch-pr:210.vf35256163d30
-script-security:1368.vb_b_402e3547e7
+script-security:1369.v9b_98a_4e95b_2d
 snakeyaml-api:2.3-123.v13484c65210a_
 sse-gateway:1.27
 ssh-agent:376.v8933585c69d3
