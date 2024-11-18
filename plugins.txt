@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.772-474.v7f79a_2046a_fb_
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:312.v0f3973cd1e59
 azure-sdk:184.v1f2c161c9777
-azure-vm-agents:966.v39138b_4ca_5cd
+azure-vm-agents:968.v7885b_e6e6fb_b_
 basic-branch-build-strategies:190.v343a_ee70d920
 bootstrap5-api:5.3.3-1
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
@@ -17,8 +17,8 @@ branch-api:2.1200.v4b_a_3da_2eb_db_4
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
-cloudbees-bitbucket-branch-source:906.vedf430cb_4481
-cloudbees-folder:6.955.v81e2a_35c08d3
+cloudbees-bitbucket-branch-source:912.v3b_f74026941c
+cloudbees-folder:6.959.v4ed5cc9e2dd4
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:116.vd85919c54a_d6
 commons-lang3-api:3.17.0-84.vb_b_938040b_078
@@ -34,7 +34,7 @@ data-tables-api:2.1.8-1
 display-url-api:2.209.v582ed814ff2f
 docker-commons:445.v6b_646c962a_94
 durable-task:577.v2a_8a_4b_7c0247
-ec2:1746.vff2f5a_25b_61a_
+ec2:1751.v47818f82a_83d
 echarts-api:5.5.1-4
 extended-read-permission:53.v6499940139e5
 font-awesome-api:6.6.0-2
@@ -114,7 +114,7 @@ toolenv:1.2
 trilead-api:2.147.vb_73cc728a_32e
 variant:60.v7290fc0eb_b_cd
 warnings-ng:11.11.0
-windows-azure-storage:448.v6496db_f62275
+windows-azure-storage:454.v573775e9feef
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
