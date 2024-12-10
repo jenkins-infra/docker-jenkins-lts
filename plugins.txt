@@ -18,7 +18,7 @@ caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
 cloudbees-bitbucket-branch-source:933.v7119e94e8f56
-cloudbees-folder:6.963.v6edc0fc71472
+cloudbees-folder:6.969.v7d22c6eb_fde1
 cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:116.vd85919c54a_d6
 commons-lang3-api:3.17.0-84.vb_b_938040b_078
@@ -28,7 +28,7 @@ copyartifact:757.v05365583a_455
 coverage:1.16.1
 credentials:1393.v6017143c1763
 credentials-binding:687.v619cb_15e923f
-customizable-header:141.vdd3dcb_cfcf66
+customizable-header:143.v6cb_d4e85f9d5
 dark-theme:514.va_3ea_73d65dc1
 data-tables-api:2.1.8-1
 display-url-api:2.209.v582ed814ff2f
