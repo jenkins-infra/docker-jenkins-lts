@@ -23,7 +23,7 @@ cloudbees-jenkins-advisor:358.v58972d19b_1f0
 command-launcher:116.vd85919c54a_d6
 commons-lang3-api:3.17.0-84.vb_b_938040b_078
 commons-text-api:1.12.0-129.v99a_50df237f7
-configuration-as-code:1903.v004d55388f30
+configuration-as-code:1909.vb_b_f59a_27d013
 copyartifact:757.v05365583a_455
 coverage:1.16.1
 credentials:1405.vb_cda_74a_f8974
@@ -79,7 +79,7 @@ metrics:4.2.21-458.vcf496cb_839e4
 mina-sshd-api-common:2.14.0-136.v4d2b_0853615e
 mina-sshd-api-core:2.14.0-136.v4d2b_0853615e
 node-iterator-api:55.v3b_77d4032326
-okhttp-api:4.11.0-181.v1de5b_83857df
+okhttp-api:4.11.0-183.va_87fc7a_89810
 pipeline-build-step:540.vb_e8849e1a_b_d8
 pipeline-github:2.8-159.09e4403bc62f
 pipeline-graph-analysis:216.vfd8b_ece330ca_
