@@ -13,7 +13,7 @@ azure-vm-agents:975.va_a_d9b_6c912b_a_
 basic-branch-build-strategies:190.v343a_ee70d920
 bootstrap5-api:5.3.3-1
 bouncycastle-api:2.30.1.79-254.vfdb_814e7791e
-branch-api:2.1202.vc51412f3ed84
+branch-api:2.1206.vd9f35001c95c
 caffeine-api:3.1.8-133.v17b_1ff2e0599
 checks-api:2.2.1
 cloud-stats:336.v788e4055508b_
@@ -120,7 +120,7 @@ workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
 workflow-cps:4007.vd705fc76a_34e
 workflow-durable-task-step:1398.vf6c9e89e5988
-workflow-job:1472.ve4d5eca_143c4
+workflow-job:1476.v90f02a_225559
 workflow-multibranch:795.ve0cb_1f45ca_9a_
 workflow-scm-step:427.v4ca_6512e7df1
 workflow-step-api:678.v3ee58b_469476
