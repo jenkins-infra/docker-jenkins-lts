@@ -34,7 +34,7 @@ data-tables-api:2.1.8-1
 display-url-api:2.209.v582ed814ff2f
 docker-commons:445.v6b_646c962a_94
 durable-task:581.v299a_5609d767
-ec2:1797.ve8a_edb_7e5f6a_
+ec2:1800.v3b_c68a_3f75f5
 echarts-api:5.5.1-5
 extended-read-permission:53.v6499940139e5
 font-awesome-api:6.6.0-2
