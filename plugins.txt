@@ -44,7 +44,7 @@ git-client:6.1.1
 git-forensics:2.2.1
 github:1.40.0
 github-api:1.321-478.vc9ce627ce001
-github-branch-source:1809.v088b_5f22c768
+github-branch-source:1810.v913311241fa_9
 github-checks:589.v845136f916cd
 github-label-filter:1.0.0
 groovy:457.v99900cb_85593
