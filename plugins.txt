@@ -6,7 +6,7 @@ authentication-tokens:1.131.v7199556c3004
 aws-credentials:243.v41c19a_fb_5dcf
 aws-java-sdk-ec2:1.12.772-477.v650d756dcf6d
 aws-java-sdk-minimal:1.12.772-477.v650d756dcf6d
-azure-container-agents:253.vd2f5cd5c5040
+azure-container-agents:372.v073266fff4a_7
 azure-credentials:357.v6447d38fb_007
 azure-sdk:205.v8607496fa_ffc
 azure-vm-agents:1003.v3f8b_46de698d
@@ -49,7 +49,7 @@ github-checks:602.v264a_83610da_6
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
-htmlpublisher:1.37
+htmlpublisher:424.va_e57f1253461
 inline-pipeline:1.0.3
 instance-identity:201.vd2a_b_5a_468a_a_6
 ionicons-api:82.v0597178874e1
@@ -58,7 +58,7 @@ jakarta-activation-api:2.1.3-2
 jakarta-mail-api:2.1.3-2
 javax-activation-api:1.2.0-8
 javax-mail-api:1.6.2-11
-jaxb:2.3.9-1
+jaxb:2.3.9-133.vb_ec76a_73f706
 jdk-tool:83.v417146707a_3d
 jersey2-api:2.45-154.v4ded3dc34f81
 jjwt-api:0.11.5-120.v0268cf544b_89
@@ -80,12 +80,12 @@ mina-sshd-api-common:2.14.0-143.v2b_362fc39576
 mina-sshd-api-core:2.14.0-143.v2b_362fc39576
 node-iterator-api:55.v3b_77d4032326
 okhttp-api:4.11.0-183.va_87fc7a_89810
-pipeline-build-step:555.v589d5c24a_3d6
+pipeline-build-step:557.v95d96f77b_2b_8
 pipeline-github:2.8-159.09e4403bc62f
 pipeline-graph-analysis:231.v56354571a_da_0
 pipeline-graph-view:419.v946ff4a_49e1c
 pipeline-groovy-lib:752.vdddedf804e72
-pipeline-input-step:513.v7eb_fe7e2c0fc
+pipeline-input-step:515.v8857b_eb_b_910c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
 pipeline-model-api:2.2234.v4a_b_13b_8cd590
 pipeline-model-definition:2.2234.v4a_b_13b_8cd590
@@ -97,7 +97,7 @@ plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:6.0.0
 prism-api:1.29.0-19
 pubsub-light:1.18
-scm-api:703.v72ff4b_259600
+scm-api:704.v3ce5c542825a_
 scm-filter-branch-pr:222.v72301ecb_a_ee7
 script-security:1373.vb_b_4a_a_c26fa_00
 snakeyaml-api:2.3-123.v13484c65210a_
