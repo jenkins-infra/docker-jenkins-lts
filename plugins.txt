@@ -3,7 +3,7 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.131.v7199556c3004
-aws-credentials:243.v41c19a_fb_5dcf
+aws-credentials:245.v8a_1b_7c11a_94d
 aws-java-sdk-ec2:1.12.772-477.v650d756dcf6d
 aws-java-sdk-minimal:1.12.772-477.v650d756dcf6d
 azure-container-agents:372.v073266fff4a_7
@@ -18,8 +18,8 @@ caffeine-api:3.2.0-161.v691ef352cee1
 checks-api:367.v18b_7f530e54a_
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:935.1.1
-cloudbees-folder:6.982.vf165a_16c9507
-cloudbees-jenkins-advisor:358.v58972d19b_1f0
+cloudbees-folder:6.985.va_f1635030cc5
+cloudbees-jenkins-advisor:374.v194b_d4f0c8c8
 command-launcher:118.v72741845c17a_
 commons-lang3-api:3.17.0-84.vb_b_938040b_078
 commons-text-api:1.13.0-153.v91dcd89e2a_22
@@ -32,9 +32,9 @@ customizable-header:175.v07c36327359a_
 dark-theme:524.vd675b_22b_30cb_
 data-tables-api:2.2.2-1
 display-url-api:2.209.v582ed814ff2f
-docker-commons:445.v6b_646c962a_94
+docker-commons:451.vd12c371eeeb_3
 durable-task:587.v84b_877235b_45
-ec2:1869.v73998b_605c4d
+ec2:1873.vf0b_f234b_e2f3
 echarts-api:5.6.0-2
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
@@ -51,9 +51,9 @@ groovy:497.v7b_061a_a_de65d
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
 htmlpublisher:424.va_e57f1253461
 inline-pipeline:1.0.3
-instance-identity:201.vd2a_b_5a_468a_a_6
+instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:82.v0597178874e1
-jackson2-api:2.17.0-389.va_5c7e45cd806
+jackson2-api:2.18.3-402.v74c4eb_f122b_2
 jakarta-activation-api:2.1.3-2
 jakarta-mail-api:2.1.3-2
 javax-activation-api:1.2.0-8
@@ -67,10 +67,10 @@ job-dsl:1.91
 jquery3-api:3.7.1-3
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1317.v5b_35d792b_06a_
-kubernetes:4314.v5b_846cf499eb_
+kubernetes:4324.vfec199a_33512
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
-kubernetes-credentials-provider:1.273.v15e69b_55ea_8e
+kubernetes-credentials-provider:1.276.v99a_de03cb_076
 ldap:776.vddf3e325103b_
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.4
@@ -81,7 +81,7 @@ mina-sshd-api-core:2.14.0-143.v2b_362fc39576
 node-iterator-api:72.vc90e81737df1
 okhttp-api:4.11.0-183.va_87fc7a_89810
 pipeline-build-step:557.v95d96f77b_2b_8
-pipeline-github:2.8-159.09e4403bc62f
+pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:231.v56354571a_da_0
 pipeline-graph-view:423.v765c49ca_da_3f
 pipeline-groovy-lib:752.vdddedf804e72
@@ -95,7 +95,7 @@ pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-view:2.37
 plain-credentials:183.va_de8f1dd5a_2b_
 plugin-util-api:6.0.0
-prism-api:1.29.0-19
+prism-api:1.30.0-1
 pubsub-light:1.19
 scm-api:704.v3ce5c542825a_
 scm-filter-branch-pr:222.v72301ecb_a_ee7
@@ -113,7 +113,7 @@ token-macro:444.v52de7e9c573d
 toolenv:1.2
 trilead-api:2.192.vc50a_d147e369
 variant:70.va_d9f17f859e0
-warnings-ng:12.3.0
+warnings-ng:12.4.1
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1363.v03f731255494
