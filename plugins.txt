@@ -17,7 +17,7 @@ branch-api:2.1214.v3f652804588d
 caffeine-api:3.2.0-161.v691ef352cee1
 checks-api:367.v18b_7f530e54a_
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:935.1.1
+cloudbees-bitbucket-branch-source:935.1.2
 cloudbees-folder:6.985.va_f1635030cc5
 cloudbees-jenkins-advisor:374.v194b_d4f0c8c8
 command-launcher:118.v72741845c17a_
@@ -38,10 +38,10 @@ ec2:1873.vf0b_f234b_e2f3
 echarts-api:5.6.0-2
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
-forensics-api:3.0.0
+forensics-api:3.1.0
 git:5.7.0
 git-client:6.1.2
-git-forensics:3.1.0
+git-forensics:3.2.0
 github:1.42.0
 github-api:1.321-478.vc9ce627ce001
 github-branch-source:1810.v913311241fa_9
@@ -49,7 +49,7 @@ github-checks:602.v264a_83610da_6
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
-htmlpublisher:424.va_e57f1253461
+htmlpublisher:425
 inline-pipeline:1.0.3
 instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:82.v0597178874e1
@@ -124,4 +124,4 @@ workflow-job:1505.vea_4b_20a_4a_495
 workflow-multibranch:803.v08103b_87c280
 workflow-scm-step:437.v05a_f66b_e5ef8
 workflow-step-api:700.v6e45cb_a_5a_a_21
-workflow-support:961.v51869f7b_d409
+workflow-support:963.va_600813d04a_a_
