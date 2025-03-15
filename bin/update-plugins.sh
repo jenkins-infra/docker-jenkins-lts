@@ -19,6 +19,11 @@ TMP_DIR=$(mktemp -d)
 
 wget --no-verbose "${PM_CLI_DOWNLOAD_URL}" -O "${TMP_DIR}/jenkins-plugin-manager.jar"
 
+# Retrieve and check the corresponding sha256 checksum
+echo "$(curl --fail --silent --show-error --location "${PM_CLI_DOWNLOAD_URL}.sha256")  ${TMP_DIR}/jenkins-plugin-manager.jar" > /tmp/jenkins_sha
+sha256sum --check --strict /tmp/jenkins_sha
+rm -f /tmp/jenkins_sha
+
 CURRENT_JENKINS_VERSION=$(head -n 1 ../Dockerfile | cut -d ':' -f 2 | cut -d '-' -f 1)
 wget --no-verbose "https://get.jenkins.io/war-stable/${CURRENT_JENKINS_VERSION}/jenkins.war" -O "${TMP_DIR}/jenkins.war"
 
