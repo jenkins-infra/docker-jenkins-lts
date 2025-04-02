@@ -73,7 +73,7 @@ kubernetes-credentials:192.v4d5b_1c429d17
 kubernetes-credentials-provider:1.276.v99a_de03cb_076
 ldap:780.vcb_33c9a_e4332
 mailer:489.vd4b_25144138f
-matrix-auth:3.2.5
+matrix-auth:3.2.6
 matrix-project:847.v88a_f90ff9f20
 metrics:4.2.21-464.vc9fa_a_0d6265d
 mina-sshd-api-common:2.14.0-143.v2b_362fc39576
@@ -118,7 +118,7 @@ windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1366.vf1fb_e1a_f6b_22
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4050.v8b_a_69b_587c39
+workflow-cps:4080.va_15b_44a_91525
 workflow-durable-task-step:1405.v1fcd4a_d00096
 workflow-job:1508.v9cb_c3a_a_89dfd
 workflow-multibranch:803.v08103b_87c280
