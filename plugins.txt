@@ -8,7 +8,7 @@ aws-java-sdk-ec2:1.12.780-480.v4a_0819121a_9e
 aws-java-sdk-minimal:1.12.780-480.v4a_0819121a_9e
 azure-container-agents:372.v073266fff4a_7
 azure-credentials:357.v6447d38fb_007
-azure-sdk:206.v7df6fdd1d0ff
+azure-sdk:211.vd3b_6c5504331
 azure-vm-agents:1013.v7a_2a_cd831714
 basic-branch-build-strategies:228.v68c089762a_db_
 bootstrap5-api:5.3.3-2
@@ -23,7 +23,7 @@ cloudbees-jenkins-advisor:374.v194b_d4f0c8c8
 command-launcher:123.v37cfdc92ef67
 commons-lang3-api:3.17.0-87.v5cf526e63b_8b_
 commons-text-api:1.13.0-153.v91dcd89e2a_22
-configuration-as-code:1953.v148f87d74b_1e
+configuration-as-code:1958.vddc0d369b_e16
 copyartifact:770.va_6c69e063442
 coverage:2.4.0
 credentials:1415.v831096eb_5534
@@ -83,7 +83,7 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:435.vcfcb_fb_d4ef85
+pipeline-graph-view:439.v5dcb_592df4e8
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
