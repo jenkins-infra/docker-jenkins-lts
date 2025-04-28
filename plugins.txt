@@ -34,8 +34,8 @@ data-tables-api:2.2.2-1
 display-url-api:2.209.v582ed814ff2f
 docker-commons:451.vd12c371eeeb_3
 durable-task:587.v84b_877235b_45
-ec2:1901.va_4a_a_4d4f699c
-echarts-api:5.6.0-3
+ec2:1911.vccb_5a_56f62e6
+echarts-api:5.6.0-4
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
 forensics-api:3.1.0
@@ -74,7 +74,7 @@ kubernetes-credentials-provider:1.276.v99a_de03cb_076
 ldap:780.vcb_33c9a_e4332
 mailer:489.vd4b_25144138f
 matrix-auth:3.2.6
-matrix-project:847.v88a_f90ff9f20
+matrix-project:849.v0cd64ed7e531
 metrics:4.2.30-471.v55fa_495f2b_f5
 mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
 mina-sshd-api-core:2.15.0-161.vb_200831a_c15b_
@@ -83,7 +83,7 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:447.v0c0a_f171b_643
+pipeline-graph-view:471.vd78d487a_a_1a_0
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
@@ -106,7 +106,7 @@ ssh-agent:384.ve275343791a_6
 ssh-credentials:355.v9b_e5b_cde5003
 sshd:3.353.v2b_d33c46e970
 structs:343.vdcf37b_a_c81d5
-support-core:1708.v397d822fe244
+support-core:1725.va_2a_9f06eed61
 theme-manager:294.vf2c2fd783821
 timestamper:1.28
 token-macro:444.v52de7e9c573d
