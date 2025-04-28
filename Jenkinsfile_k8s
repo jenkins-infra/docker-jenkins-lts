@@ -1,5 +1,4 @@
 buildDockerAndPublishImage('jenkins-lts', [
-    automaticSemanticVersioning: true,
     targetplatforms: 'linux/amd64,linux/arm64',
     nextVersionCommand: 'echo "$(jx-release-version -next-version=semantic:strip-prerelease)-$(grep "FROM jenkins" Dockerfile | cut -d: -f2 | cut -d- -f1)"',
 ])
