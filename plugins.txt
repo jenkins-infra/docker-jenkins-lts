@@ -17,7 +17,7 @@ branch-api:2.1217.v43d8b_b_d8b_2c7
 caffeine-api:3.2.0-166.v72a_6d74b_870f
 checks-api:370.vb_61a_c57328f3
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.0.1
+cloudbees-bitbucket-branch-source:936.1.0
 cloudbees-folder:6.1012.v79a_86a_1ea_c1f
 cloudbees-jenkins-advisor:374.v194b_d4f0c8c8
 command-launcher:123.v37cfdc92ef67
@@ -83,13 +83,13 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:235.vb_a_a_36b_f248c2
-pipeline-graph-view:471.vd78d487a_a_1a_0
+pipeline-graph-view:477.v42d998fde36d
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:517.vf8e782ee645c
 pipeline-milestone-step:127.vb_52887ca_3b_6d
-pipeline-model-api:2.2254.v2a_978de46f35
-pipeline-model-definition:2.2254.v2a_978de46f35
-pipeline-model-extensions:2.2254.v2a_978de46f35
+pipeline-model-api:2.2255.v56a_15e805f12
+pipeline-model-definition:2.2255.v56a_15e805f12
+pipeline-model-extensions:2.2255.v56a_15e805f12
 pipeline-rest-api:2.37
 pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-view:2.37
