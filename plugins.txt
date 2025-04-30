@@ -11,7 +11,7 @@ azure-credentials:357.v6447d38fb_007
 azure-sdk:211.vd3b_6c5504331
 azure-vm-agents:1013.v7a_2a_cd831714
 basic-branch-build-strategies:228.v68c089762a_db_
-bootstrap5-api:5.3.3-2
+bootstrap5-api:5.3.5-1
 bouncycastle-api:2.30.1.80-256.vf98926042a_9b_
 branch-api:2.1217.v43d8b_b_d8b_2c7
 caffeine-api:3.2.0-166.v72a_6d74b_870f
@@ -90,9 +90,9 @@ pipeline-milestone-step:127.vb_52887ca_3b_6d
 pipeline-model-api:2.2255.v56a_15e805f12
 pipeline-model-definition:2.2255.v56a_15e805f12
 pipeline-model-extensions:2.2255.v56a_15e805f12
-pipeline-rest-api:2.37
+pipeline-rest-api:2.38
 pipeline-stage-step:322.vecffa_99f371c
-pipeline-stage-view:2.37
+pipeline-stage-view:2.38
 plain-credentials:195.vb_906e9073dee
 plugin-util-api:6.1.0
 prism-api:1.30.0-1
