@@ -72,6 +72,7 @@ git-server:137.ve0060b_432302
 github:1.43.0
 github-api:1.321-488.v9b_c0da_9533f8
 github-branch-source:1815.v9152b_2ff7a_1b_
+github-oauth:651.v135e939e8b_github-oauth:61
 greenballs:1.15.1
 gson-api:2.13.1-139.v4569c2ef303f
 handlebars:3.0.8
@@ -105,6 +106,7 @@ kubernetes:4336.v55d9a_494db_38
 kubernetes-cli:1.364.vadef8cb8b823
 kubernetes-client-api:6.10.0-251.v556f5f100500
 kubernetes-credentials:192.v4d5b_1c429d17
+kubernetes-credentials-provider:1.276.v99a_de03cb_076
 ldap:780.vcb_33c9a_e4332
 lockable-resources:1349.v8b_ccb_c5487f7
 login-theme:262.vb_4ce39d5279f
