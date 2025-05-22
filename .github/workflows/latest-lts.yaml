@@ -17,7 +17,7 @@ jobs:
       - name: Process Version
         id: process
         run: |
-          SUFFIX=jdk17
+          SUFFIX=jdk21
           FULL_VERSION=jenkins/jenkins:${{ steps.update.outputs.jenkins_version }}-${SUFFIX}
           echo $FULL_VERSION
           sed -i 's|FROM .*|FROM '"${FULL_VERSION}"'|' Dockerfile
