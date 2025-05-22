@@ -1,4 +1,4 @@
-name: cd
+name: Release Drafter
 on:
   push:
   workflow_dispatch:
