@@ -1,4 +1,4 @@
-analysis-model-api:13.2.0
+analysis-model-api:13.5.0
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -15,7 +15,7 @@ bootstrap5-api:5.3.5-1
 bouncycastle-api:2.30.1.80-261.v00c0e2618ec3
 branch-api:2.1217.v43d8b_b_d8b_2c7
 caffeine-api:3.2.0-166.v72a_6d74b_870f
-checks-api:370.vb_61a_c57328f3
+checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.4.0
 cloudbees-folder:6.1023.v4fcb_72152519
@@ -34,7 +34,7 @@ data-tables-api:2.2.2-1
 display-url-api:2.209.v582ed814ff2f
 docker-commons:457.v0f62a_94f11a_3
 durable-task:587.v84b_877235b_45
-ec2:1917.v6f3dd5711d3b_
+ec2:1935.v9b_77210472b_1
 echarts-api:5.6.0-4
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
@@ -60,7 +60,7 @@ javax-activation-api:1.2.0-8
 javax-mail-api:1.6.2-11
 jaxb:2.3.9-133.vb_ec76a_73f706
 jdk-tool:83.v417146707a_3d
-jersey2-api:2.45-154.v4ded3dc34f81
+jersey2-api:2.47-165.ve7809a_3e87e0
 jjwt-api:0.11.5-120.v0268cf544b_89
 jnr-posix-api:3.1.20-138.vdb_9db_a_39182f
 job-dsl:1.93
@@ -83,7 +83,7 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:567.vea_ce550ece97
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:565.vb_991078a_56d6
+pipeline-graph-view:573.v7fc7fb_cfd029
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -118,9 +118,9 @@ windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1373.v7b_813f10efa_b_
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4106.v7a_8a_8176d450
+workflow-cps:4117.vc0f3c515a_a_a_0
 workflow-durable-task-step:1405.v1fcd4a_d00096
-workflow-job:1532.va_9a_d244074a_3
+workflow-job:1537.v66038d35fc76
 workflow-multibranch:806.vb_b_688f609ee9
 workflow-scm-step:437.v05a_f66b_e5ef8
 workflow-step-api:700.v6e45cb_a_5a_a_21
