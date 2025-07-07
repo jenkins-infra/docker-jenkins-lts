@@ -13,11 +13,11 @@ azure-vm-agents:1026.v6b_6edb_b_e3fff
 basic-branch-build-strategies:228.v68c089762a_db_
 bootstrap5-api:5.3.7-1
 bouncycastle-api:2.30.1.80-261.v00c0e2618ec3
-branch-api:2.1226.ve1e7e0b_4b_95f
+branch-api:2.1229.ve86b_d02b_5e56
 caffeine-api:3.2.0-166.v72a_6d74b_870f
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.1
+cloudbees-bitbucket-branch-source:936.4.3
 cloudbees-folder:6.1026.ve06dfa_cf31c3
 cloudbees-jenkins-advisor:384.vf19423a_eb_9b_0
 command-launcher:123.v37cfdc92ef67
@@ -30,11 +30,11 @@ credentials:1415.v831096eb_5534
 credentials-binding:687.v619cb_15e923f
 customizable-header:175.v07c36327359a_
 dark-theme:524.vd675b_22b_30cb_
-data-tables-api:2.3.2-1
+data-tables-api:2.3.2-3
 display-url-api:2.209.v582ed814ff2f
 docker-commons:457.v0f62a_94f11a_3
 durable-task:587.v84b_877235b_45
-ec2:1935.v9b_77210472b_1
+ec2:1948.v72ee2dd75cf0
 echarts-api:5.6.0-5
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
@@ -83,7 +83,7 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:241.vc3d48fb_b_2582
-pipeline-graph-view:588.v1efd7e219272
+pipeline-graph-view:594.v595395fa_3656
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:527.vd61b_1d3c5078
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -107,8 +107,8 @@ ssh-credentials:359.v2191c4cf635f
 sshd:3.372.v5d04a_e92d8cf
 structs:350.v3b_30f09f2363
 support-core:1739.v0d10c0a_57cb_e
-theme-manager:294.vf2c2fd783821
-timestamper:1.29
+theme-manager:310.v234c7de84f9c
+timestamper:1.30
 token-macro:444.v52de7e9c573d
 toolenv:1.2
 trilead-api:2.209.v0e69b_c43c245
