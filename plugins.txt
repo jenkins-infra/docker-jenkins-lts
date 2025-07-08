@@ -3,10 +3,6 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.131.v7199556c3004
-aws-credentials:248.v78a_dcfc9db_ff
-aws-java-sdk-ec2:1.12.780-480.v4a_0819121a_9e
-aws-java-sdk-minimal:1.12.780-480.v4a_0819121a_9e
-azure-container-agents:372.v073266fff4a_7
 azure-credentials:357.v6447d38fb_007
 azure-sdk:223.vff769b_ce66b_b_
 azure-vm-agents:1026.v6b_6edb_b_e3fff
@@ -34,7 +30,6 @@ data-tables-api:2.3.2-3
 display-url-api:2.209.v582ed814ff2f
 docker-commons:457.v0f62a_94f11a_3
 durable-task:587.v84b_877235b_45
-ec2:1948.v72ee2dd75cf0
 echarts-api:5.6.0-5
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:6.7.2-1
