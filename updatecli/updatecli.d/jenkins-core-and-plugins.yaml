@@ -1,0 +1,97 @@
+---
+name: Bump Jenkins Core and/or Plugins
+
+scms:
+  default:
+    kind: github
+    spec:
+      user: "{{ .github.user }}"
+      email: "{{ .github.email }}"
+      owner: "{{ .github.owner }}"
+      repository: "{{ .github.repository }}"
+      token: "{{ requiredEnv .github.token }}"
+      username: "{{ .github.username }}"
+      branch: "{{ .github.branch }}"
+
+sources:
+  getCurrentDockerTagSuffix:
+    name: Get current Jenkins base image
+    kind: file
+    spec:
+      file: ./Dockerfile
+    transformers:
+      - findsubmatch:
+          pattern: "FROM jenkins/jenkins:(.*)-(.*)"
+          captureindex: 2
+  getLatestJenkinsVersion:
+    kind: jenkins
+    name: Get the latest weekly Jenkins version
+    spec:
+      release: stable # LTS line
+    transformers:
+      - addsuffix: '-{{ source "getCurrentDockerTagSuffix" }}'
+  getLatestPluginsToTempFile:
+    name: Update Jenkins plugins
+    kind: shell
+    spec:
+      command: |
+        temp_file="$(mktemp)"
+        docker container run --rm --volume=$(pwd):/data:ro --entrypoint=bash jenkins/jenkins:{{ source "getLatestJenkinsVersion" }} \
+          -c 'jenkins-plugin-cli --plugin-file /data/plugins.txt --available-updates --output txt' > "${temp_file}"
+        echo "${temp_file}"
+  getprbody:
+    name: Generate PR Body to ease maintainers life (used by action github/pullrequest)
+    kind: shell
+    spec:
+      command: bash ./updatecli/scripts/generate-pr-body.sh '{{ source "getLatestPluginsToTempFile" }}' ./plugins.txt
+  getLatestPlugins:
+    name: Get list of latest plugins
+    kind: file
+    spec:
+      file: '{{ source "getLatestPluginsToTempFile" }}'
+
+conditions:
+  testDockerImageExists:
+    name: Does the Docker Image exist on the Docker Hub?
+    kind: dockerimage
+    sourceid: getLatestJenkinsVersion
+    spec:
+      image: jenkins/jenkins
+      architectures:
+        - amd64
+        - arm64
+
+targets:
+  updateDockerfile:
+    name: Update the Dockerfile with the new version
+    kind: dockerfile
+    sourceid: getLatestJenkinsVersion
+    spec:
+      file: Dockerfile
+      instruction:
+        keyword: FROM
+        matcher: jenkins/jenkins
+    scmid: default
+  updatePlugins:
+    name: Update Jenkins plugins
+    sourceid: getLatestPlugins
+    kind: file
+    spec:
+      file: ./plugins.txt
+    scmid: default
+
+actions:
+  default:
+    kind: github/pullrequest
+    scmid: default
+    title: Bump Jenkins Core and/or Plugins
+    spec:
+      description: |
+        <h3>Link(s):</h3>
+        <br/>
+        {{ source `getprbody` }}
+        <br/>
+      labels:
+        - dependencies
+        - jenkins-core
+        - jenkins-plugins
