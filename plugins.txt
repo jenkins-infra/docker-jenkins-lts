@@ -2,7 +2,7 @@ analysis-model-api:13.7.0
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
-authentication-tokens:1.131.v7199556c3004
+authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:357.v6447d38fb_007
 azure-sdk:239.v0e088b_133a_77
 azure-vm-agents:1043.v6c34a_871003d
