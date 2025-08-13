@@ -21,7 +21,7 @@ commons-lang3-api:3.18.0-98.v3a_674c06072d
 commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
 configuration-as-code:1985.vdda_32d0c4ea_b_
 copyartifact:770.va_6c69e063442
-coverage:2.8.0
+coverage:2.2873.v430507dfc44b_
 credentials:1419.v2337d1ceceef
 credentials-binding:702.vfe613e537e88
 customizable-header:222.v59c31852cf3a_
@@ -33,7 +33,7 @@ durable-task:595.ve87b_f1318d67
 echarts-api:6.0.0-1
 extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:7.0.0-1
-forensics-api:3.1.0
+forensics-api:3.1740.v1d0305a_2747b_
 git:5.7.0
 git-client:6.3.0
 git-forensics:3.2.0
@@ -69,7 +69,7 @@ kubernetes-credentials-provider:1.290.ve56494531260
 ldap:780.vcb_33c9a_e4332
 mailer:515.vd788654779b_1
 matrix-auth:3.2.7
-matrix-project:855.va_10985fa_3219
+matrix-project:856.v4c352b_3a_b_23e
 metrics:4.2.32-481.v75f035fdc894
 mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
 mina-sshd-api-core:2.15.0-161.vb_200831a_c15b_
@@ -111,10 +111,10 @@ variant:70.va_d9f17f859e0
 warnings-ng:12.10.0
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
-workflow-api:1382.veca_a_efe062fa_
+workflow-api:1384.vdc05a_48f535f
 workflow-basic-steps:1079.vce64b_a_929c5a_
-workflow-cps:4177.vb_203fe395445
-workflow-durable-task-step:1446.v3efd13441220
+workflow-cps:4183.v94b_6fd39da_c1
+workflow-durable-task-step:1452.v0ee719c104a_7
 workflow-job:1540.v295eccc9778f
 workflow-multibranch:811.vcd33d074c2a_0
 workflow-scm-step:437.v05a_f66b_e5ef8
