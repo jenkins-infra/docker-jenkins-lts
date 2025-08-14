@@ -9,7 +9,7 @@ azure-vm-agents:1043.v6c34a_871003d
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.7-2
 bouncycastle-api:2.30.1.81-264.v95c79c0e772c
-branch-api:2.1240.vca_710512d944
+branch-api:2.1244.vf95c81f1641c
 caffeine-api:3.2.2-178.v353b_8428ed56
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
@@ -21,7 +21,7 @@ commons-lang3-api:3.18.0-98.v3a_674c06072d
 commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
 configuration-as-code:1985.vdda_32d0c4ea_b_
 copyartifact:770.va_6c69e063442
-coverage:2.2873.v430507dfc44b_
+coverage:2.2875.ve560756ff429
 credentials:1419.v2337d1ceceef
 credentials-binding:702.vfe613e537e88
 customizable-header:222.v59c31852cf3a_
@@ -101,14 +101,14 @@ ssh-agent:386.v36cc0c7582f0
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.374.v19b_d59ce6610
 structs:353.v261ea_40a_80fb_
-support-core:1756.v5b_e146d607fd
+support-core:1758.v87f0f880c067
 theme-manager:319.v9193461f9671
 timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 toolenv:1.2
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
-warnings-ng:12.10.0
+warnings-ng:12.9749.va_2c1361722d3
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
