@@ -4,7 +4,7 @@ antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:357.v6447d38fb_007
-azure-sdk:239.v0e088b_133a_77
+azure-sdk:243.v4a_0d23a_c71a_7
 azure-vm-agents:1043.v6c34a_871003d
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.7-2
@@ -70,7 +70,7 @@ ldap:780.vcb_33c9a_e4332
 mailer:515.vd788654779b_1
 matrix-auth:3.2.7
 matrix-project:856.v4c352b_3a_b_23e
-metrics:4.2.32-481.v75f035fdc894
+metrics:4.2.33-484.v2fcd689980d1
 mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
 mina-sshd-api-core:2.15.0-161.vb_200831a_c15b_
 node-iterator-api:72.vc90e81737df1
