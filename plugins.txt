@@ -32,7 +32,7 @@ docker-commons:457.v0f62a_94f11a_3
 durable-task:595.ve87b_f1318d67
 echarts-api:6.0.0-1137.vfd5f348e1952
 extended-read-permission:61.vf24570ff3b_e9
-font-awesome-api:7.0.0-840.vd6c7a_a_a_a_88e1
+font-awesome-api:7.0.0-844.vb_f7825b_7f5da_
 forensics-api:3.1745.vd1f0b_a_176458
 git:5.7.0
 git-client:6.3.1
@@ -68,7 +68,7 @@ kubernetes-credentials:206.vde31a_b_0f71a_c
 kubernetes-credentials-provider:1.290.ve56494531260
 ldap:780.vcb_33c9a_e4332
 mailer:522.va_995fa_cfb_8b_d
-matrix-auth:3.2.7
+matrix-auth:3.2.8
 matrix-project:856.v4c352b_3a_b_23e
 metrics:4.2.33-484.v2fcd689980d1
 mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
