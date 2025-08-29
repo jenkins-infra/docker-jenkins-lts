@@ -71,8 +71,8 @@ mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
 matrix-project:856.v4c352b_3a_b_23e
 metrics:4.2.33-484.v2fcd689980d1
-mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
-mina-sshd-api-core:2.15.0-161.vb_200831a_c15b_
+mina-sshd-api-common:2.16.0-167.va_269f38cc024
+mina-sshd-api-core:2.16.0-167.va_269f38cc024
 node-iterator-api:72.vc90e81737df1
 okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:571.v08a_fffd4b_0ce
