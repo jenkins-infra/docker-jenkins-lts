@@ -15,7 +15,7 @@ checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
 cloudbees-bitbucket-branch-source:936.4.4
 cloudbees-folder:6.1037.v4cb_8573b_72a_a_
-cloudbees-jenkins-advisor:384.vf19423a_eb_9b_0
+cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
 commons-lang3-api:3.18.0-98.v3a_674c06072d
 commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
@@ -35,12 +35,12 @@ extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:7.0.0-851.vd1feb_218a_a_63
 forensics-api:3.1754.v2a_6613b_77002
 git:5.7.0
-git-client:6.3.2
+git-client:6.3.3
 git-forensics:3.2088.v3a_896f5e4937
 github:1.44.0
 github-api:1.321-488.v9b_c0da_9533f8
-github-branch-source:1834.v857721ea_74c6
-github-checks:602.v264a_83610da_6
+github-branch-source:1848.v42f74f7f4500
+github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
 handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
@@ -71,8 +71,8 @@ mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
 matrix-project:856.v4c352b_3a_b_23e
 metrics:4.2.33-484.v2fcd689980d1
-mina-sshd-api-common:2.15.0-161.vb_200831a_c15b_
-mina-sshd-api-core:2.15.0-161.vb_200831a_c15b_
+mina-sshd-api-common:2.16.0-167.va_269f38cc024
+mina-sshd-api-core:2.16.0-167.va_269f38cc024
 node-iterator-api:72.vc90e81737df1
 okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:571.v08a_fffd4b_0ce
@@ -101,7 +101,7 @@ ssh-agent:386.v36cc0c7582f0
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.374.v19b_d59ce6610
 structs:353.v261ea_40a_80fb_
-support-core:1758.v87f0f880c067
+support-core:1763.ve4ce0d10a_3f0
 theme-manager:319.v9193461f9671
 timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
