@@ -35,7 +35,7 @@ extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:7.0.0-851.vd1feb_218a_a_63
 forensics-api:3.1754.v2a_6613b_77002
 git:5.7.0
-git-client:6.3.2
+git-client:6.3.3
 git-forensics:3.2088.v3a_896f5e4937
 github:1.44.0
 github-api:1.321-488.v9b_c0da_9533f8
