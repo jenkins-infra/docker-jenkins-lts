@@ -39,7 +39,7 @@ git:5.7.0
 git-client:6.3.3
 git-forensics:3.2088.v3a_896f5e4937
 github:1.44.0
-github-api:1.321-488.v9b_c0da_9533f8
+github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1848.v42f74f7f4500
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
