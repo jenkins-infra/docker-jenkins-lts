@@ -13,7 +13,7 @@ branch-api:2.1244.vf95c81f1641c
 caffeine-api:3.2.2-178.v353b_8428ed56
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:936.4.4
+cloudbees-bitbucket-branch-source:937.0.0
 cloudbees-folder:6.1040.v8a_e6330a_54e3
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
@@ -38,7 +38,7 @@ forensics-api:3.1754.v2a_6613b_77002
 git:5.7.0
 git-client:6.3.3
 git-forensics:3.2088.v3a_896f5e4937
-github:1.44.0
+github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1848.v42f74f7f4500
 github-checks:634.v371dc6d978a_3
