@@ -49,7 +49,7 @@ htmlpublisher:427
 inline-pipeline:1.0.32.vf433f2d57630
 instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:94.vcc3065403257
-jackson2-api:2.19.2-408.v18248a_324cfe
+jackson2-api:2.20.0-411.v6ef8fdee4fe9
 jakarta-activation-api:2.1.3-2
 jakarta-mail-api:2.1.3-3
 javax-activation-api:1.2.0-8
@@ -62,7 +62,7 @@ jnr-posix-api:3.1.20-166.v50a_50932c65b_
 job-dsl:1.93
 jquery3-api:3.7.1-594.vb_3864f326cf0
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1354.v5b_348580de7f
+junit:1355.v45e2ea_65863c
 kubernetes:4371.vb_33b_086d54a_1
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:206.vde31a_b_0f71a_c
