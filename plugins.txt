@@ -3,9 +3,9 @@ ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
-azure-credentials:357.v6447d38fb_007
+azure-credentials:395.vb_a_9203343ef5
 azure-sdk:243.v4a_0d23a_c71a_7
-azure-vm-agents:1043.v6c34a_871003d
+azure-vm-agents:1050.v45467b_03322a_
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.7-860.v1251c115c90c
 bouncycastle-api:2.30.1.81-264.v95c79c0e772c
@@ -22,7 +22,7 @@ commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
 configuration-as-code:1985.vdda_32d0c4ea_b_
 copyartifact:770.va_6c69e063442
 coverage:2.2912.v3dea_6a_4a_73f7
-credentials:1442.v292d4234d1b_f
+credentials:1447.v4cb_b_539b_5321
 credentials-binding:702.vfe613e537e88
 csp:1.43.vb_e0a_fd67d28d
 customizable-header:222.v59c31852cf3a_
@@ -40,7 +40,7 @@ git-client:6.3.3
 git-forensics:3.2088.v3a_896f5e4937
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1848.v42f74f7f4500
+github-branch-source:1862.v1a_fc22a_d3788
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
