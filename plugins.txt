@@ -5,7 +5,7 @@ apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:395.vb_a_9203343ef5
 azure-sdk:248.v0c922122245c
-azure-vm-agents:1050.v45467b_03322a_
+azure-vm-agents:1053.v5b_86d7b_d9211
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.7-860.v1251c115c90c
 bouncycastle-api:2.30.1.81-264.v95c79c0e772c
@@ -21,7 +21,7 @@ commons-lang3-api:3.18.0-98.v3a_674c06072d
 commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
 configuration-as-code:1985.vdda_32d0c4ea_b_
 copyartifact:770.va_6c69e063442
-coverage:2.2933.v84e9b_19d9e6f
+coverage:2.2941.v08df75b_767f1
 credentials:1447.v4cb_b_539b_5321
 credentials-binding:702.vfe613e537e88
 csp:1.43.vb_e0a_fd67d28d
@@ -36,7 +36,7 @@ extended-read-permission:61.vf24570ff3b_e9
 font-awesome-api:7.0.0-851.vd1feb_218a_a_63
 forensics-api:3.1754.v2a_6613b_77002
 git:5.7.0
-git-client:6.3.3
+git-client:6.4.0
 git-forensics:3.2088.v3a_896f5e4937
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
@@ -79,7 +79,7 @@ okhttp-api:4.11.0-189.v976fa_d3379d6
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
-pipeline-graph-view:637.vb_6105ed84508
+pipeline-graph-view:642.v39f37c8e1e70
 pipeline-groovy-lib:752.vdddedf804e72
 pipeline-input-step:534.v352f0a_e98918
 pipeline-milestone-step:138.v78ca_76831a_43
