@@ -1,4 +1,4 @@
-analysis-model-api:13.8.0-902.v26f80296f743
+analysis-model-api:13.9.0-909.v97dd3a_07c53e
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -7,7 +7,7 @@ azure-credentials:395.vb_a_9203343ef5
 azure-sdk:248.v0c922122245c
 azure-vm-agents:1053.v5b_86d7b_d9211
 basic-branch-build-strategies:275.vde2351b_4a_58b_
-bootstrap5-api:5.3.8-876.vb_c62a_27d9a_77
+bootstrap5-api:5.3.8-890.v1c5cf4fa_178e
 bouncycastle-api:2.30.1.81-264.v95c79c0e772c
 branch-api:2.1253.v6e7f7519f710
 caffeine-api:3.2.2-178.v353b_8428ed56
@@ -75,7 +75,7 @@ metrics:4.2.33-484.v2fcd689980d1
 mina-sshd-api-common:2.16.0-167.va_269f38cc024
 mina-sshd-api-core:2.16.0-167.va_269f38cc024
 node-iterator-api:72.vc90e81737df1
-okhttp-api:4.11.0-189.v976fa_d3379d6
+okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
@@ -113,7 +113,7 @@ warnings-ng:12.9783.ve1cb_9f060738
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
-workflow-basic-steps:1079.vce64b_a_929c5a_
+workflow-basic-steps:1098.v808b_fd7f8cf4
 workflow-cps:4183.v94b_6fd39da_c1
 workflow-durable-task-step:1464.v2d3f5c68f84c
 workflow-job:1546.v62a_c59c112dd
