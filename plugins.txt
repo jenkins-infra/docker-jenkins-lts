@@ -5,7 +5,7 @@ apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:395.vb_a_9203343ef5
 azure-sdk:248.v0c922122245c
-azure-vm-agents:1053.v5b_86d7b_d9211
+azure-vm-agents:1055.v924d639291f4
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
 bouncycastle-api:2.30.1.81-264.v95c79c0e772c
@@ -40,7 +40,7 @@ git-client:6.4.0
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1864.v411feec5e78e
+github-branch-source:1869.vdb_846d75405b_
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
@@ -67,7 +67,7 @@ kubernetes:4371.vb_33b_086d54a_1
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:206.vde31a_b_0f71a_c
 kubernetes-credentials-provider:1.299.v610fa_e76761a_
-ldap:780.vcb_33c9a_e4332
+ldap:793.v754d6b_41b_ea_4
 mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
 matrix-project:858.vb_b_eb_9a_7ea_99e
@@ -79,7 +79,7 @@ okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
-pipeline-graph-view:642.v39f37c8e1e70
+pipeline-graph-view:646.va_da_a_047edca_c
 pipeline-groovy-lib:763.v13008816b_de7
 pipeline-input-step:534.v352f0a_e98918
 pipeline-milestone-step:138.v78ca_76831a_43
