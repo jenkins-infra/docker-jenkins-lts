@@ -4,7 +4,7 @@ antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:395.vb_a_9203343ef5
-azure-sdk:248.v0c922122245c
+azure-sdk:254.v895ca_4461c94
 azure-vm-agents:1055.v924d639291f4
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
