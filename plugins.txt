@@ -109,7 +109,7 @@ token-macro:477.vd4f0dc3cb_cf1
 toolenv:1.2
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
-warnings-ng:12.9824.v4de304561b_de
+warnings-ng:12.9848.v5603977006f2
 windows-azure-storage:469.v75a_3db_ea_d2b_a_
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
