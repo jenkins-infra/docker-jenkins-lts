@@ -40,7 +40,7 @@ git-client:6.4.0
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1906.v21c5c13d25c6
+github-branch-source:1910.v4ca_b_2c639cb_0
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
@@ -110,7 +110,7 @@ toolenv:1.2
 trilead-api:2.209.v0e69b_c43c245
 variant:70.va_d9f17f859e0
 warnings-ng:12.9848.v5603977006f2
-windows-azure-storage:469.v75a_3db_ea_d2b_a_
+windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
 workflow-basic-steps:1098.v808b_fd7f8cf4
