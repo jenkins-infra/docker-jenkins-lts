@@ -96,7 +96,7 @@ pubsub-light:1.19
 scm-api:712.v8846fdd68c88
 scm-filter-branch-pr:222.v72301ecb_a_ee7
 script-security:1378.vf25626395f49
-snakeyaml-api:2.3-125.v4d77857a_b_402
+snakeyaml-api:2.5-143.v93b_c004f89de
 sse-gateway:1.28
 ssh-agent:386.v36cc0c7582f0
 ssh-credentials:361.vb_f6760818e8c
