@@ -69,7 +69,7 @@ kubernetes-credentials:206.vde31a_b_0f71a_c
 kubernetes-credentials-provider:1.299.v610fa_e76761a_
 ldap:793.v754d6b_41b_ea_4
 mailer:522.va_995fa_cfb_8b_d
-matrix-auth:3.2.8
+matrix-auth:3.2.9
 matrix-project:870.v9db_fcfc2f45b_
 metrics:4.2.37-489.vb_6db_69b_ce753
 mina-sshd-api-common:2.16.0-167.va_269f38cc024
