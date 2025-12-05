@@ -1,4 +1,4 @@
-analysis-model-api:13.15.0-928.v63f6dc44cfd2
+analysis-model-api:13.17.0-931.v730d8659ea_9c
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -63,7 +63,7 @@ job-dsl:1.93
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1369.v15da_00283f06
-kubernetes:4392.v19cea_fdb_5913
+kubernetes:4398.vb_b_33d9e7fe23
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:206.vde31a_b_0f71a_c
 kubernetes-credentials-provider:1.299.v610fa_e76761a_
