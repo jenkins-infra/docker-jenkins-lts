@@ -1,4 +1,4 @@
-analysis-model-api:13.17.0-931.v730d8659ea_9c
+analysis-model-api:13.18.0-933.v90e9a_fdff4e2
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -36,7 +36,7 @@ extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1772.v99ca_3d83b_9fa_
 git:5.8.1
-git-client:6.4.1
+git-client:6.4.2
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
@@ -108,7 +108,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.9848.v5603977006f2
+warnings-ng:12.9923.v0a_d61546e93d
 windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
