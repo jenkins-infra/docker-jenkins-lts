@@ -1,4 +1,4 @@
-analysis-model-api:13.18.0-933.v90e9a_fdff4e2
+analysis-model-api:13.18.0-935.v784ca_107400a_
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -36,7 +36,7 @@ extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1772.v99ca_3d83b_9fa_
 git:5.8.1
-git-client:6.4.2
+git-client:6.4.3
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
