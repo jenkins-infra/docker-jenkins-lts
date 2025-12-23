@@ -1,4 +1,4 @@
-analysis-model-api:13.18.0-933.v90e9a_fdff4e2
+analysis-model-api:13.18.0-935.v784ca_107400a_
 ansicolor:1.0.6
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -27,7 +27,7 @@ credentials-binding:702.vfe613e537e88
 csp:1.43.vb_e0a_fd67d28d
 customizable-header:251.251.v49b_7da_e6c61a_
 dark-theme:574.va_19f05d54df5
-data-tables-api:2.3.5-1482.vb_47a_3c19f78c
+data-tables-api:2.3.5-1497.v38449eb_7d5a_1
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:457.v0f62a_94f11a_3
 durable-task:639.vefb_3d8372f6d
@@ -36,7 +36,7 @@ extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1772.v99ca_3d83b_9fa_
 git:5.8.1
-git-client:6.4.2
+git-client:6.4.3
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
@@ -108,7 +108,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.9923.v0a_d61546e93d
+warnings-ng:12.9936.vda_5743ded29a_
 windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
