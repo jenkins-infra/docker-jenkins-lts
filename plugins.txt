@@ -6,14 +6,14 @@ authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:404.vd0fb_33a_8a_14e
 azure-sdk:259.vf079c96088a_f
 azure-vm-agents:1075.v0de0eb_b_27544
-basic-branch-build-strategies:275.vde2351b_4a_58b_
+basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
 bouncycastle-api:2.30.1.82-277.v70ca_0b_877184
 branch-api:2.1268.v044a_87612da_8
 caffeine-api:3.2.3-194.v31a_b_f7a_b_5a_81
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.2.2
+cloudbees-bitbucket-branch-source:937.2.3
 cloudbees-folder:6.1073.va_7888eb_dd514
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
@@ -36,8 +36,8 @@ extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1772.v99ca_3d83b_9fa_
 git:5.8.1
-git-client:6.4.3
-git-forensics:3.2138.vf25ea_d549e33
+git-client:6.5.0
+git-forensics:3.2274.v3dc0fd546572
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1917.v9ee8a_39b_3d0d
@@ -108,7 +108,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.9936.vda_5743ded29a_
+warnings-ng:12.9957.v418f12633413
 windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
