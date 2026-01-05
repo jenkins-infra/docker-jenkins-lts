@@ -108,7 +108,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.9966.v124d0a_a_64610
+warnings-ng:12.9968.v32e16c95d54a_
 windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
