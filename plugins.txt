@@ -22,7 +22,7 @@ commons-text-api:1.15.0-210.v7480a_da_70b_9e
 configuration-as-code:2006.v001a_2ca_6b_574
 copyartifact:770.va_6c69e063442
 coverage:2.3060.v035a_5557cdb_c
-credentials:1460.v48765a_c7d849
+credentials:1462.v21d5e767269e
 credentials-binding:702.vfe613e537e88
 csp:1.43.vb_e0a_fd67d28d
 customizable-header:251.251.v49b_7da_e6c61a_
@@ -66,7 +66,7 @@ junit:1369.v15da_00283f06
 kubernetes:4398.vb_b_33d9e7fe23
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
-kubernetes-credentials-provider:1.299.v610fa_e76761a_
+kubernetes-credentials-provider:1.301.v2eed6d439a_79
 ldap:793.v754d6b_41b_ea_4
 mailer:525.v2458b_d8a_1a_71
 matrix-auth:3.2.9
