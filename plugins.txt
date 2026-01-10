@@ -63,7 +63,7 @@ job-dsl:1.93
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1369.v15da_00283f06
-kubernetes:4398.vb_b_33d9e7fe23
+kubernetes:4416.v2ea_b_5372da_a_e
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.301.v2eed6d439a_79
@@ -108,7 +108,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.9980.va_b_9d5c58d960
+warnings-ng:12.9983.v671a_6b_46f8f1
 windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1384.vdc05a_48f535f
