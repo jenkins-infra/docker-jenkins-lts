@@ -63,7 +63,7 @@ job-dsl:1.93
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1369.v15da_00283f06
-kubernetes:4416.v2ea_b_5372da_a_e
+kubernetes:4419.v36079e3b_eb_5b_
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.301.v2eed6d439a_79
