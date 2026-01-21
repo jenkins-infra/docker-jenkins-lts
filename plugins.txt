@@ -24,7 +24,6 @@ copyartifact:795.ve8e151429b_27
 coverage:2.3120.v73353a_97726e
 credentials:1480.v2246fd131e83
 credentials-binding:702.vfe613e537e88
-csp:2.58.v31cd65258cb_2
 customizable-header:261.va_95557fc5e92
 dark-theme:574.va_19f05d54df5
 data-tables-api:2.3.5-1497.v38449eb_7d5a_1
