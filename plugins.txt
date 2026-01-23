@@ -90,7 +90,7 @@ pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-view:2.39
 plain-credentials:199.v9f8e1f741799
 plugin-util-api:6.1192.v30fe6e2837ff
-prism-api:1.30.0-630.va_e19d17f83b_0
+prism-api:1.30.0-701.vf8f8f1f3fd55
 pubsub-light:1.19
 scm-api:724.v7d839074eb_5c
 scm-filter-branch-pr:264.v39ce4f34d572
