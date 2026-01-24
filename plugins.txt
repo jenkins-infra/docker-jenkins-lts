@@ -78,7 +78,7 @@ okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
-pipeline-graph-view:752.v01113dc49630
+pipeline-graph-view:763.v0e91db_e845ee
 pipeline-groovy-lib:787.ve2fef0efdca_6
 pipeline-input-step:540.v14b_100d754dd
 pipeline-milestone-step:138.v78ca_76831a_43
