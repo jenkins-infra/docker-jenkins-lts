@@ -34,7 +34,7 @@ echarts-api:6.0.0-1165.vd1283a_3e37d4
 extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1832.va_1179842528b_
-git:5.8.1
+git:5.9.0
 git-client:6.5.0
 git-forensics:3.2274.v3dc0fd546572
 github:1.45.0
