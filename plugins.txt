@@ -19,9 +19,9 @@ cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
 commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-210.v7480a_da_70b_9e
-configuration-as-code:2031.veb_a_fdda_b_3ffd
+configuration-as-code:2036.v0b_c2de701dcb_
 copyartifact:795.ve8e151429b_27
-coverage:2.3120.v73353a_97726e
+coverage:2.3130.vcc932e7702b_8
 credentials:1480.v2246fd131e83
 credentials-binding:702.vfe613e537e88
 customizable-header:267.v8b_74097f488d
@@ -61,7 +61,7 @@ jnr-posix-api:3.1.21-186.vb_7ec9b_23ce83
 job-dsl:1.93
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1380.v491ff054cd35
+junit:1396.v095840ed8491
 kubernetes:4423.vb_59f230b_ce53
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
