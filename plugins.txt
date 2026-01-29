@@ -19,9 +19,9 @@ cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
 commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-210.v7480a_da_70b_9e
-configuration-as-code:2036.v0b_c2de701dcb_
+configuration-as-code:2037.v8e5349845172
 copyartifact:795.ve8e151429b_27
-coverage:2.3130.vcc932e7702b_8
+coverage:2.3139.v731d2e83ea_8a_
 credentials:1480.v2246fd131e83
 credentials-binding:702.vfe613e537e88
 customizable-header:267.v8b_74097f488d
@@ -39,7 +39,7 @@ git-client:6.5.0
 git-forensics:3.2274.v3dc0fd546572
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1934.v23cf60a_47fc3
+github-branch-source:1936.vfa_a_5c2cef4e7
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 groovy:497.v7b_061a_a_de65d
