@@ -78,7 +78,7 @@ okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
-pipeline-graph-view:763.v0e91db_e845ee
+pipeline-graph-view:772.vb_b_19985c0b_8b_
 pipeline-groovy-lib:787.ve2fef0efdca_6
 pipeline-input-step:540.v14b_100d754dd
 pipeline-milestone-step:138.v78ca_76831a_43
@@ -96,7 +96,7 @@ scm-api:724.v7d839074eb_5c
 scm-filter-branch-pr:264.v39ce4f34d572
 script-security:1385.v7d2d9ec4d909
 snakeyaml-api:2.5-143.v93b_c004f89de
-sse-gateway:1.28
+sse-gateway:1.29
 ssh-agent:386.v36cc0c7582f0
 ssh-credentials:361.vb_f6760818e8c
 sshd:3.374.v19b_d59ce6610
