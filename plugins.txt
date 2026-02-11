@@ -108,7 +108,7 @@ token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
 warnings-ng:12.10010.vca_9e003f32a_2
-windows-azure-storage:534.v3964f6b_f4338
+windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1398.v67030756d3fb_
 workflow-basic-steps:1098.v808b_fd7f8cf4
