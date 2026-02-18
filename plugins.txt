@@ -22,7 +22,7 @@ commons-text-api:1.15.0-210.v7480a_da_70b_9e
 configuration-as-code:2037.v8e5349845172
 copyartifact:795.ve8e151429b_27
 coverage:2.3139.v731d2e83ea_8a_
-credentials:1489.v375944c125ee
+credentials:1490.ve7532596f1fd
 credentials-binding:717.v951d49b_5f3a_a_
 customizable-header:284.vf03012f0b_961
 dark-theme:574.va_19f05d54df5
