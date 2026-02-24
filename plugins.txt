@@ -62,6 +62,7 @@ job-dsl:3654.vdf58f53e2d15
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1396.v095840ed8491
+junit-attachments:367.v30757752b_2b_f
 kubernetes:4423.vb_59f230b_ce53
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
