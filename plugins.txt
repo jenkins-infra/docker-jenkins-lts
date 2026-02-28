@@ -13,7 +13,7 @@ branch-api:2.1280.v0d4e5b_b_460ef
 caffeine-api:3.2.3-194.v31a_b_f7a_b_5a_81
 checks-api:402.vca_263b_f200e3
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.2.4
+cloudbees-bitbucket-branch-source:937.2.5
 cloudbees-folder:6.1079.vc0975c2de294
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
