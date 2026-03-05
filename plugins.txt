@@ -26,13 +26,13 @@ credentials:1491.v6d6145e96e1c
 credentials-binding:717.v951d49b_5f3a_a_
 customizable-header:292.v401b_17c12e68
 dark-theme:574.va_19f05d54df5
-data-tables-api:2.3.5-1497.v38449eb_7d5a_1
+data-tables-api:2.3.7-1534.v539d4edf109d
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:457.v0f62a_94f11a_3
-durable-task:651.v1f5e074fc83f
+durable-task:664.v2b_e7a_dfff66c
 echarts-api:6.0.0-1165.vd1283a_3e37d4
 extended-read-permission:68.vd270568a_7520
-font-awesome-api:7.1.0-882.v1dfb_771e3278
+font-awesome-api:7.2.0-965.ve3840b_696418
 forensics-api:3.1832.va_1179842528b_
 git:5.10.0
 git-client:6.5.0
@@ -78,7 +78,7 @@ okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:777.vdeb_113b_b_94da_
+pipeline-graph-view:803.vb_88f7a_a_1cb_47
 pipeline-groovy-lib:787.ve2fef0efdca_6
 pipeline-input-step:540.v14b_100d754dd
 pipeline-milestone-step:138.v78ca_76831a_43
