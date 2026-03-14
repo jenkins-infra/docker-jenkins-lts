@@ -42,7 +42,7 @@ github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1967.vdea_d580c1a_b_a_
 github-checks:676.v48c732b_52951
 github-label-filter:1.0.0
-groovy:497.v7b_061a_a_de65d
+groovy:537.v741a_5a_f1b_581
 handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427
 inline-pipeline:1.0.32.vf433f2d57630
