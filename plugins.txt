@@ -61,7 +61,7 @@ jnr-posix-api:3.1.21-186.vb_7ec9b_23ce83
 job-dsl:3654.vdf58f53e2d15
 jquery3-api:3.7.1-619.vdb_10e002501a_
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1402.va_87fd3d15dc3
+junit:1403.vd9d1413fd205
 kubernetes:4423.vb_59f230b_ce53
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
