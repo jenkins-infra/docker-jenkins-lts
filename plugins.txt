@@ -13,7 +13,7 @@ branch-api:2.1280.v0d4e5b_b_460ef
 caffeine-api:3.2.3-194.v31a_b_f7a_b_5a_81
 checks-api:402.vca_263b_f200e3
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.2.5
+cloudbees-bitbucket-branch-source:937.2.6
 cloudbees-folder:6.1079.vc0975c2de294
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 command-launcher:123.v37cfdc92ef67
@@ -23,7 +23,7 @@ configuration-as-code:2056.v6a_e126e16620
 copyartifact:795.ve8e151429b_27
 coverage:2.3139.v731d2e83ea_8a_
 credentials:1498.vd852f8831d79
-credentials-binding:717.v951d49b_5f3a_a_
+credentials-binding:719.v80e905ef14eb_
 customizable-header:295.v2544b_ca_19b_97
 dark-theme:652.vea_da_dfea_e769
 data-tables-api:2.3.7-1534.v539d4edf109d
@@ -35,7 +35,7 @@ extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.2.0-965.ve3840b_696418
 forensics-api:3.1832.va_1179842528b_
 git:5.10.1
-git-client:6.5.0
+git-client:6.6.0
 git-forensics:3.2274.v3dc0fd546572
 github:1.46.0
 github-api:1.330-492.v3941a_032db_2a_
@@ -78,7 +78,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:803.vb_88f7a_a_1cb_47
+pipeline-graph-view:819.ved496c19e082
 pipeline-groovy-lib:787.ve2fef0efdca_6
 pipeline-input-step:540.v14b_100d754dd
 pipeline-milestone-step:138.v78ca_76831a_43
