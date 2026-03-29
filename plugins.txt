@@ -5,7 +5,7 @@ apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:421.vb_ffd07e951a_2
 azure-sdk:259.vf079c96088a_f
-azure-vm-agents:1102.vb_f208c08039b_
+azure-vm-agents:1103.ve4a_50ca_2c617
 basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
 bouncycastle-api:2.30.1.83-289.v8426fcd19371
