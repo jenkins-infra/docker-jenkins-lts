@@ -48,7 +48,7 @@ htmlpublisher:427
 inline-pipeline:1.0.32.vf433f2d57630
 instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:94.vcc3065403257
-jackson2-api:2.21.1-431.v30a_74465f776
+jackson2-api:2.21.2-433.v6d50b_92cfe52
 jakarta-activation-api:2.1.4-1
 jakarta-mail-api:2.1.5-1
 javax-activation-api:1.2.0-8
