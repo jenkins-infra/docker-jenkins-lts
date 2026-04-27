@@ -1,6 +1,8 @@
 name: Release Drafter
 on:
   push:
+    branches:
+      - main
   workflow_dispatch:
   release:
 # Only allow 1 release-drafter build at a time to avoid creating multiple "next" releases
@@ -14,10 +16,9 @@ jobs:
         with:
           fetch-depth: 0
       - name: Release Drafter
-        uses: release-drafter/release-drafter@6db134d15f3909ccc9eefd369f02bd1e9cffdf97 # v6.2.0
+        uses: release-drafter/release-drafter@5de93583980a40bd78603b6dfdcda5b4df377b32 # v7.2.0
         with:
           name: next
           tag: next
           version: next
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
