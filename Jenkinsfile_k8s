@@ -1,5 +1,5 @@
 buildDockerAndPublishImage('jenkins-lts', [
     publishToPrivateAzureRegistry: true,
     targetplatforms: 'linux/arm64',
-    nextVersionCommand: 'echo "$(jx-release-version -next-version=semantic:strip-prerelease)-$(grep "FROM jenkins" Dockerfile | cut -d: -f2 | cut -d- -f1)"',
+    nextVersionCommand: 'git gc && echo "$(jx-release-version -next-version=semantic:strip-prerelease)-$(grep "FROM jenkins" Dockerfile | cut -d: -f2 | cut -d- -f1)"',
 ])
