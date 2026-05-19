@@ -29,7 +29,7 @@ dark-theme:652.vea_da_dfea_e769
 data-tables-api:2.3.8-1570.v1cb_1cd2a_0fb_c
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:472.vee120e23d3a_c
-durable-task:664.v2b_e7a_dfff66c
+durable-task:671.v340ff7959010
 echarts-api:6.0.0-1287.vfd24c22a_3d00
 extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.2.0-990.vf220b_2a_496f9
@@ -78,7 +78,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:902.v160b_da_c934b_c
+pipeline-graph-view:903.v86ded4d9c36b_
 pipeline-groovy-lib:797.v90ea_a_9b_e45a_0
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
