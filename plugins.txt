@@ -1,4 +1,4 @@
-analysis-model-api:14.13.0-998.v6dec20409ce6
+analysis-model-api:14.14.0-1004.vf53c9efb_f455
 ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -10,10 +10,10 @@ basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-1048.va_c299057e35c
 bouncycastle-api:2.30.1.84-291.v9f17b_21896e2
 branch-api:2.1280.v0d4e5b_b_460ef
-caffeine-api:3.2.3-194.v31a_b_f7a_b_5a_81
+caffeine-api:3.2.4-208.v7e2da_a_7db_82b_
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.2
+cloudbees-bitbucket-branch-source:937.3.3
 cloudbees-folder:6.1100.ve9eed61d16c4
 cloudbees-jenkins-advisor:410.v52855a_9ca_3f6
 command-launcher:134.v025a_5fcf9dea_
@@ -36,7 +36,7 @@ font-awesome-api:7.2.0-990.vf220b_2a_496f9
 forensics-api:4.1891.v5e60f3377506
 git:5.10.1
 git-client:6.6.1
-git-forensics:4.2385.va_e15df49d352
+git-forensics:4.2416.v46d45e29f28f
 github:1.47.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1967.1970.vd86979736546
@@ -48,7 +48,7 @@ htmlpublisher:427.1
 inline-pipeline:1.0.32.vf433f2d57630
 instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:94.vcc3065403257
-jackson2-api:2.21.2-436.v29efdb_7418ff
+jackson2-api:2.22.0-439.vb_b_43658d6176
 jakarta-activation-api:2.1.4-1
 jakarta-mail-api:2.1.5-1
 javax-activation-api:1.2.0-8
@@ -57,7 +57,7 @@ jaxb:2.3.9-143.v5979df3304e6
 jdk-tool:83.v417146707a_3d
 jersey2-api:2.48-180.ve47b_264f849b_
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
-jnr-posix-api:3.1.22-204.v925e2b_09a_42c
+jnr-posix-api:3.2.1-213.v7401d99f6220
 job-dsl:3654.vdf58f53e2d15
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
@@ -78,7 +78,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:949.v1cf0f01ca_cfa_
+pipeline-graph-view:953.v23894ccf0079
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
