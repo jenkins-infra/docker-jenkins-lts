@@ -13,13 +13,13 @@ branch-api:2.1280.v0d4e5b_b_460ef
 caffeine-api:3.2.4-208.v7e2da_a_7db_82b_
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.5
+cloudbees-bitbucket-branch-source:937.3.6
 cloudbees-folder:6.1100.ve9eed61d16c4
 cloudbees-jenkins-advisor:410.v52855a_9ca_3f6
 command-launcher:134.v025a_5fcf9dea_
 commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-218.va_61573470393
-configuration-as-code:2099.ve3a_6e23f4960
+configuration-as-code:2100.vb_fd699d2a_09c
 copyartifact:795.ve8e151429b_27
 coverage:3.3278.va_04d3e352354
 credentials:1506.v948b_b_b_7dec44
@@ -29,7 +29,7 @@ dark-theme:652.vea_da_dfea_e769
 data-tables-api:2.3.8-1570.v1cb_1cd2a_0fb_c
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:472.vee120e23d3a_c
-durable-task:683.vc64df45d8780
+durable-task:686.v80ff80875b_82
 echarts-api:6.0.0-1287.vfd24c22a_3d00
 extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.2.0-990.vf220b_2a_496f9
@@ -68,7 +68,7 @@ kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.303.vdfcf47fb_b_fef
 ldap:807.809.vd3a_4e5e4ec98
 mailer:534.v1b_36f5864073
-matrix-auth:3.2.10
+matrix-auth:3.3
 matrix-project:870.v9db_fcfc2f45b_
 metrics:4.2.37-494.v06f9a_939d33a_
 mina-sshd-api-common:2.17.1-187.v0341274c2905
