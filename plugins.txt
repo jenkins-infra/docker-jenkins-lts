@@ -28,11 +28,11 @@ customizable-header:295.v2544b_ca_19b_97
 dark-theme:652.vea_da_dfea_e769
 data-tables-api:2.3.8-1570.v1cb_1cd2a_0fb_c
 display-url-api:2.217.va_6b_de84cc74b_
-docker-commons:472.vee120e23d3a_c
+docker-commons:477.v289085a_b_6896
 durable-task:686.v80ff80875b_82
-echarts-api:6.0.0-1287.vfd24c22a_3d00
+echarts-api:6.1.0-1306.vcee1648c16a_4
 extended-read-permission:68.vd270568a_7520
-font-awesome-api:7.2.0-990.vf220b_2a_496f9
+font-awesome-api:7.3.1-1013.v0835a_879ec6d
 forensics-api:4.1891.v5e60f3377506
 git:5.10.1
 git-client:6.6.1
@@ -61,7 +61,7 @@ jnr-posix-api:3.2.1-213.v7401d99f6220
 job-dsl:3654.vdf58f53e2d15
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1415.vcb_3245e24402
+junit:1416.vd753e036de5e
 kubernetes:4467.vf26561292824
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
@@ -75,7 +75,7 @@ mina-sshd-api-common:2.17.1-187.v0341274c2905
 mina-sshd-api-core:2.17.1-187.v0341274c2905
 node-iterator-api:72.vc90e81737df1
 okhttp-api:5.3.2-200.vedb_720a_cf1f8
-pipeline-build-step:584.vdb_a_2cc3a_d07a_
+pipeline-build-step:599.v4b_67ea_11b_152
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
 pipeline-graph-view:963.v2a_b_019810b_e1
@@ -97,7 +97,7 @@ scm-filter-branch-pr:264.v39ce4f34d572
 script-security:1402.1405.vc96e74964250
 snakeyaml-api:2.5-149.v72471e9c6371
 sse-gateway:1.29
-ssh-agent:402.vc9cec9230d4b_
+ssh-agent:404.veb_3e5e0ec9db_
 ssh-credentials:372.va_250881b_08cd
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
