@@ -61,7 +61,7 @@ jnr-posix-api:3.2.1-213.v7401d99f6220
 job-dsl:3654.vdf58f53e2d15
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1416.vd753e036de5e
+junit:1418.v67a_81935603c
 kubernetes:4540.v612369217f87
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
@@ -71,8 +71,8 @@ mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:905.vcc6831e8760a_
 metrics:4.2.37-494.v06f9a_939d33a_
-mina-sshd-api-common:2.17.1-187.v0341274c2905
-mina-sshd-api-core:2.17.1-187.v0341274c2905
+mina-sshd-api-common:2.19.0-192.v2b_a_7b_2c1dc71
+mina-sshd-api-core:2.19.0-192.v2b_a_7b_2c1dc71
 node-iterator-api:72.vc90e81737df1
 okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:599.v4b_67ea_11b_152
