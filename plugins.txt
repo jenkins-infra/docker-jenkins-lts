@@ -21,7 +21,7 @@ commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-218.va_61573470393
 configuration-as-code:2116.v98dde145b_dce
 copyartifact:795.ve8e151429b_27
-coverage:3.3311.v42c5a_f929e3e
+coverage:3.3316.v6a_d158309c7a_
 credentials:1506.v948b_b_b_7dec44
 credentials-binding:728.v902a_273b_8947
 customizable-header:295.v2544b_ca_19b_97
@@ -33,10 +33,10 @@ durable-task:686.v80ff80875b_82
 echarts-api:6.1.0-1306.vcee1648c16a_4
 extended-read-permission:68.vd270568a_7520
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
-forensics-api:4.1891.v5e60f3377506
+forensics-api:4.1923.v445c56df9b_2e
 git:5.10.1
 git-client:6.6.1
-git-forensics:4.2416.v46d45e29f28f
+git-forensics:4.2463.vf6fecb_444a_b_3
 github:1.47.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1983.vfa_27ed961853
@@ -94,7 +94,7 @@ prism-api:1.30.0-741.v034eb_0b_0a_a_fa_
 pubsub-light:1.19
 scm-api:728.vc30dcf7a_0df5
 scm-filter-branch-pr:264.v39ce4f34d572
-script-security:1402.1405.vc96e74964250
+script-security:1412.v7737b_3405f86
 snakeyaml-api:2.5-149.v72471e9c6371
 sse-gateway:1.29
 ssh-agent:416.v4d76015a_5d68
