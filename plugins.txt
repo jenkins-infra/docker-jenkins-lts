@@ -1,4 +1,4 @@
-analysis-model-api:14.14.0-1004.vf53c9efb_f455
+analysis-model-api:14.16.0-1014.v2802998b_7789
 ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -21,7 +21,7 @@ commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-218.va_61573470393
 configuration-as-code:2116.v98dde145b_dce
 copyartifact:795.ve8e151429b_27
-coverage:3.3316.v6a_d158309c7a_
+coverage:3.3318.vdf8029e5c4cd
 credentials:1506.v948b_b_b_7dec44
 credentials-binding:728.v902a_273b_8947
 customizable-header:295.v2544b_ca_19b_97
@@ -44,7 +44,7 @@ github-checks:679.v74133da_b_435a_
 github-label-filter:1.0.0
 groovy:537.v741a_5a_f1b_581
 handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
-htmlpublisher:427.1
+htmlpublisher:428
 inline-pipeline:1.0.32.vf433f2d57630
 instance-identity:203.v15e81a_1b_7a_38
 ionicons-api:94.vcc3065403257
@@ -97,7 +97,7 @@ scm-filter-branch-pr:264.v39ce4f34d572
 script-security:1412.v7737b_3405f86
 snakeyaml-api:2.5-149.v72471e9c6371
 sse-gateway:1.29
-ssh-agent:416.v4d76015a_5d68
+ssh-agent:417.v1d50b_f28f0e0
 ssh-credentials:372.va_250881b_08cd
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
