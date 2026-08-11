@@ -19,10 +19,10 @@ cloudbees-jenkins-advisor:410.v52855a_9ca_3f6
 command-launcher:134.v025a_5fcf9dea_
 commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-218.va_61573470393
-configuration-as-code:2116.v98dde145b_dce
+configuration-as-code:2117.vc05a_0b_e6b_f4e
 copyartifact:795.ve8e151429b_27
 coverage:3.3325.v2f3dd167a_b_e5
-credentials:1506.v948b_b_b_7dec44
+credentials:1511.v2e3cb_0008ef0
 credentials-binding:728.v902a_273b_8947
 customizable-header:295.v2544b_ca_19b_97
 dark-theme:652.vea_da_dfea_e769
@@ -65,7 +65,7 @@ junit:1418.v67a_81935603c
 kubernetes:4540.v612369217f87
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
-kubernetes-credentials-provider:1.303.vdfcf47fb_b_fef
+kubernetes-credentials-provider:1.315.v92008589c044
 ldap:807.809.vd3a_4e5e4ec98
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
@@ -78,7 +78,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:599.v4b_67ea_11b_152
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:980.vb_db_0b_e5f683c
+pipeline-graph-view:998.vc30deece0e36
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
@@ -97,7 +97,7 @@ scm-filter-branch-pr:264.v39ce4f34d572
 script-security:1412.v7737b_3405f86
 snakeyaml-api:2.5-149.v72471e9c6371
 sse-gateway:1.29
-ssh-agent:417.v1d50b_f28f0e0
+ssh-agent:418.v59904cc02b_71
 ssh-credentials:372.va_250881b_08cd
 sshd:3.384.vc89b_5e138cf9
 structs:362.va_b_695ef4fdf9
