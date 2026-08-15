@@ -31,7 +31,7 @@ display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:477.v289085a_b_6896
 durable-task:686.v80ff80875b_82
 echarts-api:6.1.0-1306.vcee1648c16a_4
-extended-read-permission:68.vd270568a_7520
+extended-read-permission:92.v1b_f0c20b_75db_
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 forensics-api:4.1923.v445c56df9b_2e
 git:5.10.1
