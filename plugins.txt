@@ -4,7 +4,7 @@ antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:426.v5627e6a_4c7a_7
-azure-sdk:284.vb_4128d6c7561
+azure-sdk:290.vf82a_b_3911a_c0
 azure-vm-agents:1105.vb_8a_2393410b_7
 basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-1048.va_c299057e35c
@@ -61,7 +61,7 @@ jnr-posix-api:3.2.1-213.v7401d99f6220
 job-dsl:3732.v9a_c49a_61a_313
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1418.v67a_81935603c
+junit:1420.vcffa_f990a_d63
 kubernetes:4547.v52f3080db_8cd
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
