@@ -61,7 +61,7 @@ jnr-posix-api:3.2.4-223.v4f0cfd7fa_006
 job-dsl:3732.v9a_c49a_61a_313
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1428.vef95b_fa_89508
+junit:1431.vc0d98912a_756
 kubernetes:4557.ve746270f672f
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
@@ -78,7 +78,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1038.v5b_b_dfc9553cf
+pipeline-graph-view:1041.v107d70db_b_1a_f
 pipeline-groovy-lib:806.v408277b_33d1d
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
