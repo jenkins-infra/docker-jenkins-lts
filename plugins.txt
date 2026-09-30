@@ -5,7 +5,7 @@ apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
 authentication-tokens:1.144.v5ff4a_5ec5c33
 azure-credentials:426.v5627e6a_4c7a_7
 azure-sdk:292.v2db_0b_b_b_50d35
-azure-vm-agents:1105.vb_8a_2393410b_7
+azure-vm-agents:1115.v63f3a_1ec4864
 basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-1048.va_c299057e35c
 bouncycastle-api:2.30.1.85.2-304.v4b_5b_62e59a_a_7
@@ -20,8 +20,8 @@ command-launcher:141.v9578cf36b_311
 commons-lang3-api:3.20.0-109.ve43756e2d2b_4
 commons-text-api:1.15.0-218.va_61573470393
 configuration-as-code:2130.v3ef02f16a_34b_
-copyartifact:795.ve8e151429b_27
-coverage:3.3393.v529418274711
+copyartifact:805.v9d1393350780
+coverage:3.3394.v60e914558d29
 credentials:1511.v2e3cb_0008ef0
 credentials-binding:728.v902a_273b_8947
 customizable-header:330.v8a_8d87511ea_1
@@ -107,7 +107,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:13.10289.vdb_4e605fb_c80
+warnings-ng:13.10294.v3c81839da_a_e7
 windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1413.v2ff1a_5e720fa_
