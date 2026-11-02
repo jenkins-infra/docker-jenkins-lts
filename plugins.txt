@@ -21,7 +21,7 @@ commons-lang3-api:3.21.0-122.v6a_ea_4fd34049
 commons-text-api:1.15.0-218.va_61573470393
 configuration-as-code:2144.ve8c697101488
 copyartifact:805.v9d1393350780
-coverage:3.3499.v910e11c96847
+coverage:4.3515.v7615e06e7a_c4
 credentials:1514.vb_01eb_014e7d4
 credentials-binding:728.v902a_273b_8947
 customizable-header:330.v8a_8d87511ea_1
@@ -36,7 +36,7 @@ font-awesome-api:7.3.1-1013.v0835a_879ec6d
 forensics-api:4.1923.v445c56df9b_2e
 git:5.11.0
 git-client:6.6.1
-git-forensics:4.2554.v178e1e0c0a_62
+git-forensics:4.2557.v2c7f200dfc72
 github:1.47.0
 github-api:1.330-492.v3941a_032db_2a_
 github-branch-source:1986.v801e40614d00
@@ -57,11 +57,11 @@ jaxb:2.3.9-143.v5979df3304e6
 jdk-tool:83.v417146707a_3d
 jersey2-api:2.48-180.ve47b_264f849b_
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
-jnr-posix-api:3.2.4-223.v4f0cfd7fa_006
+jnr-posix-api:3.2.6-226.vb_c2388d1273f
 job-dsl:3732.v9a_c49a_61a_313
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1455.v5c1b_eed56292
+junit:1456.vdb_4425ca_0d4d
 kubernetes:4560.vc25b_83890c34
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
