@@ -19,14 +19,14 @@ cloudbees-jenkins-advisor:412.v9d1e9d6a_f428
 command-launcher:144.vb_6cb_566c6c04
 commons-lang3-api:3.21.0-122.v6a_ea_4fd34049
 commons-text-api:1.15.0-218.va_61573470393
-configuration-as-code:2144.ve8c697101488
+configuration-as-code:2147.v8a_8d38668c72
 copyartifact:805.v9d1393350780
 coverage:4.3515.v7615e06e7a_c4
 credentials:1514.vb_01eb_014e7d4
 credentials-binding:728.v902a_273b_8947
 customizable-header:330.v8a_8d87511ea_1
 dark-theme:652.vea_da_dfea_e769
-data-tables-api:2.3.8-1570.v1cb_1cd2a_0fb_c
+data-tables-api:2.3.8-1647.vb_492e141cc87
 display-url-api:2.217.va_6b_de84cc74b_
 docker-commons:477.v289085a_b_6896
 durable-task:686.v80ff80875b_82
