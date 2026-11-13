@@ -11,7 +11,7 @@ bootstrap5-api:5.3.8-1048.va_c299057e35c
 bouncycastle-api:2.30.1.86.2-310.v4655f6742752
 branch-api:2.1303.v9f3b_95dc329d
 caffeine-api:3.3.1-214.v18eb_56b_34920
-checks-api:438.v9fcc0f0e2013
+checks-api:440.v53a_b_6c39a_b_b_b_
 cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.11
 cloudbees-folder:6.1107.v31f8955765c8
@@ -35,7 +35,7 @@ extended-read-permission:92.v1b_f0c20b_75db_
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 forensics-api:4.1923.v445c56df9b_2e
 git:5.11.0
-git-client:6.7.0
+git-client:6.7.1
 git-forensics:4.2557.v2c7f200dfc72
 github:1.47.0
 github-api:1.330-492.v3941a_032db_2a_
@@ -118,4 +118,4 @@ workflow-job:1624.ve973eb_34e031
 workflow-multibranch:842.v3a_b_59b_57b_e6e
 workflow-scm-step:487.v41313a_96b_65d
 workflow-step-api:724.v538c2362b_dfb_
-workflow-support:1028.vc22910142650
+workflow-support:1035.v6a_23b_e298a_5d
