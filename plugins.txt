@@ -21,7 +21,7 @@ commons-lang3-api:3.21.0-122.v6a_ea_4fd34049
 commons-text-api:1.15.0-218.va_61573470393
 configuration-as-code:2147.v8a_8d38668c72
 copyartifact:805.v9d1393350780
-coverage:4.3571.v6574b_b_c580b_b_
+coverage:4.3583.v1a_a_ee48b_1b_dd
 credentials:1514.vb_01eb_014e7d4
 credentials-binding:728.v902a_273b_8947
 customizable-header:330.v8a_8d87511ea_1
@@ -58,7 +58,7 @@ jdk-tool:83.v417146707a_3d
 jersey2-api:2.48-180.ve47b_264f849b_
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 jnr-posix-api:3.2.8-230.v137a_18d87c13
-job-dsl:3732.v9a_c49a_61a_313
+job-dsl:3752.vb_199526b_20c3
 jquery3-api:3.7.1-687.v68d468e40b_30
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1458.1460.vd53b_087eeb_2c
